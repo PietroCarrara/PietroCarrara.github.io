@@ -1,0 +1,33 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include header.html %}
+<body>
+  {% include navbar.html %}
+  <div class="wrapper">
+    <main aria-label="Content">
+      <div class="not-found">
+        <div class="container">
+          <div class="title">404</div>
+          <p class="phrase" id="404-phrase"></p>
+          <a class="solution" href="{{ site.url }}">home</a>
+        </div>
+      </div>
+      <script>
+        var file = window.location.pathname;
+
+        document
+        .getElementById('404-phrase')
+        .innerText = `open: cannot access '${file}': No such file or directory`;
+      </script>
+    </main>
+    {% include footer.html %}
+</div>
+
+</body>
+
+</html>
