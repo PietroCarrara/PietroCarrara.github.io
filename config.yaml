@@ -1,0 +1,33 @@
+# disablePathToLower: true
+baseURL: https://pietrocarrara.github.io
+theme: m10c
+languageCode: en-us
+title: syslog
+
+menu:
+  main:
+    -
+      identifier: posts
+      name: Posts
+      url: /post/
+    -
+      identifier: tags
+      name: Tags
+      url: /tags/
+
+params:
+  menu_item_separator: " | "
+  author: Pietro Carrara
+  description: Personal blog where I write about anything. From movie reviews to my tech problems.
+  avatar: /img/avatar.jpg
+
+  social:
+    -
+      icon: github
+      name: Github
+      url: https://github.com/PietroCarrara
+    -
+      icon: film
+      name: TheMovieDB
+      url: https://www.themoviedb.org/u/piticarrara
+
