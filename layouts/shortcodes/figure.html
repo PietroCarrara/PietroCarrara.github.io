@@ -1,0 +1,21 @@
+<!--
+    Shortcode to display a figure (supports videos and images)
+
+    Arguments:
+        - 0: The file path
+        - Inner: The caption of the figure
+-->
+
+{{ $media := .Page.Resources.GetMatch (.Get 0) }}
+
+<div class="w-100 center">
+    <figure>
+        {{ if eq $media.ResourceType "video" }}
+            <video muted autoplay loop src="{{ $media.Permalink }}" class="w-66 floating"></video>
+        {{ end }}
+        {{ if eq $media.ResourceType "image" }}
+            <img src="{{ ($media.Fit "800x600 webp").Permalink }}" class="w-66 floating">
+        {{ end }}
+        <figcaption><em>{{ .Inner | safeHTML }}</em></figcaption>
+    </figure>
+</div>
