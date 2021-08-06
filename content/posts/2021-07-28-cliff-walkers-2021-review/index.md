@@ -16,4 +16,4 @@ Unfortunately, I can't say I enjoyed the movie to it's fullest. There were momen
 
 From what I've been able to research, this is actually a prequel to the 2012 TV show "悬崖" (Cliff) by the same writer, Quan Yongxian. In an [interview](https://inf.news/entertainment/bd5332246260958e06dc8ead644ec3da.html), he said that in 2015 he had written the script for this prequel as a 60-episode show. **If this had been a TV show – or even a book –, where things could flow in a more friendly pace, this would've been an absolute must-watch**.
 
-**Overall, it's a very good movie, and I recommend anyone interested to watch it**. Even though you'll scratch your head sometimes and may wish to rewind a bit to understand what is happening, the movie is perfectly enjoyable without an aforementioned flowchart.
+**Overall, it's a very good movie, and I recommend anyone interested to watch it**. Even though you'll scratch your head sometimes and may wish to rewind a bit to understand what is happening, the movie is perfectly enjoyable without the aforementioned flowchart.
