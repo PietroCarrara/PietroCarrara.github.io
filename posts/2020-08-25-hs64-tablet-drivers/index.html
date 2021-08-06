@@ -25,7 +25,7 @@ So I decided to borrow a pen-tablet from a friend who has a Wacom. It was a pret
 <a href=https://pietrocarrara.github.io><img class=app-header-avatar src=/img/avatar.jpg alt="Pietro Carrara"></a>
 <h1>syslog</h1>
 <nav class=app-header-menu>
-<a class=app-header-menu-item href=/post/>Posts</a>
+<a class=app-header-menu-item href=/posts/>Posts</a>
 |
 <a class=app-header-menu-item href=/tags/>Tags</a>
 </nav>
@@ -63,29 +63,21 @@ Simply plug it in and everything works out of the box. I even managed to get som
 <p>I returned it after 2~3 weeks, and decided I should buy one. I did some research, and Huion devices
 had lower prices; since I won&rsquo;t take drawing seriously, I chose their HS64 model.</p>
 <p>When it got here, the device wasn&rsquo;t plug-n-play, but installing the
-<a href=https://github.com/DIGImend/digimend-kernel-drivers target=_blank rel=noopener>
-digimend
-</a> drivers fixed this. At least partially.</p>
+<a href=https://github.com/DIGImend/digimend-kernel-drivers target=_blank rel=noopener>digimend</a> drivers fixed this. At least partially.</p>
 <p>Two things didn&rsquo;t work:</p>
 <ul>
 <li>The Wacom tools didn&rsquo;t recognize the device, so things like configuring the active area weren&rsquo;t possible (at least not in a simple way).</li>
 <li>Even though I could use the pen and its buttons, the 4 buttons present on the tablet weren&rsquo;t recognized.</li>
 </ul>
 <p>That was when I remembered this
-<a href="https://www.youtube.com/watch?v=juGNPLdjLH4" target=_blank rel=noopener>
-video
-</a>, sort of &ldquo;little tip&rdquo; on how to get started with kernel hacking through driver development. I think I have an idea!</p>
+<a href="https://www.youtube.com/watch?v=juGNPLdjLH4" target=_blank rel=noopener>video</a>, sort of &ldquo;little tip&rdquo; on how to get started with kernel hacking through driver development. I think I have an idea!</p>
 <p>Of course, the next thing I did was clone the digimend repository and try to understand it.</p>
 <p>My journey wouldn&rsquo;t last so long, however.</p>
 <p>The project&rsquo;s README is very useful, so much that I was able to fix all of my problems just by reading it.
 There, they tell you how to configure Xorg to use the Wacom input driver; when I did, everything worked: I could use the Wacom tools and the buttons on the tablet were responding.</p>
 <p>I then discovered that the real culprit was the
-<a href=https://aur.archlinux.org/packages/digimend-kernel-drivers-dkms-git/ target=_blank rel=noopener>
-aur package
-</a> I was using did not configure this. So, instead of getting my hands dirty in driver code, I settled just writing a
-<a href=https://aur.archlinux.org/packages/digimend-drivers-git-dkms/ target=_blank rel=noopener>
-new package
-</a>.</p>
+<a href=https://aur.archlinux.org/packages/digimend-kernel-drivers-dkms-git/ target=_blank rel=noopener>aur package</a> I was using did not configure this. So, instead of getting my hands dirty in driver code, I settled just writing a
+<a href=https://aur.archlinux.org/packages/digimend-drivers-git-dkms/ target=_blank rel=noopener>new package</a>.</p>
 <p>Next time, maybe I&rsquo;ll be lucky enough to get a device with a broken driver&mldr;</p>
 </div>
 <div class=post-footer>
