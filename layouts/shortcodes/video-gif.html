@@ -10,8 +10,6 @@
     <figure>
         <video muted autoplay loop src="{{ .Get 0 }}" class="w-66 floating">
         </video>
-        {{ with .Get 1 }}
-            <figcaption><em>{{ . }}</em></figcaption>
-        {{ end }}
+        <figcaption><em>{{ .Inner }}</em></figcaption>
     </figure>
 </div>

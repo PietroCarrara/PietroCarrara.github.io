@@ -9,7 +9,7 @@ menu:
     -
       identifier: posts
       name: Posts
-      url: /post/
+      url: /posts/
     -
       identifier: tags
       name: Tags

@@ -5,6 +5,5 @@
     {{ end }}
     {{ if strings.HasPrefix .Destination "http" }}
         target="_blank" rel="noopener"
-    {{ end }}>
-    {{ .Text | safeHTML }}
-</a>
+    {{ end }}
+    >{{ .Text | safeHTML }}</a>
