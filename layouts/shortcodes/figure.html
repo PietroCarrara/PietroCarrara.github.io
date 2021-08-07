@@ -10,12 +10,18 @@
 
 <div class="w-100 center">
     <figure>
-        {{ if eq $media.ResourceType "video" }}
-            <video muted autoplay loop src="{{ $media.Permalink }}" class="w-66 floating"></video>
+        {{ with $media }}
+            {{ if eq .ResourceType "video" }}
+                <video muted autoplay loop src="{{ .Permalink }}" class="w-66 floating"></video>
+            {{ end }}
+            {{ if eq .ResourceType "image" }}
+                <img src="{{ (.Fit "800x600 webp").Permalink }}" class="w-66 floating">
+            {{ end }}
+            {{ if eq .ResourceType "audio" }}
+                <audio class="w-66 floating" src="{{ .Permalink }}" controls></audio>
+            {{ end }}
         {{ end }}
-        {{ if eq $media.ResourceType "image" }}
-            <img src="{{ ($media.Fit "800x600 webp").Permalink }}" class="w-66 floating">
-        {{ end }}
+
         <figcaption><em>{{ .Inner | safeHTML }}</em></figcaption>
     </figure>
 </div>
