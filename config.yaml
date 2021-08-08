@@ -31,3 +31,8 @@ params:
       name: TheMovieDB
       url: https://www.themoviedb.org/u/piticarrara
 
+# Fix aac not being recognized as audio
+mediaTypes:
+  "audio/aac":
+    suffixes:
+      - "aac"
