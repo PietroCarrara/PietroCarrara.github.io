@@ -1,8 +1,16 @@
 # disablePathToLower: true
 baseURL: https://pietrocarrara.github.io
 theme: m10c
-languageCode: en-us
+defaultContentLanguage: en
 title: syslog
+
+languages:
+  en:
+    params:
+      description: Personal blog where I write about anything. From movie reviews to my tech problems.
+  pt-br:
+    params:
+      description: Blog pessoal onde eu escrevo sobre tudo. De reviews de filmes a meus problemas técnicos.
 
 menu:
   main:
@@ -18,8 +26,11 @@ menu:
 params:
   menu_item_separator: " | "
   author: Pietro Carrara
-  description: Personal blog where I write about anything. From movie reviews to my tech problems.
   avatar: /img/avatar.jpg
+
+  lang_text:
+      en: 🇺🇸
+      pt-br: 🇧🇷
 
   social:
     -
