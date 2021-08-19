@@ -9,18 +9,18 @@
 {{ $media := .Page.Resources.GetMatch (.Get 0) }}
 
 <div class="w-100 center">
-    <figure>
+    <figure class="w-100 m-auto maxw-600px">
         {{ with $media }}
             {{ if eq .ResourceType "video" }}
-                <video muted autoplay loop src="{{ .Permalink }}" class="w-66 floating"></video>
+                <video muted autoplay loop src="{{ .Permalink }}" class="w-100 floating"></video>
             {{ end }}
             {{ if eq .ResourceType "image" }}
-                <img src="{{ (.Fit "800x600 webp").Permalink }}" class="w-66 floating">
+                <img src="{{ (.Fit "800x600 webp").Permalink }}" class="w-100 floating">
             {{ end }}
             {{ if eq .ResourceType "audio" }}
-                <audio class="w-66 floating" src="{{ .Permalink }}" controls></audio>
+                <audio class="w-100 floating" src="{{ .Permalink }}" controls></audio>
             {{ end }}
         {{ end }}
-        <figcaption><em>{{ .Inner | safeHTML }}</em></figcaption>
+        <figcaption>{{ .Inner | safeHTML }}</figcaption>
     </figure>
 </div>

@@ -5,12 +5,14 @@ defaultContentLanguage: en
 title: syslog
 
 languages:
-  en:
-    params:
-      description: Personal blog where I write about anything. From movie reviews to my tech problems.
   pt-br:
+    weight: 1
     params:
       description: Blog pessoal onde eu escrevo sobre tudo. De reviews de filmes a meus problemas técnicos.
+  en:
+    weight: 2
+    params:
+      description: Personal blog where I write about anything. From movie reviews to my tech problems.
 
 menu:
   main:

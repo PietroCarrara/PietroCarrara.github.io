@@ -6,6 +6,14 @@
     width: 66.66%;
 }
 
+.maxw-600px {
+    max-width: 600px;
+}
+
+.m-auto {
+    margin: auto;
+}
+
 .center {
     text-align: center;
 }
@@ -16,4 +24,9 @@
 
 .app-header-image-container img {
     @extend .floating;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 0.85rem;
 }
