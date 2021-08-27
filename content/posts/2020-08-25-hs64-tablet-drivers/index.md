@@ -3,15 +3,16 @@ date: "2020-08-25T00:00:00Z"
 tags:
   - huion
   - tech
+  - linux
 title: Huion HS64 Drivers
 ---
 
 Due to the ongoing COVID-19 pandemic, I found myself with too much free time; so much that I decided to try a new
-hobby: Drawing. I don't plan to take it seriously, I just want to scribble something while I don't have anything
+hobby: Drawing. I don't plan to take it seriously, I just wanted to scribble something while I don't have anything
 better to do.
 
 So I decided to borrow a pen-tablet from a friend who has a Wacom. It was a pretty neat device.
-Simply plug it in and everything works out of the box. I even managed to get some playtime in osu! with it.
+Simply plug it in and everything worked out of the box. I even managed to get some playtime in osu! with it.
 
 I returned it after 2~3 weeks, and decided I should buy one. I did some research, and Huion devices
 had lower prices; since I won't take drawing seriously, I chose their HS64 model.

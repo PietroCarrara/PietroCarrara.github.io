@@ -15,12 +15,16 @@
                 <video muted autoplay loop src="{{ .Permalink }}" class="w-100 floating"></video>
             {{ end }}
             {{ if eq .ResourceType "image" }}
-                <img src="{{ (.Fit "800x600 webp").Permalink }}" class="w-100 floating">
+            {{ if eq .MediaType.SubType "gif" }}
+                    <img src="{{ .Permalink }}" class="w-100 floating">
+                {{ else }}
+                    <img src="{{ (.Fit "800x600 webp").Permalink }}" class="w-100 floating">
+                {{ end }}
             {{ end }}
             {{ if eq .ResourceType "audio" }}
                 <audio class="w-100 floating" src="{{ .Permalink }}" controls></audio>
             {{ end }}
         {{ end }}
-        <figcaption>{{ .Inner | safeHTML }}</figcaption>
+        <figcaption>{{ .Inner | htmlEscape }}</figcaption>
     </figure>
 </div>

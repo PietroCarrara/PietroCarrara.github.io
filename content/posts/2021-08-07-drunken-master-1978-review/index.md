@@ -28,13 +28,13 @@ Since **everybody is doing complex moves**, the pace is more steady (but not cal
 Since we're talking about dancing so much, how can we not speak of the music in this film? The main theme is awesome. It feels very powerful, starting with a low, long sequence that then spikes into a very (and I mean *very*) loud section that goes speeding up until it ends. It's based on a Chinese folk song, the same one that inspired the main theme of *[Once Upon A Time In China](https://www.themoviedb.org/movie/10617-wong-fei-hung)* 13 years later, which features the same main character, [Wong Fei Hung](https://en.wikipedia.org/wiki/Wong_Fei-hung). The structure really fits with the whole "drunken fists" fighting style: The slow, deep start tricks the enemy into thinking you can't react fast enough because of the alcohol, but then-- **BAM**! You hit them in the face.
 
 {{< figure "audios/main-theme.aac" >}}
-  The main theme. Beware of 1:04.
+  The main theme. Beware of 01:04.
 {{< /figure >}}
 
 The rest of the music is fine, with an honorable mention to the music that plays in the comedy scene where Jackie is punished, which sounds fun and lighthearted. And speaking of comedy, this movie has plenty of it, and it's very good. The movie's tagline on TMDB is *"The Original Kung Fu Comedy!"*, and it certainly feels like it. You can't stop smiling when Chan plays with his instructor's hat, or when he stops fighting just to eat. When he cheats in his training with Beggar So, or even when his own dad punishes him for his recklessness, you can't help but to feel like a child laughing at such simple jokes; and when they're perfectly paired with the action, it's some of the best fun you can have while watching a movie. So much so that I think **the comedy here is better than in Jackie Chan's later works**. But there are some moments where that bar goes *low*. The scene where Chan farts in someone's face hits hard: You "wake up" from all the fun you were having and ask yourself, *"who thought this was funny?"*. Luckily, it only happens once or twice.
 
 {{< figure "videos/jackie-chan-vs-yuen-siu-tin.mp4" >}}
-  You can see in some moments, Jackie being sort of stiff.<br>
+  You can see in some moments Jackie being sort of stiff.
   This is one of his earlier works.
 {{< /figure >}}
 
