@@ -2,19 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pietrocarrara.github.io/pt-br/categories/</loc>
+    <loc>https://pietrocarrara.github.io/pt-br/tags/jackie-chan/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pietrocarrara.github.io/categories/"
+                href="https://pietrocarrara.github.io/tags/jackie-chan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://pietrocarrara.github.io/pt-br/categories/"
+                href="https://pietrocarrara.github.io/pt-br/tags/jackie-chan/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/tags/movie/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/tags/movie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/tags/movie/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/posts/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/posts/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/tags/review/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/tags/review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/tags/review/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/posts/2021-08-07-drunken-master-1978-review/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/posts/2021-08-07-drunken-master-1978-review/"
                 />
   </url><url>
     <loc>https://pietrocarrara.github.io/pt-br/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +81,7 @@
                 />
   </url><url>
     <loc>https://pietrocarrara.github.io/pt-br/tags/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,6 +91,83 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://pietrocarrara.github.io/pt-br/tags/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/posts/2021-07-28-cliff-walkers-2021-review/</loc>
+    <lastmod>2021-07-28T13:52:46-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/posts/2021-07-28-cliff-walkers-2021-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/posts/2021-07-28-cliff-walkers-2021-review/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/posts/2020-08-25-hs64-tablet-drivers/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/posts/2020-08-25-hs64-tablet-drivers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/posts/2020-08-25-hs64-tablet-drivers/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/tags/huion/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/tags/huion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/tags/huion/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/tags/linux/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/tags/linux/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/tags/tech/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/tags/tech/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/pt-br/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/categories/"
                 />
   </url>
 </urlset>
