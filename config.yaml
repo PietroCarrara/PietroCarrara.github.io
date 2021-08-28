@@ -3,6 +3,7 @@ baseURL: https://pietrocarrara.github.io
 theme: m10c
 defaultContentLanguage: en
 title: syslog
+timeout: 60000
 
 languages:
   pt-br:
