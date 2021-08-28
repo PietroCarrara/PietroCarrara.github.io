@@ -1,0 +1,21 @@
+{{ $juliaCode := .Inner }}
+{{ if (.Get "file")}}
+    {{ $juliaCode = readFile (path.Join .Page.File.Dir (.Get "file")) }}
+{{ end }}
+
+{{ (printf "```julia %s```" $juliaCode) | markdownify }}
+
+{{ $result := julia.Eval $juliaCode }}
+
+{{ if (.Get "plot") }}
+    {{ $path := path.Join "content/" (.Page.File.Dir) (.Get "plot") }}
+    {{ if (strings.HasSuffix $path ".gif") }}
+        {{ $gif := julia.GetFunction "gif" }}
+        {{ $_ := julia.Call $gif $result $path }}
+    {{ else }}
+        {{ $gif := julia.GetFunction "savefig" }}
+        {{ $_ := julia.Call $gif $result $path }}
+    {{ end }}
+{{ else }}
+    <pre>{{ $result.GetValue }}</pre>
+{{ end }}
