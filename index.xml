@@ -12,7 +12,8 @@
       <pubDate>Mon, 23 Aug 2021 14:25:23 -0300</pubDate>
       
       <guid>https://pietrocarrara.github.io/posts/julia-test/</guid>
-      <description> using Plots f(x) = sin(x) + -cos(3x) plot(f, 1:0.01:10)   This figure is actually rendered by hugo, using the julia C bindings.    </description>
+      <description> using Plots f(x) = 0.1sin(x) + -cos(3x) plot(f, 1:0.01:10)  The sine function.   Now I can just write plain Julia code and have it generate results for me:
+x = [&amp;#34;Nerds&amp;#34;, &amp;#34;Hackers&amp;#34;, &amp;#34;Scientists&amp;#34;] y = [0.4, 0.35, 0.25] pie(x, y, title = &amp;#34;The Julia Community&amp;#34;, l = 0.5)     </description>
     </item>
     
     <item>

@@ -8,15 +8,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="Pietro Carrara" />
     <meta name="description" content="" />
-    <link rel="stylesheet" href="https://pietrocarrara.github.io/css/main.min.125bb03e00fc785e4277937710933c4c336f0a8e289b942e60c23680ed962576.css" />
+    <link rel="stylesheet" href="https://pietrocarrara.github.io/css/main.min.c1d0e0986bff0399c72100a7c7984e42bfa79ee75e38f8bc00d54fa71091e7f7.css" />
 
     
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Julia Test!"/>
-<meta name="twitter:description" content=" using Plots f(x) = sin(x) &#43; -cos(3x) plot(f, 1:0.01:10)   This figure is actually rendered by hugo, using the julia C bindings.    "/>
+<meta name="twitter:description" content=" using Plots f(x) = 0.1sin(x) &#43; -cos(3x) plot(f, 1:0.01:10)  The sine function.   Now I can just write plain Julia code and have it generate results for me:
+x = [&#34;Nerds&#34;, &#34;Hackers&#34;, &#34;Scientists&#34;] y = [0.4, 0.35, 0.25] pie(x, y, title = &#34;The Julia Community&#34;, l = 0.5)     "/>
 
     <meta property="og:title" content="Julia Test!" />
-<meta property="og:description" content=" using Plots f(x) = sin(x) &#43; -cos(3x) plot(f, 1:0.01:10)   This figure is actually rendered by hugo, using the julia C bindings.    " />
+<meta property="og:description" content=" using Plots f(x) = 0.1sin(x) &#43; -cos(3x) plot(f, 1:0.01:10)  The sine function.   Now I can just write plain Julia code and have it generate results for me:
+x = [&#34;Nerds&#34;, &#34;Hackers&#34;, &#34;Scientists&#34;] y = [0.4, 0.35, 0.25] pie(x, y, title = &#34;The Julia Community&#34;, l = 0.5)     " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://pietrocarrara.github.io/posts/julia-test/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2021-08-23T14:25:23-03:00" />
@@ -93,39 +95,73 @@
 
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-julia" data-lang="julia"><span style="color:#66d9ef">using</span> Plots
 
-f(x) <span style="color:#f92672">=</span> sin(x) <span style="color:#f92672">+</span> <span style="color:#f92672">-</span>cos(<span style="color:#ae81ff">3</span>x)
+f(x) <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.1</span>sin(x) <span style="color:#f92672">+</span> <span style="color:#f92672">-</span>cos(<span style="color:#ae81ff">3</span>x)
 plot(f, <span style="color:#ae81ff">1</span><span style="color:#f92672">:</span><span style="color:#ae81ff">0.01</span><span style="color:#f92672">:</span><span style="color:#ae81ff">10</span>)
 </code></pre></div>
 
 
 
 
+
     
     
-        
-        
+
+    
+    
+    
+    
     
 
-
-
-
+    
+    
 
 <div class="w-100 center">
     <figure class="w-100 m-auto maxw-600px">
         
-            
-            
-            
-                    <img src="https://pietrocarrara.github.io/posts/julia-test/images/sin-cos_hud466c3927e2e9ea7e97a9f329fc26c05_21684_800x600_fit_q75_h2_box_3.webp" class="w-100 floating">
-                
-            
-            
         
-        <figcaption>
-    This figure is actually rendered by hugo, using the julia C bindings.
-</figcaption>
+            <img src="images/plots/b5dcd9a2314a11079e4f58b6e9071d17.png" class="w-100 floating">
+        
+        
+        <figcaption class="caption">The sine function.</figcaption>
     </figure>
 </div>
+
+<p>Now I can just write plain Julia code and have it generate results for me:</p>
+
+
+
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-julia" data-lang="julia">x <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#34;Nerds&#34;</span>, <span style="color:#e6db74">&#34;Hackers&#34;</span>, <span style="color:#e6db74">&#34;Scientists&#34;</span>]
+y <span style="color:#f92672">=</span> [<span style="color:#ae81ff">0.4</span>, <span style="color:#ae81ff">0.35</span>, <span style="color:#ae81ff">0.25</span>]
+pie(x, y, title <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;The Julia Community&#34;</span>, l <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.5</span>)
+</code></pre></div>
+
+
+
+
+
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+<div class="w-100 center">
+    <figure class="w-100 m-auto maxw-600px">
+        
+        
+            <img src="images/plots/325021a7d9e9385eb2dd033584b18afc.png" class="w-100 floating">
+        
+        
+        <figcaption class="caption"></figcaption>
+    </figure>
+</div>
+
 
     </div>
     <div class="post-footer">
