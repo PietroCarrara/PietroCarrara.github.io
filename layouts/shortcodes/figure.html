@@ -8,23 +8,15 @@
 
 {{ $media := .Page.Resources.GetMatch (.Get 0) }}
 
-<div class="w-100 center">
-    <figure class="w-100 m-auto maxw-600px">
-        {{ with $media }}
-            {{ if eq .ResourceType "video" }}
-                <video muted autoplay loop src="{{ .Permalink }}" class="w-100 floating"></video>
-            {{ end }}
-            {{ if eq .ResourceType "image" }}
-            {{ if eq .MediaType.SubType "gif" }}
-                    <img src="{{ .Permalink }}" class="w-100 floating">
-                {{ else }}
-                    <img src="{{ (.Fit "800x600 webp").Permalink }}" class="w-100 floating">
-                {{ end }}
-            {{ end }}
-            {{ if eq .ResourceType "audio" }}
-                <audio class="w-100 floating" src="{{ .Permalink }}" controls></audio>
-            {{ end }}
-        {{ end }}
-        <figcaption>{{ .Inner | htmlEscape }}</figcaption>
-    </figure>
-</div>
+
+{{ $caption := .Inner }}
+{{ with $media }}
+    {{ $fpath := .Permalink }}
+    {{ $type := .ResourceType }}
+
+    {{ if and (eq .ResourceType "image") (not (eq .MediaType.SubType "gif")) }}
+        {{ $fpath = (.Fit "800x600 webp").Permalink }}
+    {{ end }}
+
+    {{ partial "elements/figure.html" (dict "fpath" $fpath "type" $type "caption" $caption) }}
+{{ end }}

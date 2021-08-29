@@ -6,16 +6,23 @@
 {{ (printf "```julia %s```" $juliaCode) | markdownify }}
 
 {{ $result := julia.Eval $juliaCode }}
+{{ $resultType := $result.GetType }}
 
-{{ if (.Get "plot") }}
-    {{ $path := path.Join "content/" (.Page.File.Dir) (.Get "plot") }}
-    {{ if (strings.HasSuffix $path ".gif") }}
-        {{ $gif := julia.GetFunction "gif" }}
-        {{ $_ := julia.Call $gif $result $path }}
-    {{ else }}
-        {{ $gif := julia.GetFunction "savefig" }}
-        {{ $_ := julia.Call $gif $result $path }}
+{{ if eq "Plot" $resultType }}
+    {{ $path := path.Join "content/" (.Page.File.Dir) "images/plots" }}
+    {{ $_ := mkdir $path }}
+
+    {{/* Use a plot hash as it's filename, so we can check if it has changed and save it */}}
+    {{ $_ := julia.Eval `using MD5; __plot_fname(p) = bytes2hex(md5(string(p.attr) * string(p.series_list))) * ".png"` }}
+    {{ $fname := (julia.Call "__plot_fname" $result).GetValue }}
+    {{ $fpath := path.Join $path $fname }}
+    {{ if (not (fileExists $fpath)) }}
+        {{ $_ := julia.Call "savefig" $result $fpath }}
     {{ end }}
+
+    {{ $relPath := path.Join "images/plots" $fname }}
+    {{ partial "elements/figure.html" (dict "fpath" $relPath "type" "image" "caption" (.Get "caption")) }}
 {{ else }}
     <pre>{{ $result.GetValue }}</pre>
+    <span class="caption">{{ .Get "caption" }}</span>
 {{ end }}

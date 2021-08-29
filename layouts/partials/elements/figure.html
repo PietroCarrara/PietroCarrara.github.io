@@ -1,0 +1,23 @@
+<!--
+    Partial to display a figure (supports videos and images)
+
+    Arguments:
+        - fpath: The file path
+        - type: The main mime type of the file (video, audio, image, ...)
+        - caption: The caption of the figure
+-->
+
+<div class="w-100 center">
+    <figure class="w-100 m-auto maxw-600px">
+        {{ if eq .type "video" }}
+            <video muted autoplay loop src="{{ .fpath }}" class="w-100 floating"></video>
+        {{ end }}
+        {{ if eq .type "image" }}
+            <img src="{{ .fpath }}" class="w-100 floating">
+        {{ end }}
+        {{ if eq .type "audio" }}
+            <audio class="w-100 floating" src="{{ .Permalink }}" controls></audio>
+        {{ end }}
+        <figcaption class="caption">{{ .caption | htmlEscape }}</figcaption>
+    </figure>
+</div>
