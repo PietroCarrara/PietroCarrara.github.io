@@ -2,35 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pietrocarrara.github.io/posts/julia-test/</loc>
-    <lastmod>2021-08-28T14:25:23-03:00</lastmod>
-  </url><url>
-    <loc>https://pietrocarrara.github.io/posts/</loc>
-    <lastmod>2021-08-28T14:25:23-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pietrocarrara.github.io/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pietrocarrara.github.io/posts/"
-                />
-  </url><url>
-    <loc>https://pietrocarrara.github.io/</loc>
-    <lastmod>2021-08-28T14:25:23-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://pietrocarrara.github.io/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pietrocarrara.github.io/"
-                />
-  </url><url>
     <loc>https://pietrocarrara.github.io/tags/jackie-chan/</loc>
     <lastmod>2021-08-07T14:25:23-03:00</lastmod>
     <xhtml:link
@@ -70,6 +41,19 @@
                 href="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/"
                 />
   </url><url>
+    <loc>https://pietrocarrara.github.io/posts/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/posts/"
+                />
+  </url><url>
     <loc>https://pietrocarrara.github.io/tags/review/</loc>
     <lastmod>2021-08-07T14:25:23-03:00</lastmod>
     <xhtml:link
@@ -81,6 +65,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://pietrocarrara.github.io/tags/review/"
+                />
+  </url><url>
+    <loc>https://pietrocarrara.github.io/</loc>
+    <lastmod>2021-08-07T14:25:23-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://pietrocarrara.github.io/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pietrocarrara.github.io/"
                 />
   </url><url>
     <loc>https://pietrocarrara.github.io/tags/</loc>
