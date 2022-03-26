@@ -16,7 +16,7 @@
             <img src="{{ .fpath }}" class="w-100 floating">
         {{ end }}
         {{ if eq .type "audio" }}
-            <audio class="w-100 floating" src="{{ .Permalink }}" controls></audio>
+            <audio class="w-100 floating" src="{{ .fpath }}" controls></audio>
         {{ end }}
         <figcaption class="caption">{{ .caption | htmlEscape }}</figcaption>
     </figure>
