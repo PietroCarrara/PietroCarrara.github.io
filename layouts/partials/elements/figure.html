@@ -1,9 +1,9 @@
 <!--
-    Partial to display a figure (supports videos and images)
+    Partial to display a figure (supports audio, video and images)
 
     Arguments:
         - fpath: The file path
-        - type: The main mime type of the file (video, audio, image, ...)
+        - type: The main mime type of the file (video/audio/image)
         - caption: The caption of the figure
 -->
 
@@ -18,6 +18,6 @@
         {{ if eq .type "audio" }}
             <audio class="w-100 floating" src="{{ .fpath }}" controls></audio>
         {{ end }}
-        <figcaption class="caption">{{ .caption | htmlEscape }}</figcaption>
+        <figcaption class="caption">{{ .caption | markdownify }}</figcaption>
     </figure>
 </div>
