@@ -44,6 +44,10 @@ params:
       icon: film
       name: TheMovieDB
       url: https://www.themoviedb.org/u/piticarrara
+    -
+      icon: book-open
+      name: GoodReads
+      url: https://www.goodreads.com/user/show/52352747-pietro-carrara
 
 # Fix aac not being recognized as audio
 mediaTypes:
