@@ -34,8 +34,7 @@ Since we're talking about dancing so much, how can we not speak of the music in 
 The rest of the music is fine, with an honorable mention to the [track](https://www.youtube.com/watch?v=FY5M3NsZ_Uk) that plays in the comedy scene where Jackie is punished, which sounds fun and lighthearted. And speaking of comedy, this movie has plenty of it, and it's very good. The movie's tagline on TMDB is *"The Original Kung Fu Comedy!"*, and it certainly feels like it. You can't stop smiling when Chan plays with his instructor's hat, or when he stops fighting just to eat. When he cheats in his training with Beggar So, or even when his own dad punishes him for his recklessness, you can't help but to feel like a child laughing at such simple jokes; and when they're perfectly paired with the action, it's some of the best fun you can have while watching a movie. So much so that I think **the comedy here is better than in Jackie Chan's later works**. But there are some moments where that bar goes *low*. The scene where Chan farts in someone's face hits hard: You "wake up" from all the fun you were having and ask yourself, *"who thought this was funny?"*. Luckily, it only happens once or twice.
 
 {{< figure "videos/jackie-chan-vs-yuen-siu-tin.mp4" >}}
-  You can see in some moments Jackie being sort of stiff.
-  This is one of his earlier works.
+  You can see in some moments Jackie being sort of stiff. This is one of his earlier works.
 {{< /figure >}}
 
 Overall, this is a quirky and fun movie. If you don't mind subpar acting or goofiness, and want to have some good laughs, I would recommend this movie. If you like other Chan's works (or just fighting movies in general), this is a must-watch, and a masterclass in action-comedy.
