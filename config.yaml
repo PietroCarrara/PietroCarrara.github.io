@@ -29,7 +29,6 @@ menu:
 params:
   menu_item_separator: " | "
   author: Pietro Carrara
-  avatar: /img/avatar.jpg
 
   lang_text:
       en: 🇺🇸

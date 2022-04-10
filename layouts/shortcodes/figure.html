@@ -13,10 +13,15 @@
 {{ with $media }}
     {{ $fpath := .Permalink }}
     {{ $type := .ResourceType }}
+    {{ $imWidth := 0 }}
+    {{ $imHeight := 0 }}
 
     {{ if and (eq .ResourceType "image") (not (eq .MediaType.SubType "gif")) }}
-        {{ $fpath = (.Fit "800x600 webp").Permalink }}
+        {{ $im := .Fit "600x375 webp" }}
+        {{ $fpath = $im.Permalink }}
+        {{ $imWidth = $im.Width }}
+        {{ $imHeight = $im.Height }}
     {{ end }}
 
-    {{ partial "elements/figure.html" (dict "fpath" $fpath "type" $type "caption" $caption) }}
+    {{ partial "elements/figure.html" (dict "fpath" $fpath "type" $type "caption" $caption "imWidth" $imWidth "imHeight" $imHeight) }}
 {{ end }}
