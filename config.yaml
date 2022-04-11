@@ -53,3 +53,8 @@ mediaTypes:
   "audio/aac":
     suffixes:
       - "aac"
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
