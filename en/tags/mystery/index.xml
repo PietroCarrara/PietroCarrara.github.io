@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mystery on syslog</title>
+    <link>https://pietrocarrara.github.io/en/tags/mystery/</link>
+    <description>Recent content in mystery on syslog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Apr 2022 20:00:00 -0300</lastBuildDate><atom:link href="https://pietrocarrara.github.io/en/tags/mystery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Umineko and the Mystery Genre (spoiler-free)</title>
+      <link>https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/</link>
+      <pubDate>Sun, 10 Apr 2022 20:00:00 -0300</pubDate>
+      
+      <guid>https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/</guid>
+      <description>This text does not reveal elements of the Umineko plot beyond what could be found in the game description.
+ During the last 4 months I&amp;rsquo;ve used a total of 160 hours of my free time to &amp;ldquo;play&amp;rdquo; (read would be more fitting)  Umineko No Naku Koro Ni, a Japanese visual novel split into 8 parts originally released between 2007 and 2010. Translated as &amp;ldquo;Umineko When They Cry&amp;rdquo;, the story is about how, during the 2 days of the yearly Ushiromiya family conference, the people present are killed in apparently impossible murders, with the bodies of the victims found in rooms locked from the inside.</description>
+    </item>
+    
+  </channel>
+</rss>
