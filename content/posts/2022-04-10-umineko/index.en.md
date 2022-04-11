@@ -9,7 +9,7 @@ tags:
   - 7th-expansion
 ---
 
-*This text does not reveal elements of the Umineko plot beyond what could be found in the game description.*
+*This text does not reveal elements of the Umineko plot beyond what could be found in the game's description.*
 
 ---
 
@@ -59,19 +59,19 @@ The first 4 episodes make the first half of the game, presenting the mystery, de
   much, but some pages are just breathtaking.
 {{< /figure >}}
 
->*In a mansion where each servant carries a key ring with keys to all the rooms, James wants to play a trick on his workmate, Alice. One day, the two are allocated to clear a room together, and James starts to scheme...*
+>*In a mansion where each servant carries a keyring with keys to all the rooms, James wants to play a trick on his workmate, Alice. One day, the two are allocated to clear a room together, and James starts to scheme...*
 >
->*That day arrives, and the shift begins: entering the room, Alice unlocks the door, throws her key ring on the bed, turns around and starts cleaning. James enters the room and too starts cleaning.*
+>*That day arrives, and the shift begins: entering the room, Alice unlocks the door, throws her keyring on the bed, turns around and starts cleaning. James enters the room and too starts cleaning.*
 >
->*When the cleaning is done, Alice takes the key ring on the bed and the both of them leave the room. When she tries locking the room, Alice notices the key for this door is missing from the key ring. The two of them, together, start looking for it and find it in the living room. How could've James put the key here if Alice herself unlocked the room at the start of the shift?*
+>*When the cleaning is done, Alice takes the keyring on the bed and the both of them leave the room. When she tries locking the room, Alice notices the key for this door is missing from the keyring. The two of them, together, start looking for it and find it in the living room. How could've James put the key here if Alice herself unlocked the room at the start of the shift?*
 >
-> - {{< spoiler >}}The key ring holds everything in a tight fit, so removing any key would make noise, alerting Alice.{{< /spoiler >}}
+> - {{< spoiler >}}The keyring holds everything in a tight fit, so removing any key would make noise, alerting Alice.{{< /spoiler >}}
 > - {{< spoiler >}}No one entered or left the room until the two of them left and noticed the missing key.{{< /spoiler >}}
 > - {{< spoiler >}}During the search, the two of them were always together, and it was not possible to trick anyone.{{< /spoiler >}}
 > - {{< spoiler >}}James alone is the culprit.{{< /spoiler >}}
 > - {{< spoiler >}}The key Alice used to open the room at the shift start and the one they found in the room are different copies.{{< /spoiler >}}
 >
->Answer: {{< spoiler >}}Before the shift starts, James removes the key for that room from his own key ring and hides it in the living room. In the room, James switches his key ring, which is missing a key, with Alice's, which has all.{{< /spoiler >}}
+>Answer: {{< spoiler >}}Before the shift starts, James removes the key for that room from his own keyring and hides it in the living room. In the room, James switches his keyring, which is missing a key, with Alice's, which has all.{{< /spoiler >}}
 
 If I was tasked with solving this before I played *Umineko*, no doubt I wouldn't have thought of an answer. At most, something absurd like *"James used a secret passage and a remotely controlled device..."* yada yada. A solution that would not violate any of the presented facts, but very *ugly*. This point is also debated in *Umineko*: the mutual trust between the writer and the reader of mystery novels. The reader needs to trust the solution is grounded and makes sense, while the writer needs to trust the public will try and solve their mystery even if it looks impossible. When one of these premises is broken (the final answer is not good enough or the reader insists the crime is impossible and stops thinking) a mystery novel loses all it's potential. This kind of "meta-discussion" (a mystery talking about mysteries) gives me even more confidence in recommending *Umineko* to newcomers.
 
