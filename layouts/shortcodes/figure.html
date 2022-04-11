@@ -17,7 +17,7 @@
     {{ $imHeight := 0 }}
 
     {{ if and (eq .ResourceType "image") (not (eq .MediaType.SubType "gif")) }}
-        {{ $im := .Fit "600x375 webp" }}
+        {{ $im := .Fit "600x460 webp" }}
         {{ $fpath = $im.Permalink }}
         {{ $imWidth = $im.Width }}
         {{ $imHeight = $im.Height }}

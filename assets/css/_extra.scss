@@ -1,4 +1,12 @@
-// Simple, shorthand classes
+hr {
+    color: transparent;
+    border-top: 1px solid $primary-color;
+}
+figcaption > blockquote {
+    margin: 0;
+    text-align: right;
+}
+
 .w-100 {
     width: 100%;
 }
@@ -29,4 +37,20 @@
 .caption {
     font-style: italic;
     font-size: 0.85rem;
+}
+
+.spoiler > span {
+    background-color: $darkest-color;
+    color: $darkest-color;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: color 0.5s, background-color 0.5s;
+}
+.spoiler > input {
+    display: none;
+}
+.spoiler > input:checked + span {
+    color: $light-color;
+    background-color: transparent;
+    cursor: default;
 }
