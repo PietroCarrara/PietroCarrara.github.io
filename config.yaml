@@ -54,6 +54,7 @@ mediaTypes:
     suffixes:
       - "aac"
 
+enableRobotsTXT: true
 sitemap:
   changefreq: monthly
   filename: sitemap.xml
