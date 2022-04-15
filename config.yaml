@@ -29,7 +29,6 @@ menu:
 params:
   menu_item_separator: " | "
   author: Pietro Carrara
-
   social:
     -
       icon: github
