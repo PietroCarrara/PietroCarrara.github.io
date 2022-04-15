@@ -1,16 +1,13 @@
 ---
 title: "Umineko and the Mystery Genre (spoiler-free)"
 date: 2022-04-10T20:00:00-03:00
+disclaimer: "This text does not reveal elements of the Umineko plot beyond what could be found in the game's description"
 tags:
   - book
   - game
   - review
   - mystery
   - 7th-expansion
----
-
-*This text does not reveal elements of the Umineko plot beyond what could be found in the game's description.*
-
 ---
 
 During the last 4 months I've used a total of 160 hours of my free time to "play" (read would be more fitting) *[Umineko No Naku Koro Ni](https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/)*, a Japanese visual novel split into 8 parts originally released between 2007 and 2010. Translated as "Umineko When They Cry", the story is about how, during the 2 days of the yearly Ushiromiya family conference, the people present are killed in apparently impossible murders, with the bodies of the victims found in rooms locked from the inside.
