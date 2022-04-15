@@ -7,7 +7,8 @@
 <meta name="author" content="Pietro Carrara">
 <meta name="description" content="Devido a pandemia em curso do COVID-19, eu me encontrei com tempo livre demais; tanto que eu decidi experimentar um novo hobby: Desenhar. Eu não pretendo levar isso a sério, eu só queria rabiscar alguma coisa enquanto eu não tenho nada melhor pra fazer.
 Então eu decidi pegar emprestado uma mesa digitalizadora de uma amiga que tinha uma Wacom. Era uma ferramenta bem legal. Só pluguei e tudo funcionou out of the box.">
-<link rel="stylesheet" href="https://pietrocarrara.github.io/css/main.min.40c1ba2c3a299494fb31479d93a7861cdb3d6a4e1ce4868171d9fed76f16569a.css">
+<link rel="canonical" href="https://pietrocarrara.github.io/posts/2020-08-25-hs64-tablet-drivers/">
+<link rel="stylesheet" href="https://pietrocarrara.github.io/css/main.min.8f59632cd8d18c75ada97ecd86d73641138aac188daf6477f7376c9d6cb7b009.css">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Drivers do Huion HS64">
 <meta name="twitter:description" content="Devido a pandemia em curso do COVID-19, eu me encontrei com tempo livre demais; tanto que eu decidi experimentar um novo hobby: Desenhar. Eu não pretendo levar isso a sério, eu só queria rabiscar alguma coisa enquanto eu não tenho nada melhor pra fazer.
@@ -53,10 +54,11 @@ Aug 25, 2020
 </div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock"><title>clock</title><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
 2 minutos para ler
 </div><div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag"><title>tag</title><path d="M20.59 13.41l-7.17 7.17a2 2 0 01-2.83.0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>
-<a class="tag" href="https://pietrocarrara.github.io/tags/huion/">huion</a>
-<a class="tag" href="https://pietrocarrara.github.io/tags/tech/">tech</a>
-<a class="tag" href="https://pietrocarrara.github.io/tags/linux/">linux</a>
-</div></div></header><div class="post-content">
+<a class="tag" href="https://pietrocarrara.github.io/tags/huion/">Huion</a>
+<a class="tag" href="https://pietrocarrara.github.io/tags/tech/">Tech</a>
+<a class="tag" href="https://pietrocarrara.github.io/tags/linux/">Linux</a>
+</div><hr class="post-header-content-separator">
+</div></header><div class="post-content">
 <p>Devido a pandemia em curso do COVID-19, eu me encontrei com tempo livre demais; tanto que eu decidi experimentar um novo hobby: Desenhar. Eu não pretendo levar isso a sério, eu só queria rabiscar alguma coisa enquanto eu não tenho nada melhor pra fazer.</p><p>Então eu decidi pegar emprestado uma mesa digitalizadora de uma amiga que tinha uma Wacom. Era uma ferramenta bem legal. Só pluguei e tudo funcionou <em>out of the box</em>. Eu até consegui jogar um pouco de osu! usando ela.</p><p>Eu devolvi ela depois de umas 2~3 semanas, e decidi que eu deveria comprar uma. Eu fiz uma pequena pesquisa, e os dispositivos da Huion tinham os preços mais baixos; já que eu não vou levar a sério esse hobby, eu escolhi o modelo HS64.</p><p>Quando ele chegou aqui, o tablet não era <em>plug-n-play</em>, mas foi só instalar os drivers
 <a href="https://github.com/DIGImend/digimend-kernel-drivers" target="_blank" rel="noopener">digimend</a> que ele funcionou. Pelo menos parcialmente.</p><p>Duas coisas não funcionaram:</p><ul>
 <li>As <em>Wacom tools</em> não reconheceram o dispositivo, então configurar coisas como uma área ativa não eram possíveis (pelo menos não de uma maneira simples).</li><li>Apesar de poder usar os 2 botões na caneta, os 4 botões do tablet não eram reconhecidos.</li></ul><p>Foi aí que eu me lembrei desse
