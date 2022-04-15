@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://pietrocarrara.github.iositemap.xml
+Sitemap: https://pietrocarrara.github.io/sitemap.xml
