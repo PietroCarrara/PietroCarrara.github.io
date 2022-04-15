@@ -30,10 +30,6 @@ params:
   menu_item_separator: " | "
   author: Pietro Carrara
 
-  lang_text:
-      en: 🇺🇸
-      pt-br: 🇧🇷
-
   social:
     -
       icon: github
@@ -53,6 +49,13 @@ mediaTypes:
   "audio/aac":
     suffixes:
       - "aac"
+
+minify:
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepQuotes: true
+      keepWhitespace: true
 
 enableRobotsTXT: true
 sitemap:
