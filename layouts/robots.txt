@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: {{ .Site.BaseURL }}sitemap.xml
+Sitemap: {{ .Site.BaseURL }}/sitemap.xml
