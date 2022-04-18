@@ -5,12 +5,13 @@ disclaimer: "Este texto não revela detalhes da trama de Umineko para além do q
 tags:
   - book
   - game
+  - visual-novel
   - review
   - mystery
   - 7th-expansion
 ---
 
-Durante os últimos 4 meses eu usei um total de 160 horas de meu tempo livre para "jogar" (ler seria mais apropriado) *[Umineko No Naku Koro Ni](https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/)*, uma visual novel japonesa dividida em 8 partes lançadas originalmente entre 2007 e 2010. Uma tradução liberal do título seria "Ao Som Das Gaivotas", e a obra conta a história de como, durante os 2 dias da conferência anual da família Ushiromiya, as pessoas presentes são mortas em assassinatos aparentemente impossíveis, com os corpos das vítimas em quartos trancados por dentro.
+Durante os últimos 4 meses eu usei um total de 160 horas de meu tempo livre para "jogar" (ler seria mais apropriado) *[Umineko No Naku Koro Ni](https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/)*, uma visual novel japonesa dividida em 8 partes lançadas originalmente entre 2007 e 2010. Uma tradução liberal do título seria "Ao Som Das Gaivotas", e a obra conta a história de como, durante os 2 dias da conferência anual da família Ushiromiya, as pessoas presentes são mortas em assassinatos aparentemente impossíveis, com os corpos das vítimas encontrados em quartos trancados por dentro.
 
 A reunião acontece em Rokkenjima, ilha privada da família onde se localiza sua mansão. Seria o culpado uma das 18 pessoas presentes? Poderia haver uma 19.ª pessoa na ilha? Ou ainda, talvez a culpada seja a bruxa que, segundo a lenda, é a mestre noturna da mansão e poderia ter cometido esses crimes impossíveis usando magia...
 

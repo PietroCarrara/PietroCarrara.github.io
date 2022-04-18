@@ -5,6 +5,7 @@ disclaimer: "This text does not reveal elements of the Umineko plot beyond what 
 tags:
   - book
   - game
+  - visual-novel
   - review
   - mystery
   - 7th-expansion
