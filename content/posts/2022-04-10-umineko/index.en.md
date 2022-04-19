@@ -57,9 +57,9 @@ The first 4 episodes make the first half of the game, presenting the mystery, de
   much, but some pages are just breathtaking.
 {{< /figure >}}
 
->*In a mansion where each servant carries a keyring with keys to all the rooms, James wants to play a trick on his workmate, Alice. One day, the two are allocated to clear a room together, and James starts to scheme...*
+>*In a mansion where each servant carries a keyring with keys to all the rooms, James wants to play a trick on his workmate, Alice. When the two are allocated to clear a room together the next day, James starts to scheme...*
 >
->*That day arrives, and the shift begins: entering the room, Alice unlocks the door, throws her keyring on the bed, turns around and starts cleaning. James enters the room and too starts cleaning.*
+>*The shift begins: entering the room, Alice unlocks the door, throws her keyring on the bed, turns around and starts cleaning. James enters the room and too starts cleaning.*
 >
 >*When the cleaning is done, Alice takes the keyring on the bed and the both of them leave the room. When she tries locking the room, Alice notices the key for this door is missing from the keyring. The two of them, together, start looking for it and find it in the living room. How could've James put the key here if Alice herself unlocked the room at the start of the shift?*
 >
