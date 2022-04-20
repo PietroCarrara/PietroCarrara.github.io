@@ -30,6 +30,7 @@ params:
   menu_item_separator: " | "
   author: Pietro Carrara
   title: syslog
+  fb_app_id: 342520437942701
   social:
     -
       icon: github
