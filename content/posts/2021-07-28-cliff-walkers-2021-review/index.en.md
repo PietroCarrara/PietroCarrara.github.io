@@ -1,11 +1,10 @@
 ---
 title: "Movie Review: Cliff Walkers (2021)"
 date: 2021-07-28T13:52:46-03:00
+poster: images/poster.jpg
 tags:
   - movie
   - review
-images:
-  - images/poster.jpg
 ---
 
 **[Cliff Walkers](https://www.themoviedb.org/movie/639557-impasse)** follows 4 Chinese spies trying to reach the Japanese-dominated city of Harbin, where they should await for further instructions. However, the fascists are aware of their plans, and send their agents to infiltrate and sabotage the mission.
