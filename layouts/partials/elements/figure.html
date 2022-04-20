@@ -7,16 +7,16 @@
         - caption: The caption of the figure
 -->
 
-<div class="w-100 center">
+<div class="w-100 center my-2">
     <figure class="w-100 m-auto maxw-600px">
         {{ if eq .type "video" }}
             <video muted autoplay loop src="{{ .fpath }}" class="w-100 floating"></video>
         {{ end }}
         {{ if eq .type "image" }}
-            <img src="{{ .fpath }}" width="{{ .imWidth }}" height="{{ .imHeight }}" alt="{{ .caption | markdownify | plainify | safeHTMLAttr }}" class="floating">
+            <img src="{{ .fpath }}" loading="lazy" width="{{ .imWidth }}" height="{{ .imHeight }}" alt="{{ .caption | markdownify | plainify | safeHTMLAttr }}" class="floating">
         {{ end }}
         {{ if eq .type "audio" }}
-            <audio class="w-100 floating" src="{{ .fpath }}" controls></audio>
+            <audio preload="none" class="w-100 floating" src="{{ .fpath }}" controls></audio>
         {{ end }}
         <figcaption class="caption">{{ .caption | markdownify }}</figcaption>
     </figure>
