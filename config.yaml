@@ -29,6 +29,7 @@ menu:
 params:
   menu_item_separator: " | "
   author: Pietro Carrara
+  title: syslog
   social:
     -
       icon: github
