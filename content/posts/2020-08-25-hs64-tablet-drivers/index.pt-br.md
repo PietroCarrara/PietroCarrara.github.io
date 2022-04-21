@@ -1,10 +1,10 @@
 ---
 date: "2020-08-25T00:00:00Z"
+title: Drivers do Huion HS64
 tags:
   - huion
   - tech
   - linux
-title: Drivers do Huion HS64
 ---
 
 Devido a pandemia em curso do COVID-19, eu me encontrei com tempo livre demais; tanto que eu decidi experimentar um novo hobby: Desenhar. Eu não pretendo levar isso a sério, eu só queria rabiscar alguma coisa enquanto eu não tenho nada melhor pra fazer.

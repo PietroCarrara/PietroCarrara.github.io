@@ -1,10 +1,10 @@
 ---
 date: "2020-08-25T00:00:00Z"
+title: Huion HS64 Drivers
 tags:
   - huion
   - tech
   - linux
-title: Huion HS64 Drivers
 ---
 
 Due to the ongoing COVID-19 pandemic, I found myself with too much free time; so much that I decided to try a new
