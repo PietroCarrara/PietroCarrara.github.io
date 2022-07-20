@@ -3,9 +3,9 @@ title: "Review do Filme: Drunken Master (1978)"
 date: 2021-08-07T14:25:23-03:00
 poster: images/poster.jpg
 tags:
-  - movie
-  - review
-  - jackie-chan
+  - Filme
+  - Review
+  - Jackie-Chan
 ---
 
 **[Drunken Master](https://www.themoviedb.org/movie/11230-jui-kuen)** é um dos filmes que ajudou a catapultar a carreira de Jackie Chan como um mestre das artes marciais, assim como foram *[Snake in the Eagle's Shadow](https://www.themoviedb.org/movie/11537-se-ying-diu-sau)* e *[The Young Master](https://www.themoviedb.org/movie/11563)*. Nele já temos quase todos os elementos que viriam se tornar sinônimos das obras posteriores de Jackie: Incríveis cenas de luta misturadas com comédia, assim como o energético carisma de Chan. Só estão faltando as perigosas cenas de ação responsáveis por quebrar muitos dos ossos de Jackie, mas o filme tem kung-fu o suficiente para compensar.

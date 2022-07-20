@@ -3,9 +3,9 @@ title: "Movie Review: Drunken Master (1978)"
 date: 2021-08-07T14:25:23-03:00
 poster: images/poster.jpg
 tags:
-  - movie
-  - review
-  - jackie-chan
+  - Movie
+  - Review
+  - Jackie-Chan
 ---
 
 **[Drunken Master](https://www.themoviedb.org/movie/11230-jui-kuen)** is one of the movies that helped set-up Jackie Chan's career as a martial artist, along with *[Snake in the Eagle's Shadow](https://www.themoviedb.org/movie/11537-se-ying-diu-sau)* and *[The Young Master](https://www.themoviedb.org/movie/11563)*. It has almost all the elements that became synonymous with Chan's later movies: Great fighting mixed with comedy and his high energy charisma. The only thing that's missing is the crazy stunts, but the movie has enough kung-fu to make up for it. In fact, this is one of the main differences when you compare this film with other of Chan's works: Here, **everybody *fights***. And they don't just throw some punches around; this is a martial arts movie, after all.

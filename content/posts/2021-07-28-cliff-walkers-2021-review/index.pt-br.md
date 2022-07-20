@@ -3,8 +3,8 @@ title: "Review do Filme: Cliff Walkers (2021)"
 date: 2021-07-28T13:52:46-03:00
 poster: images/poster.jpg
 tags:
-  - movie
-  - review
+  - Filme
+  - Review
 ---
 
 **[Cliff Walkers](https://www.themoviedb.org/movie/639557-impasse)** segue 4 espiões chineses tentando chegar na cidade dominada por japoneses de Harbin, onde devem aguardar por futuras instruções. No entanto, os fascistas estão cientes de seus planos, e enviam seus próprios agentes para se infiltrar e sabotar a missão.
