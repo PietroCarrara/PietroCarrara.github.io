@@ -1,0 +1,9 @@
+<div class="center dice">
+    {{ range (split .Inner " ") }}
+      {{ if hasPrefix . "d" }}
+        <i class="df-{{ . }}"></i>
+      {{ else }}
+        <span>{{ . }}</span>
+      {{ end }}
+    {{ end }}
+</div>
