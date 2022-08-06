@@ -5,6 +5,14 @@ poster: images/poster.jpg
 description: Drunken Master é um dos filmes que ajudou a catapultar a carreira de Jackie Chan como um mestre das artes marciais. Nele, já temos quase todos os elementos que viriam se tornar sinônimos das obras posteriores de Jackie.
 schema:
   type: "UserReview"
+  custom:
+    itemReviewed:
+      "@type": Movie
+      name: Drunken Master
+      dateCreated: "1978"
+      director: Yuen Woo-ping
+      url: https://www.imdb.com/title/tt0080179/
+      image: images/poster.jpg
 tags:
   - Filme
   - Review

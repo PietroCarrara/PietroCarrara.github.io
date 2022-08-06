@@ -5,6 +5,14 @@ poster: images/poster.jpg
 description: Drunken Master is one of the movies that helped set-up Jackie Chan's career as a martial artist. It has almost all the elements that became synonymous with Chan's later movies.
 schema:
   type: "UserReview"
+  custom:
+    itemReviewed:
+      "@type": Movie
+      name: Drunken Master
+      dateCreated: "1978"
+      director: Yuen Woo-ping
+      url: https://www.imdb.com/title/tt0080179/
+      image: images/poster.jpg
 tags:
   - Movie
   - Review

@@ -5,6 +5,14 @@ poster: images/poster.jpg
 description: Cliff Walkers follows 4 Chinese spies trying to reach the Japanese-dominated city of Harbin, where they should await for further instructions. However, the fascists are aware of their plans.
 schema:
   type: "UserReview"
+  custom:
+    itemReviewed:
+      "@type": Movie
+      name: Cliff Walkers
+      dateCreated: "2021"
+      director: Zhang Yimou
+      url: https://www.imdb.com/title/tt11448076/
+      image: images/poster.jpg
 tags:
   - Movie
   - Review
