@@ -5,6 +5,11 @@ disclaimer: "This text does not reveal elements of the Umineko plot beyond what 
 description: Umineko No Naku Koro Ni is a Japanese visual novel split into 8 parts originally released between 2007 and 2010. Spanning a total of 160 hours, I've used 4 taken to read it all.
 schema:
   type: "UserReview"
+  custom:
+    itemReviewed:
+      "@type": "Game"
+      name: "Umineko no Naku Koro ni"
+      url: https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/
 tags:
   - Book
   - Game
@@ -14,7 +19,7 @@ tags:
   - 7th Expansion
 ---
 
-During the last 4 months I've used a total of 160 hours of my free time to "play" (read would be more fitting) *[Umineko No Naku Koro Ni](https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/)*, a Japanese visual novel split into 8 parts originally released between 2007 and 2010. Translated as "Umineko When They Cry", the story is about how, during the 2 days of the yearly Ushiromiya family conference, the people present are killed in apparently impossible murders, with the bodies of the victims found in rooms locked from the inside.
+During the last 4 months I've used a total of 160 hours of my free time to "play" (read would be more fitting) *[Umineko no Naku Koro ni](https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/)*, a Japanese visual novel split into 8 parts originally released between 2007 and 2010. Translated as "Umineko When They Cry", the story is about how, during the 2 days of the yearly Ushiromiya family conference, the people present are killed in apparently impossible murders, with the bodies of the victims found in rooms locked from the inside.
 
 The meeting takes place in Rokkenjima, the family's private island and where their mansion is located. Could the culprit be one of the 18 present at the meeting? Could there be a 19th hidden person on the island? Or yet, maybe the culprit is the witch that, according to legend, rules the mansion by night and could've committed the crimes using magic...
 
