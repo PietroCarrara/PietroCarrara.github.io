@@ -1,6 +1,7 @@
 ---
 date: "2020-08-25T00:00:00Z"
 title: Huion HS64 Drivers
+description: I try to fix device drivers that weren't broken on Linux
 tags:
   - Huion
   - Tech

@@ -1,6 +1,9 @@
 ---
 title: "Shadowrun Anarchy: Regras Simplificadas ou Simplistas?"
 date: 2022-07-29T01:22:00-03:00
+description: "As regras de Shadowrun são horríveis, mas em 2016 foi lançado o Anarchy: uma versão mais simplificada das regras que prometia maior foco na narrativa."
+schema:
+  type: "UserReview"
 tags:
   - Jogo
   - RPG

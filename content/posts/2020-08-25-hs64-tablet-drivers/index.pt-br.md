@@ -1,6 +1,7 @@
 ---
 date: "2020-08-25T00:00:00Z"
 title: Drivers do Huion HS64
+description: Eu tentando consertar drivers que não estavam quebrados no Linux
 tags:
   - Huion
   - Tech

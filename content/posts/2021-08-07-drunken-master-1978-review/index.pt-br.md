@@ -2,6 +2,9 @@
 title: "Review do Filme: Drunken Master (1978)"
 date: 2021-08-07T14:25:23-03:00
 poster: images/poster.jpg
+description: Drunken Master é um dos filmes que ajudou a catapultar a carreira de Jackie Chan como um mestre das artes marciais. Nele, já temos quase todos os elementos que viriam se tornar sinônimos das obras posteriores de Jackie.
+schema:
+  type: "UserReview"
 tags:
   - Filme
   - Review

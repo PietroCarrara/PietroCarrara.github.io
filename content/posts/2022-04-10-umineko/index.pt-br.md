@@ -2,6 +2,9 @@
 title: "Umineko e o Gênero de Mistério (sem spoilers)"
 date: 2022-04-10T20:00:00-03:00
 disclaimer: "Este texto não revela detalhes da trama de Umineko para além do que poderia ser encontrado na descrição do jogo."
+description: Umineko No Naku Koro é uma visual novel japonesa dividida em 8 partes lançadas entre 2007 e 2010. Com 160 horas de conteúdo, gastei 4 meses para acabar de lê-la.
+schema:
+  type: "UserReview"
 tags:
   - Livro
   - Jogo

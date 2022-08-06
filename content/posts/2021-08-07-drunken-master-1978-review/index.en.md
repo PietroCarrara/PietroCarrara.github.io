@@ -2,6 +2,9 @@
 title: "Movie Review: Drunken Master (1978)"
 date: 2021-08-07T14:25:23-03:00
 poster: images/poster.jpg
+description: Drunken Master is one of the movies that helped set-up Jackie Chan's career as a martial artist. It has almost all the elements that became synonymous with Chan's later movies.
+schema:
+  type: "UserReview"
 tags:
   - Movie
   - Review

@@ -1,6 +1,9 @@
 ---
 title: "Shadowrun Anarchy: Simplified or Simplistic Rules?"
 date: 2022-07-29T01:22:00-03:00
+description: The Shadowrun rules are horrendous, but arround 2016 the Anarchy ruleset was released, promising simpler rules and a greater focus on the narrative.
+schema:
+  type: "UserReview"
 tags:
   - Game
   - RPG

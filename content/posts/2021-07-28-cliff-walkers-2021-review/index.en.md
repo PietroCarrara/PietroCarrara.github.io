@@ -2,6 +2,9 @@
 title: "Movie Review: Cliff Walkers (2021)"
 date: 2021-07-28T13:52:46-03:00
 poster: images/poster.jpg
+description: Cliff Walkers follows 4 Chinese spies trying to reach the Japanese-dominated city of Harbin, where they should await for further instructions. However, the fascists are aware of their plans.
+schema:
+  type: "UserReview"
 tags:
   - Movie
   - Review

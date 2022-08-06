@@ -2,6 +2,9 @@
 title: "Umineko and the Mystery Genre (spoiler-free)"
 date: 2022-04-10T20:00:00-03:00
 disclaimer: "This text does not reveal elements of the Umineko plot beyond what could be found in the game's description"
+description: Umineko No Naku Koro Ni is a Japanese visual novel split into 8 parts originally released between 2007 and 2010. Spanning a total of 160 hours, I've used 4 taken to read it all.
+schema:
+  type: "UserReview"
 tags:
   - Book
   - Game
