@@ -6,7 +6,12 @@ schema:
   type: "UserReview"
   custom:
     itemReviewed:
-      "@type": "Game"
+      "@type": "Book"
+      "@id": https://books.google.com.br/books/about/Shadowrun_Anarchy.html?id=XvpawQEACAAJ
+      author:
+        "@type": Organization
+        name: Catalyst Game Labs
+      image: images/anarchy.jpg
       name: "Shadowrun: Anarchy"
 tags:
   - Jogo
