@@ -71,8 +71,8 @@ Os 4 primeiros episódios compõe a metade inicial do jogo e se dedicam a aprese
 >
 >*Acabando de limpar, Alice pega o molho em cima da cama e os dois saem do quarto. Ao tentar trancar a porta, ela percebe que a chave deste cômodo está faltando. Os dois então, juntos, saem por procurar e a encontram na sala. Como pode James ter feito a chave parar aqui se a própria Alice havia destrancado o quarto no início do turno?*
 >
-> - {{< spoiler >}}O molho segura as chaves de maneira firme, e remover alguma delas do conjunto causa barulho, alertando Alice.{{< /spoiler >}}
 > - {{< spoiler >}}Ninguém entrou ou saiu do quarto até que os dois saíram e perceberam a ausência da chave.{{< /spoiler >}}
+> - {{< spoiler >}}O molho segura as chaves de maneira firme, e remover alguma delas do conjunto causa barulho, alertando Alice.{{< /spoiler >}}
 > - {{< spoiler >}}Durante a busca, os dois estavam sempre juntos, e não era possível realizar truques para enganar ninguém.{{< /spoiler >}}
 > - {{< spoiler >}}James é o culpado, e apenas ele.{{< /spoiler >}}
 > - {{< spoiler >}}A chave que Alice usou para abrir o quarto no início e a encontrada na sala são cópias diferentes.{{< /spoiler >}}

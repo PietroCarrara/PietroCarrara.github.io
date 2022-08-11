@@ -71,8 +71,8 @@ The first 4 episodes make the first half of the game, presenting the mystery, de
 >
 >*When the cleaning is done, Alice takes the keyring on the bed and the both of them leave the room. When she tries locking the room, Alice notices the key for this door is missing from the keyring. The two of them, together, start looking for it and find it in the living room. How could've James put the key here if Alice herself unlocked the room at the start of the shift?*
 >
-> - {{< spoiler >}}The keyring holds everything in a tight fit, so removing any key would make noise, alerting Alice.{{< /spoiler >}}
 > - {{< spoiler >}}No one entered or left the room until the two of them left and noticed the missing key.{{< /spoiler >}}
+> - {{< spoiler >}}The keyring holds everything in a tight fit, so removing any key would make noise, alerting Alice.{{< /spoiler >}}
 > - {{< spoiler >}}During the search, the two of them were always together, and it was not possible to trick anyone.{{< /spoiler >}}
 > - {{< spoiler >}}James alone is the culprit.{{< /spoiler >}}
 > - {{< spoiler >}}The key Alice used to open the room at the shift start and the one they found in the room are different copies.{{< /spoiler >}}
