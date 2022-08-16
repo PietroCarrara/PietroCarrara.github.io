@@ -48,7 +48,7 @@ I had the general idea of the story already laid out in my head since long ago, 
 With a rules system and adventure set, I assembled 4 players to create their characters. The results were as follows:
 
 - **Alyonka** has little left of what made her body human. Cyberarms and legs grant her supernatural accuracy and speed, and cybereyes chase her victims down the dark nights. Ex-member of Red Army secret unit, she is always seen wearing her holo-mask over her face.
-- Could **Catnip**'s feline characteristics, like his cat tail or ear, be the effects of the return of magic to our world? Or could they be the results of experimental tech developed by some megacorporation? What we know is that before becoming a shadowrunner, Catnip was the only survivor of the massacre on the shamanic tribe in which he lived, located on the country that succeeded Brazil: Amazonia.
+- Could **Catnip**'s feline characteristics, like his cat tail or ears, be the effects of the return of magic to our world? Or could they be the results of experimental tech developed by some megacorporation? What we know is that before becoming a shadowrunner, Catnip was the only survivor of the massacre on the shamanic tribe in which he lived, located on the country that succeeded Brazil: Amazonia.
 - **Seer** is one of the best mechanics of this district of town, carrying all his repair tools in his cyberhand. What few people know is what he does outside his garage: besides being a pilot, seer is also a decker that sells data on the black market, stolen with his trusty *MCT Fly Spies*.
 - Little is known about the past of **Luis** besides the fact he came from Amazonia. He channels magic through his body to perform supernatural feats, like walking in the walls, or seeing through them.
 
