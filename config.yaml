@@ -46,6 +46,11 @@ params:
       icon: book-open
       name: GoodReads
       url: https://www.goodreads.com/user/show/52352747-pietro-carrara
+  robots:
+    disable:
+      - /vanderbei-linear-programming-book/
+      - /InterPong/
+      - /Padoru/
 
 # Fix aac not being recognized as audio
 mediaTypes:

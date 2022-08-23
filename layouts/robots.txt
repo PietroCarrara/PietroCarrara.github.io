@@ -1,2 +1,7 @@
 User-Agent: *
 Sitemap: {{ .Site.BaseURL }}/sitemap.xml
+{{ with .Site.Params.robots.disable -}}
+{{- range . -}}
+Disallow: {{ . }}
+{{ end }}
+{{ end }}
