@@ -1,2 +1,6 @@
 User-Agent: *
 Sitemap: https://pietrocarrara.github.io/sitemap.xml
+Disallow: /vanderbei-linear-programming-book/
+Disallow: /InterPong/
+Disallow: /Padoru/
+
