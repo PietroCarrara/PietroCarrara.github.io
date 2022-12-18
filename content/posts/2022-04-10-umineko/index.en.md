@@ -50,7 +50,7 @@ And be it on the more calm moments or during the faster-paced ones, my verdict i
 
 {{< figure "videos/cellmineko.mp4" >}}
   ["Me, impatient!? I've been reading this for TWO AND A HALF HOURS, and nothing
-  has happened yet! NOTHING! They're still introducing characters, dude!](https://youtu.be/1QT7HL_5h10?t=17)<br>
+  has happened yet! NOTHING! They're still introducing characters, dude!"](https://youtu.be/1QT7HL_5h10?t=17)<br>
 
   >--- Cellbit, not knowing there are still 7 hours and a half until something happens
 {{< /figure >}}

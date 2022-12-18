@@ -39,13 +39,17 @@ params:
       name: Github
       url: https://github.com/PietroCarrara
     -
+      icon: twitter
+      name: Mastodon
+      url: https://dice.camp/@tanuko
+    -
       icon: film
       name: TheMovieDB
       url: https://www.themoviedb.org/u/piticarrara
     -
       icon: book-open
-      name: GoodReads
-      url: https://www.goodreads.com/user/show/52352747-pietro-carrara
+      name: BookWyrm
+      url: https://velhaestante.com.br/user/tanuko
   robots:
     disable:
       - /vanderbei-linear-programming-book/
