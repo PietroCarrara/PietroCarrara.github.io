@@ -39,7 +39,7 @@ params:
       name: Github
       url: https://github.com/PietroCarrara
     -
-      icon: twitter
+      icon: mastodon
       name: Mastodon
       url: https://dice.camp/@tanuko
     -
@@ -47,7 +47,7 @@ params:
       name: TheMovieDB
       url: https://www.themoviedb.org/u/piticarrara
     -
-      icon: book-open
+      icon: book
       name: BookWyrm
       url: https://velhaestante.com.br/user/tanuko
   robots:
