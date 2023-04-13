@@ -25,7 +25,7 @@ Graças ao vídeo do *SUSD* sobre [Android: Netrunner](https://www.youtube.com/w
 
 Há uns bons 5 ou 6 anos, quando tinha um hábito mais frequente de jogar RPG, mestrei uma aventura de *Shadowrun* pela primeira vez. O cenário mistura estética/temas *cyberpunk* com misticismo, monstros e magia, e é um dos mundos mais fantásticos para se contar uma história. Além disso, a quantidade de itens descritos no capítulo de equipamentos do livro de regras transforma a criação de personagens em uma ida a loja de brinquedos. Mas essas não foram as coisas que mais marcaram a nossa aventura.
 
-{{<figure "images/netrunner.png" false>}}
+{{<figure src="images/netrunner.png" shadow=false alt="Cartas ilustrando firewalls, vírus, planos de corporações e hackers." >}}
   Em [Netrunner](https://nisei.net/), um jogador controla uma megacorporação tentando avançar sua agenda de planos, enquanto o outro joga como um rebelde lutando contra o sistema.
 {{</figure>}}
 
@@ -37,7 +37,7 @@ Avance para 2022 e eu estou pensando: "talvez *Shadowrun* seja mais fácil agora
 
 Mas em 2019 foi lançada a 6.ª edição do jogo, que prometia regras mais simples e sistemas mais diretos e ao ponto. Ótimo, era justamente isso que eu procurava! Entusiasmado ao saber da existência dessa edição, comecei a procurar opiniões sobre o livro. Foi aí que eu descobri que sua publicação foi apressada para acompanhar o *hype* de *Cyberpunk 2077*, com muitos usuários reclamando de sistemas quebrados e disfuncionais. Estaria eu condenado a nunca jogar *Shadowrun*?
 
-{{<figure "images/shadowrun.jpg">}}
+{{<figure src="images/shadowrun.jpg" alt="Uma luta envolvendo um espadachim orc, uma elfa conjurando raios e um humano controlando vários drones. Todos estão atirando num inseto fantasmagórico gigante enquanto logos de corporações brilham no topo de arranha-céus no fundo." >}}
   A capa da 5.ª edição de *Shadowrun* descreve bem o cenário.
 {{</figure>}}
 
@@ -52,7 +52,7 @@ Com a aventura e o sistema definidos, juntei um total de 4 jogadores para criare
 - **Seer** é um dos melhores mecânicos deste distrito da cidade, carregando todas as suas ferramentas de reparo em sua cyber-mão. O que poucos sabem é o que faz fora da oficina: além de piloto, Seer é um decker que vende informações roubadas para o mercado negro, obtidas usando seus confiáveis *MCT Fly Spy*.
 - Pouco se sabe sobre o passado de **Luis**, além do fato que veio da nação de Amazonia. Canaliza magia em seu corpo para realizar feitos sobrehumanos, como andar nas paredes ou ver através delas.
 
-{{<figure "images/crew.gif">}}
+{{<figure src="images/crew.gif" alt="Um episódio de \"Apenas um Show\" com alguns esteriótipos hackers: código binário e comandos de terminal flutuam pela tela.">}}
   Representação comicamente apropriada dos personagens.
 {{</figure>}}
 
@@ -62,7 +62,7 @@ A começar pelo combate, as distâncias foram simplificadas e abstraidas para 3 
 
 Com o combate preso entre o abstrato e o tático, as armas começam a perder o sentido. As duas características listadas em cada arma são distância e dano. Mas com distância sendo tão abstrata e o dano sendo tão concreto, pode-se ignorar a distância completamente e apenas escolher a arma com maior dano. Há uma diferença em *roleplay* que um *rocket launcher* é muito mais difícil de esconder do que um revólver (em *Shadowrun* 5.ª edição, isso era gerido com um modificador para testes de detecção), mas a maioria das armas não são *rocket launchers*. Então a lista de armas passa de uns 20 itens para uns 5 ou 6 relevantes. Talvez um sistema parecido com os itens de The Sprawl, que usa "tags" para descrever suas capacidades, fosse mais interessante ("sileciosa", "facilmente escondível", "longa distância", ...), sem se preocupar com características numéricamente bem-definidas.
 
-{{<figure "images/anarchy.jpg">}}
+{{<figure src="images/anarchy.jpg" alt="A capa de \"Shadowrun: Anarchy\", com um elfo segurando duas katanas.">}}
   Shadowrun: Anarchy poderia aprender muitas coisas com designs mais modernos, como [The Sprawl](https://www.drivethrurpg.com/product/171286/The-Sprawl----MIDNIGHT), [Dungeon World](https://dungeon-world.com/) ou o sistema pai dos dois, [Apocalypse World](http://apocalypse-world.com/).
 {{</figure>}}
 

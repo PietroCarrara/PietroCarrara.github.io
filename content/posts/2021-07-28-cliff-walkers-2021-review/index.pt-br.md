@@ -22,7 +22,7 @@ tags:
 
 Esse filme põe espiões para fazer aquilo que fazem de melhor: lidar com informações. A primeira cena mostra os protagonistas se dividindo em 2 grupos, sem rádios ou outras maneiras de estabelecer contato. Mais pra frente, um dos grupos descobre está sendo observado, e devem informar seus parceiros disso sem denunciar suas identidades. Numa outra cena, uma reunião deve ser marcada sem que os membros se encontrem. O desafio de enviar/receber informações é o motor que move o filme. Os japoneses suspeitam de um infiltrado, então eles tomam cuidado com quais informações são entregues a cada membro. O filme segue nesse vai-e-vem, alternando entre cenas seguindo as equipes japonesa e chinesa. Todos os personagens têm a mente afiada, e manobram bem para esconder ou extrair informações dos outros. A tensão começa aos 5 minutos e dura durante a sessão inteira. **É exatamente como deveria ser um filme de espiões**.
 
-{{< figure "images/cliff-walkers-1.jpg" >}}
+{{< figure src="images/cliff-walkers-1.jpg" alt="Uma espiã com um chapéu preto observando de um canto." >}}
   Um sumário visual da atmosfera do filme.
 {{< /figure >}}
 

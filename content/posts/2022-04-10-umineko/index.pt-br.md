@@ -23,7 +23,7 @@ Durante os últimos 4 meses eu usei um total de 160 horas de meu tempo livre par
 
 A reunião acontece em Rokkenjima, ilha privada da família onde se localiza sua mansão. Seria o culpado uma das 18 pessoas presentes? Poderia haver uma 19.ª pessoa na ilha? Ou ainda, talvez a culpada seja a bruxa que, segundo a lenda, é a mestre noturna da mansão e poderia ter cometido esses crimes impossíveis usando magia...
 
-{{< figure "images/portrait.jpg" >}}
+{{< figure src="images/portrait.jpg" alt="Pintura de uma mulher branca, loira de cabelos curtos e olhos azuis. Ela usa um vestido preto e vinho, com alguns detalhes dourados." >}}
   O retrato da bruxa dourada, Beatrice.
 {{< /figure >}}
 
@@ -31,7 +31,7 @@ Essa foi a minha segunda vez lendo uma obra de mistério, a primeira tendo sido 
 
 A história tem forte influência de escritores tradicionais de mistério, tanto [japoneses](https://www.theguardian.com/books/2021/apr/27/honkaku-a-century-of-the-japanese-whodunnits-keeping-readers-guessing) quanto europeus/americanos. A estrutura de um grupo de pessoas presas em uma ilha onde assassinatos ocorrem vem de *[E Não Sobrou Nenhum](https://www.goodreads.com/book/show/22737998-e-n-o-sobrou-nenhum)* de Agatha Christie, e essa obra é até mesmo brevemente mencionada por uma das personagens. *Umineko* é um mistério que se orgulha de suas raízes, deixando isso muito claro ao longo da leitura ao mencionar autores famosos e seus estilos de escrita. Uma elemento muito forte na literatura japonesa é a ideia do "*fair play*", de que o leitor deva ter todas as pistas para resolver o mistério antes que o protagonista enuncie a resposta. Eu tinha apenas uma vaga ideia da solução quando a resposta foi revelada, mas para entender se alguém familiar com esse tipo de história poderia resolver o mistério, li as [notas de Ho-Ling Wong](https://ho-lingnojikenbo.blogspot.com/p/temp-umineko-no-naku-koro-ni-play-memo.html), que se especializa em mistérios japoneses e já até mesmo trabalhou em traduções de clássicos para o inglês (como *[The Decagon House Murders](https://www.goodreads.com/book/show/52958127-the-decagon-house-murders)*).
 
-{{< figure "images/screenshot.png" >}}
+{{< figure src="images/screenshot.png" alt="Print do jogo. Três personagens estão em uma praia: Dois primos jovens e uma criança. Os jovens gritam \"Maria, não molhe seus sapatos, ou você vai arrumar problemas!\"." >}}
   Mesmo descartando os elementos de mistério, Umineko continua tendo
   história e conclusão boas, apesar de um ritmo lento.
 {{< /figure >}}
@@ -40,7 +40,7 @@ A diferença entre nossos processos de pensamento é absurda. Desde o primeiro e
 
 Mas isso não é um fator desanimador: assim como eu --- um novato no gênero de mistérios ---, Ushiromiya Battler não está pronto para ver a verdade por trás da tragédia que ocorreu entre 4 e 5 de outubro de 1986. A transformação do protagonista em alguém capaz de entender como esses crimes foram cometidos é o processo que move a história, enquanto também providencia uma "caminhada de mãos dadas" com os jogadores que não estão conseguindo chegar mais perto da solução por si mesmos. Aprender junto de Battler os truques por trás das várias *locked rooms* é uma experiência muito mais agradável do que passar um livro inteiro sem ideia do que pode estar acontecendo, apenas para no final ouvir de um detetive com intelecto sobre-humano que para resolver o crime bastaria observar um fio solto no sobretudo do culpado (apesar de ser uma experiência diferente e com valor próprio!).
 
-{{< figure "audios/worldenddominator.ogg" >}}
+{{< figure src="audios/worldenddominator.ogg" alt="Música eletrônica, mas usando um cravo como instrumento principal. Ela é rápida e energizada; começa baixa e tensa, mas vai aumentando o volume até que finalmente as batidas superam o volume do cravo." >}}
   Trecho de uma das minhas faixas favoritas na trilha sonora, [worldenddominator](https://www.youtube.com/watch?v=mVr0IUQ6BwE).
 {{< /figure >}}
 
@@ -48,7 +48,7 @@ Como observado por [Willard Wright](https://en.wikipedia.org/wiki/S._S._Van_Dine
 
 E seja durante os momentos calmos ou durante os frenéticos, meu veredito é que jogar *Umineko* sem um bom par de fones é um crime contra a obra. O autor, Ryukishi07, prefere categorizar o seu trabalho como uma *sound novel*, e loucos são aqueles que discordam dele. Não só a dublagem é de uma qualidade excelente, mas a trilha sonora também é inacreditável. Ao montar uma playlist contento minhas músicas favoritas, me encontrei adicionando praticamente todas elas. Mesmo após realizar uma seleção mais rigorosa, a [playlist final](https://www.youtube.com/playlist?list=PLBYLjFK8Z5KBb3ErWgYkjrT1AixnYAcVg) acabou tendo 70 itens! E se analisarmos apenas essas 70 trilhas, um grande alcance de emoções ainda é apresentado: da melancolia de *[Voiceless](https://www.youtube.com/watch?v=Xkun-83JvF8)* à energia de *[Fake Red Shoes](https://www.youtube.com/watch?v=KZ9D05ll2Rw)*, passando pela elegância sinistra de *[Scorpion Entrails](https://www.youtube.com/watch?v=UX3L-gs4MPs)* e arrogância de *[Golden Sneer](https://www.youtube.com/watch?v=R0yYXgnSwmE)* (e todas essas são só do início do jogo!).
 
-{{< figure "videos/cellmineko.mp4" >}}
+{{< figure src="videos/cellmineko.mp4" alt="Trecho da stream do Cellbit. Ele está com Umineko pausado, e grita com a câmera." >}}
   ["Eu, impaciente!? Eu tô lendo essa narrativa faz DUAS HORAS E MEIA, e não
   aconteceu nada! NADA! Tão apresentando personagem até agora!"](https://youtu.be/1QT7HL_5h10?t=17)<br>
 
@@ -60,9 +60,9 @@ Mas por melhor que seja a trilha sonora, ela não consegue sozinha consertar o m
 Os 4 primeiros episódios compõe a metade inicial do jogo e se dedicam a apresentar o mistério, desenvolver as personagens e treinar Battler na resolução de crimes em *locked rooms*. A partir 5.º episódio, o leitor que até agora podia propor soluções absurdas para os assassinatos, recebe informações para pensar em maneiras mais plausíveis de se cometer os crimes. Ao final desse episódio, por um certo tempo ponderei se deveria voltar e ler os quatro primeiros com essas novas informações e o treinamento em *locked rooms*. Acabei não fazendo isso, pois como qualquer pessoa normal, não teria paciência de sentar na frente do computador por mais 80 horas para **reler conteúdo**. Por isso, muitos recomendam ler a [adaptação para mangá](https://www.goodreads.com/series/115058-umineko-no-naku-koro-ni) nesse ponto da história, por ser mais curta. Claro, são perdidos pequenos detalhes, como as conversas sobre chá, mas tenho certeza que isso será visto como uma benção pelos que já leram a visual novel (em apenas 7 capítulos se resumem as primeiras 10 horas do jogo!). Se soubesse da existência dessa adaptação na época, provavelmente a teria lido para repensar o mistério (mas ainda não acho que o teria solucionado), pois com 100 horas de *Umineko* me sentia infinitamente mais preparado do que quando comecei a jogar em Dezembro do ano passado. Esse "treinamento" surtiu um bom efeito, ao ponto de que, quando um mini *locked room mystery* foi apresentado a mim, a solução surgiu quase que imediatamente em minha mente. No próximo parágrafo está uma adaptação desse mistério para que você tente resolvê-lo. Ao pensar em uma teoria que explique o caso, clique em um dos pontos para revelar um fato; se ele quebrar sua teoria, reformule-a e repita o processo. Boa sorte!
 {{< small >}}*(Experimente ouvir [este arranjo de Dead Angle](https://www.youtube.com/watch?v=ESYP5DZVwIM) enquanto pensa em uma solução!)*{{</ small >}}
 
-{{< figure "images/umineko-manga.png" >}}
-  O estilo de arte do mangá não me agradou muito,
-  mas as páginas mais trabalhadas são de tirar o fôlego.
+{{< figure src="images/umineko-manga.png" alt="Conjunto de duas páginas do mangá de Umineko. Do quadro ilustrando Beatrice sai uma figura fantasmagórica, enquanto uma personagem diz no fundo: \"Dizem que a madame Beatrice sai do quadro e ronda pela mansão a noite...\"" >}}
+  Cada volume do mangá é ilustrado por um artista diferente, que é mais um ponto positivo:
+  ver como cada artista interpreta as personagens e expressa isso em seu desenho.
 {{< /figure >}}
 
 >*Em uma mansão onde cada funcionário carrega um molho com as chaves de todas as portas, um empregado, James, quer pregar uma peça em sua colega de trabalho, Alice. Quando os dois são alocados para limpar um quarto juntos no dia seguinte, James começa a fazer planos...*

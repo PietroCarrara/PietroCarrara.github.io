@@ -23,7 +23,7 @@ During the last 4 months I've used a total of 160 hours of my free time to "play
 
 The meeting takes place in Rokkenjima, the family's private island and where their mansion is located. Could the culprit be one of the 18 present at the meeting? Could there be a 19th hidden person on the island? Or yet, maybe the culprit is the witch that, according to legend, rules the mansion by night and could've committed the crimes using magic...
 
-{{< figure "images/portrait.jpg" >}}
+{{< figure src="images/portrait.jpg" alt="Painting of a white, blonde short-haired woman with blue eyes. She's wearing a deep red and black dress, with a few golden details." >}}
   The portrait of the golden witch, Beatrice.
 {{< /figure >}}
 
@@ -31,7 +31,7 @@ This was my second time reading a mystery, the first having been *[Danganronpa](
 
 The story is heavily influenced by traditional mystery writers, both [Japanese](https://www.theguardian.com/books/2021/apr/27/honkaku-a-century-of-the-japanese-whodunnits-keeping-readers-guessing) and European/American. The "one-by-one they get killed on an isolated island" is a structure borrowed from Agatha Christie's *[And Then There Were None](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)*, and the book is even briefly mentioned by a character. *Umineko* is a mystery that is proud of its origins, making this very clear by mentioning famous authors and their writing styles. A strong trait in the genre's japanese literature is the idea of "fair play", that the reader should have all the needed clues to solve the mystery before the protagonist announces the answer. I had only a faint idea of the solution when it was revealed, but to understand if someone more familiar with this kind of work could solve the mystery, I read the [notes of Ho-Ling Wong](https://ho-lingnojikenbo.blogspot.com/p/temp-umineko-no-naku-koro-ni-play-memo.html), who specializes in Japanese mysteries and has even translated classics to English (such as *[The Decagon House Murders](https://www.goodreads.com/book/show/52958127-the-decagon-house-murders)*).
 
-{{< figure "images/screenshot.png" >}}
+{{< figure src="images/screenshot.png" alt="Screenshot of the game. Three characters stand at a beach: Two teenagers and a child. The teenagers are saying \"Maria! Don't get your shoes wet, or you'll get into trouble!\"" >}}
   Even if putting the mysteries aside, Umineko still has a good
   story and conclusion, although the pacing is slow.
 {{< /figure >}}
@@ -40,7 +40,7 @@ The distance between our thought processes is abysmal. From episode 1 Ho-Ling ha
 
 But this should not scare anyone away from this game: just like me --- a newcomer to mysteries ---, Ushiromiya Battler isn't ready to see the truth behind the October 4th and 5th tragedy. The evolution of the protagonist into someone capable of understanding how these crimes were committed is the process that moves the story forward, while also providing a "guiding hand" for players that are not getting closer to the solution on their own. Learning the many locked room tricks alongside Battler is much more pleasant than reading an entire book having no idea of what could be going on, just to listen from a super-human detective in the end that the only clue needed to solve this was the loose string on the culprit's overcoat (but that's a different experience and has its own value!).
 
-{{< figure "audios/worldenddominator.ogg" >}}
+{{< figure src="audios/worldenddominator.ogg" alt="Electronic music, but with a harpsichord as the main instrument. It's quick and high-energy; starting low and tense, but increasing the volume until the beats overtake the harpsichord." >}}
   Excerpt of one of my favorite pieces in the soundtrack, [worldenddominator](https://www.youtube.com/watch?v=mVr0IUQ6BwE).
 {{< /figure >}}
 
@@ -48,7 +48,7 @@ As pointed out by [Willard Wright](https://en.wikipedia.org/wiki/S._S._Van_Dine)
 
 And be it on the more calm moments or during the faster-paced ones, my verdict is that playing *Umineko* without a good pair of headphones is a crime against the work. The author, Ryukishi07, classifies it as a "sound novel", and only fools would disagree with him here. Not only is the voice acting spectacular, but the soundtrack is just unbelievable. When I was making a playlist of my favorite tracks, I was adding almost all of them in. Even after performing a more rigorous selection, the [final playlist](https://www.youtube.com/playlist?list=PLBYLjFK8Z5KBb3ErWgYkjrT1AixnYAcVg) still ended up with 70 items! And if we look at just these 70 tracks, there still is a great range of emotions: from the melancholy of *[Voiceless](https://www.youtube.com/watch?v=Xkun-83JvF8)* to the power of *[Fake Red Shoes](https://www.youtube.com/watch?v=KZ9D05ll2Rw)*, passing through the sinister elegance of *[Scorpion Entrails](https://www.youtube.com/watch?v=UX3L-gs4MPs)* and the smugness of *[Golden Sneer](https://www.youtube.com/watch?v=R0yYXgnSwmE) (and all of these are from the very first parts of the game!)*.
 
-{{< figure "videos/cellmineko.mp4" >}}
+{{< figure src="videos/cellmineko.mp4" alt="Slice of Cellbit's stream. He has Umineko on pause, and screams at the camera." >}}
   ["Me, impatient!? I've been reading this for TWO AND A HALF HOURS, and nothing
   has happened yet! NOTHING! They're still introducing characters, dude!"](https://youtu.be/1QT7HL_5h10?t=17)<br>
 
@@ -60,9 +60,9 @@ But as good as the soundtrack is, it can't by itself fix the greatest problem in
 The first 4 episodes make the first half of the game, presenting the mystery, developing the characters and training Battler to solve locked rooms. Starting from the 5th episode, the reader that until now was free to come up with any absurd theory to explain the crimes, receives information to think in more plausible ways of committing the murders. When I finished this episode, I pondered for some time if I should go back and re-read the previous episodes, better trained in solving locked rooms and having new info. I ended up not doing it, because like any normal person, I don't have the patience to spend 80 more hours in front of the computer to **re-read content**. It's because of this that many recommend reading the [manga adaptation](https://www.goodreads.com/series/115058-umineko-no-naku-koro-ni) at this point of the story, for it is shorter. Some minor but time-consuming details are lost, of course (like some tea talk), but I'm sure those who have read the visual novel will see this as a blessing (the first 10 hours happen in just 7 chapters!). If I knew of this adaptation when I was playing, I would've probably read it in order to try and solve the mystery (but even so I don't think I would've solved it), because with 100 hours of *Umineko* under my belt I felt much more prepared than when I started playing it in December of last year. This "training" improved me a good much, to the point that, when a "mini locked-room mystery" was presented to me, the solution popped into my head almost immediately. On the next paragraph is an adaptation of this mystery, so you can try and solve it. When you think of a theory that solves the case, click on a point to reveal a fact; if it breaks your theory, reformulate it and repeat this process. Good luck!
 {{< small >}}*(Try listening to [this arrangement of Dead Angle](https://www.youtube.com/watch?v=ESYP5DZVwIM) while thinking!)*{{</ small >}}
 
-{{< figure "images/umineko-manga.png" >}}
-  The art-style of the manga didn't please me
-  much, but some pages are just breathtaking.
+{{< figure src="images/umineko-manga.png" alt="Two-page spread of the Umineko manga. From the painting picturing Beatrice comes out a ghostly figure, while on the background a character says \"There is a rumour that madam Beatrice slips out of the portrait at night and wanders around the mansion...\"" >}}
+  Each volume is illustraded by a different artist, which is another positive:
+  you get to see how each artist interprets the characters and expresses that in their art.
 {{< /figure >}}
 
 >*In a mansion where each servant carries a keyring with keys to all the rooms, James wants to play a trick on his workmate, Alice. When the two are allocated to clear a room together the next day, James starts to scheme...*

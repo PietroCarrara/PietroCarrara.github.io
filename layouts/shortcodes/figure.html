@@ -2,19 +2,25 @@
     Shortcode to display a figure (supports video, audio and images)
 
     Arguments:
-        - 0: The file path
-        - 1: Enable shadow effect? (optional, default: true)
-        - 2: Clicking this image opens the original? (optional, default: true)
-        - 3: Width to resize the image (0 disables resizing) (optional, default: 600)
-        - 4: Height to resize the image (0 disables resizing) (optional, default: 460)
-        - Inner: The caption of the figure
+        - src: The file path
+        - shadow: Enable shadow effect? (default: true)
+        - popup: Clicking this image opens the original? (default: true)
+        - width: Width to resize the image (0 disables resizing) (default: 600)
+        - height: Height to resize the image (0 disables resizing) (default: 460)
+        - alt: Alt text for image content
+        - Inner content: The caption of the figure
 -->
 
-{{ $media := .Page.Resources.GetMatch (.Get 0) }}
-{{ $shadow := .Get 1 | default true }}
-{{ $open := .Get 2 | default true }}
-{{ $resizeW := .Get 3 | default 600 }}
-{{ $resizeH := .Get 4 | default 460 }}
+{{ $media := .Page.Resources.GetMatch (.Get "src") }}
+{{ $shadow := .Get "shadow" | default true }}
+{{ $open := .Get "popup" | default true }}
+{{ $resizeW := .Get "width" | default 600 }}
+{{ $resizeH := .Get "height" | default 460 }}
+{{ $alt := .Get "alt" }}
+
+{{ if not $alt }}
+    {{ errorf "%s: no description for media" .Page.Path }}
+{{ end }}
 
 {{ $caption := .Inner }}
 {{ with $media }}
@@ -40,15 +46,15 @@
     <div class="w-100 center my-2">
         <figure class="w-100 m-auto maxw-600px">
             {{ if eq .ResourceType "video" }}
-                <video muted autoplay loop src="{{ .Permalink }}" class="w-100 {{ $class }}"></video>
+                <video muted autoplay loop title="{{ $alt }}" aria-description="{{ $alt }}" src="{{ .Permalink }}" class="w-100 {{ $class }}"></video>
             {{ end }}
             {{ if eq .ResourceType "image" }}
-                {{ if $open }}<a href="{{ .Permalink }}" target="_blank" rel="noopener" title="{{ i18n "enlarge"}}">{{ end }}
-                    <img src="{{ $im.Permalink }}" loading="lazy" width="{{ $im.Width }}" height="{{ $im.Height }}" alt="{{ $caption | markdownify | plainify | safeHTMLAttr }}" class="{{ $class }}">
+                {{ if $open }}<a href="{{ .Permalink }}" target="_blank" rel="noopener">{{ end }}
+                <img src="{{ $im.Permalink }}" loading="lazy" width="{{ $im.Width }}" height="{{ $im.Height }}" title="{{ $alt }}" alt="{{ $alt }}" class="{{ $class }}">
                 {{ if $open }}</a>{{ end }}
             {{ end }}
             {{ if eq .ResourceType "audio" }}
-                <audio preload="none" class="w-100 {{ $class }}" src="{{ .Permalink }}" controls></audio>
+                <audio title="{{ $alt }}" aria-description="{{ $alt }}" class="w-100 {{ $class }}" src="{{ .Permalink }}" controls></audio>
             {{ end }}
             <figcaption class="caption">{{ $caption | markdownify }}</figcaption>
         </figure>
