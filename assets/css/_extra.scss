@@ -43,15 +43,32 @@ figcaption > blockquote {
 }
 
 .spoiler > span {
+    box-sizing: border-box;
     background-color: $darkest-color;
     color: $darkest-color;
     cursor: pointer;
     border-radius: 3px;
     transition: color 0.5s, background-color 0.5s;
+    border: 1px solid transparent;
 }
+
 .spoiler > input {
-    display: none;
+    // Hide input, leave it still focusable via keyboard
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: auto;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
 }
+
+.spoiler > input:focus-visible + span {
+    border: 1px dashed $light-color;
+}
+
 .spoiler > input:checked + span {
     color: $light-color;
     background-color: transparent;

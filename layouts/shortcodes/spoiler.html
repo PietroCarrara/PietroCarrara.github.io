@@ -1,4 +1,8 @@
+{{ if not (.Get "label") }}
+  {{ errorf "%s: no label given for spoiler" .Page.Path }}
+{{ end }}
+
 <label class="spoiler">
-  <input type="checkbox" autocomplete="off">
+  <input type="checkbox" autocomplete="off" aria-label="{{ .Get "label" }}">
   <span>{{ .Inner | markdownify }}</span>
 </label>
