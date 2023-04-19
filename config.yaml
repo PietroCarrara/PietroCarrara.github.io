@@ -45,7 +45,7 @@ params:
     -
       icon: film
       name: TheMovieDB
-      url: https://www.themoviedb.org/u/piticarrara
+      url: https://www.themoviedb.org/list/7066817
     -
       icon: book
       name: BookWyrm
