@@ -1,2 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Huion on syslog</title><link>https://pietrocarrara.github.io/tags/huion/</link><description>Recent content in Huion on syslog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pietrocarrara.github.io/tags/huion/index.xml" rel="self" type="application/rss+xml"/><item><title>Drivers do Huion HS64</title><link>https://pietrocarrara.github.io/posts/2020-08-25-hs64-tablet-drivers/</link><pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate><guid>https://pietrocarrara.github.io/posts/2020-08-25-hs64-tablet-drivers/</guid><description>Devido a pandemia em curso do COVID-19, eu me encontrei com tempo livre demais; tanto que eu decidi experimentar um novo hobby: Desenhar. Eu não pretendo levar isso a sério, eu só queria rabiscar alguma coisa enquanto eu não tenho nada melhor pra fazer.
-Então eu decidi pegar emprestado uma mesa digitalizadora de uma amiga que tinha uma Wacom. Era uma ferramenta bem legal. Só pluguei e tudo funcionou out of the box.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Huion on syslog</title><link>https://pietrocarrara.github.io/tags/huion/</link><description>Recent content in Huion on syslog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pietrocarrara.github.io/tags/huion/index.xml" rel="self" type="application/rss+xml"/><item><title>Drivers do Huion HS64</title><link>https://pietrocarrara.github.io/posts/2020-08-25-hs64-tablet-drivers/</link><pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate><guid>https://pietrocarrara.github.io/posts/2020-08-25-hs64-tablet-drivers/</guid><description><![CDATA[<p>Devido a pandemia em curso do COVID-19, eu me encontrei com tempo livre demais; tanto que eu decidi experimentar um novo hobby: Desenhar. Eu não pretendo levar isso a sério, eu só queria rabiscar alguma coisa enquanto eu não tenho nada melhor pra fazer.</p>
+<p>Então eu decidi pegar emprestado uma mesa digitalizadora de uma amiga que tinha uma Wacom. Era uma ferramenta bem legal. Só pluguei e tudo funcionou <em>out of the box</em>. Eu até consegui jogar um pouco de osu! usando ela.</p>
+<p>Eu devolvi ela depois de umas 2~3 semanas, e decidi que eu deveria comprar uma. Eu fiz uma pequena pesquisa, e os dispositivos da Huion tinham os preços mais baixos; já que eu não vou levar a sério esse hobby, eu escolhi o modelo HS64.</p>
+<p>Quando ele chegou aqui, o tablet não era <em>plug-n-play</em>, mas foi só instalar os drivers <a href="https://github.com/DIGImend/digimend-kernel-drivers"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >digimend</a> que ele funcionou. Pelo menos parcialmente.</p>
+<p>Duas coisas não funcionaram:</p>
+<ul>
+<li>As <em>Wacom tools</em> não reconheceram o dispositivo, então configurar coisas como uma área ativa não eram possíveis (pelo menos não de uma maneira simples).</li>
+<li>Apesar de poder usar os 2 botões na caneta, os 4 botões do tablet não eram reconhecidos.</li>
+</ul>
+<p>Foi aí que eu me lembrei desse <a href="https://www.youtube.com/watch?v=juGNPLdjLH4"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >vídeo</a>, que tem algumas dicas pra começar a brincar com desenvolvimento de kernel a partir da programação de drivers. E isso me deu uma ideia.</p>
+<p>Assim que pensei nisso, já estava clonando o repositório do Digimend e tentando entender o projeto.</p>
+<p>O README do projeto é muito bom. Tão bom que eu consegui resolver meus problemas só de ler ele. Nele há um guia de como configurar o Xorg para funcionar usando o driver da Wacom; depois de seguir o passo-a-passo, tudo passou a funcionar: eu conseguia usar as <em>Wacom tools</em> e os botões do tablet estavam funcionando.</p>
+<p>Depois eu descobri que o verdadeiro culpado era o <a href="https://aur.archlinux.org/packages/digimend-kernel-drivers-dkms-git"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >pacote do AUR</a> que eu estava usando não fazia essa configuração. Então, ao invés de sujar as minhas mãos com código de drivers, eu me contentei por escrever um <a href="https://aur.archlinux.org/packages/digimend-drivers-git-dkms"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >novo pacote</a>.</p>
+<p>Quem sabe na próxima eu não dou a sorte de comprar um aparelho com um driver quebrado&hellip;</p>
+]]></description></item></channel></rss>

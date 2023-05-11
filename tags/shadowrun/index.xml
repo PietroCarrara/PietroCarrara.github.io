@@ -1,2 +1,234 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shadowrun on syslog</title><link>https://pietrocarrara.github.io/tags/shadowrun/</link><description>Recent content in Shadowrun on syslog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 29 Jul 2022 01:22:00 -0300</lastBuildDate><atom:link href="https://pietrocarrara.github.io/tags/shadowrun/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadowrun Anarchy: Regras Simplificadas ou Simplistas?</title><link>https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/</link><pubDate>Fri, 29 Jul 2022 01:22:00 -0300</pubDate><guid>https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/</guid><description>Graças ao vídeo do SUSD sobre Android: Netrunner, eu recentemente me encontrei jogando várias partidas do card game. A temática cyberpunk do jogo bem representada nas mecânicas é um de seus pontos altos, e me cativou o suficiente para me deixar com muita vontade de contar alguma história em um cenário parecido. Daí, comecei a revirar o fundo do baú procurando algum livro do RPG de mesa Shadowrun.
-Há uns bons 5 ou 6 anos, quando tinha um hábito mais frequente de jogar RPG, mestrei uma aventura de Shadowrun pela primeira vez.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shadowrun on syslog</title><link>https://pietrocarrara.github.io/tags/shadowrun/</link><description>Recent content in Shadowrun on syslog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 29 Jul 2022 01:22:00 -0300</lastBuildDate><atom:link href="https://pietrocarrara.github.io/tags/shadowrun/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadowrun Anarchy: Regras Simplificadas ou Simplistas?</title><link>https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/</link><pubDate>Fri, 29 Jul 2022 01:22:00 -0300</pubDate><guid>https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/</guid><description><![CDATA[<img src="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/feature.jpg" width="757" height="425"><p>Graças ao vídeo do <em>SUSD</em> sobre <a href="https://www.youtube.com/watch?v=Ev24b_17-Po"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Android: Netrunner</a>, eu recentemente me encontrei jogando várias partidas do <em>card game</em>. A temática <em>cyberpunk</em> do jogo bem representada nas mecânicas é um de seus pontos altos, e me cativou o suficiente para me deixar com muita vontade de contar alguma história em um cenário parecido. Daí, comecei a revirar o fundo do baú procurando algum livro do RPG de mesa <em>Shadowrun</em>.</p>
+<p>Há uns bons 5 ou 6 anos, quando tinha um hábito mais frequente de jogar RPG, mestrei uma aventura de <em>Shadowrun</em> pela primeira vez. O cenário mistura estética/temas <em>cyberpunk</em> com misticismo, monstros e magia, e é um dos mundos mais fantásticos para se contar uma história. Além disso, a quantidade de itens descritos no capítulo de equipamentos do livro de regras transforma a criação de personagens em uma ida a loja de brinquedos. Mas essas não foram as coisas que mais marcaram a nossa aventura.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/images/netrunner.png" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/images/netrunner_hu60b07abc0c1532988fac1016a9ff8678_1154308_600x460_fit_q75_h2_box_3.webp" loading="lazy" width="566" height="460" title="Em Netrunner, um jogador controla uma megacorporação tentando avançar sua agenda de planos, enquanto o outro joga como um rebelde lutando contra o sistema." alt="Em Netrunner, um jogador controla uma megacorporação tentando avançar sua agenda de planos, enquanto o outro joga como um rebelde lutando contra o sistema." aria-description="Cartas ilustrando firewalls, vírus, planos de corporações e hackers." class="">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">Em <a href="https://nisei.net/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Netrunner</a>, um jogador controla uma megacorporação tentando avançar sua agenda de planos, enquanto o outro joga como um rebelde lutando contra o sistema.</figcaption>
+        </figure>
+    </div>
+
+
+<p>As regras de <em>Shadowrun</em> eram <strong>horrendas</strong>. Antes mesmo de tentar jogar eu já estava quase desistindo de ler o manual, por não conseguir absorver como a maioria das coisas funcionava. Não ter experiência fora de D&amp;D 3.5 também contribuia para meu estranhamento das regras. Mas, como um grupo, conseguimos superar essa barreira e criar os personagens dos jogadores (cometendo um número quase aceitável de erros e violações de regras). Todos ficaram muito maneiros, cheios de modificações, magias, armas pesadas&hellip; Foi realmente muito divertido imaginar o que cada um poderia fazer em uma missão.</p>
+<p>O complicado era entender como fazer essas coisas. Mesmo alguém que trabalhe com Excel não deve ter visto tantas tabelas por metro quadrado quanto naquele livro de regras. Apesar de nossa aventura ter sido divertida, não podíamos deixar de notar o gosto amargo que o sistema de regras deixava em nossas bocas.</p>
+<p>Avance para 2022 e eu estou pensando: &ldquo;talvez <em>Shadowrun</em> seja mais fácil agora que estou mais velho&rdquo;. Abri o livro e, para minha desagradável surpresa, ele não havia mudado em nada. Estava tudo lá: os poderes mágicos, as modificações corporais, as armas, os veículos&hellip; e as tabelas. O grupo para qual quero mestrar <em>Shadowrun</em> não é o mesmo de anos atrás, mas ainda valoriza regras simples. Eu ousaria dizer que a maioria não tem uma boa noção das regras mesmo nos RPGs que jogamos tradicionalmente (o que não importa muito, já que a maior parte do tempo elas são desnecessárias). Olhando para o peso das regras de <em>Shadowrun</em> e pensando no perfil do grupo, eu fecho o livro.</p>
+<p>Mas em 2019 foi lançada a 6.ª edição do jogo, que prometia regras mais simples e sistemas mais diretos e ao ponto. Ótimo, era justamente isso que eu procurava! Entusiasmado ao saber da existência dessa edição, comecei a procurar opiniões sobre o livro. Foi aí que eu descobri que sua publicação foi apressada para acompanhar o <em>hype</em> de <em>Cyberpunk 2077</em>, com muitos usuários reclamando de sistemas quebrados e disfuncionais. Estaria eu condenado a nunca jogar <em>Shadowrun</em>?</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/images/shadowrun.jpg" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/images/shadowrun_hu55822aa5798bc279b6b18c1cea6547fd_255689_600x460_fit_q75_h2_box.webp" loading="lazy" width="374" height="460" title="A capa da 5.ª edição de Shadowrun descreve bem o cenário." alt="A capa da 5.ª edição de Shadowrun descreve bem o cenário." aria-description="Uma luta envolvendo um espadachim orc, uma elfa conjurando raios e um humano controlando vários drones. Todos estão atirando num inseto fantasmagórico gigante enquanto logos de corporações brilham no topo de arranha-céus no fundo." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">A capa da 5.ª edição de <em>Shadowrun</em> descreve bem o cenário.</figcaption>
+        </figure>
+    </div>
+
+
+<p>Foi aí que pesquisando edições alternativas, encontrei <em>Shadowrun: Anarchy</em> &mdash; um módulo básico <em>rules-light</em> lançado em 2016. Nele não há uma explicação tão boa do mundo, nem uma lista de modificações tão legais, ou mesmo um grande compilado de feitiços e equipamentos; mas há material suficiente para começar a jogar. E, se você puder consultar o manual da 5.ª edição como referência, vai conseguir preencher os vazios sobre a explicação do cenário e uma lista de itens/feitiços/implantes mais interessantes. Após ler o manual de <em>Shadowrun: Anarchy</em>, decidi que mestraria sim uma aventura de <em>Shadowrun</em>.</p>
+<p>Eu já tinha as linhas gerais da história prontas em minha cabeça há muito tempo, para uma aventura de fantasia: os jogadores se juntam para investigar uma morte e revivem o espírito da vítima para que ela os ajude. Como <em>Shadowrun</em> é um cenário com magia, a aventura poderia rodar sem nenhuma alteração, mas decidi mudá-la um pouco: A vítima fazia <em>backups</em> de sua mente algumas vezes por ano, e quando ela desaparece, os jogadores encontram seu construto ROM atualizado há duas semanas, que não faz ideia de porque seu sósia de carne e osso poderia ter desaparecido.</p>
+<p>Com a aventura e o sistema definidos, juntei um total de 4 jogadores para criarem seus personagens. Os resultados foram os seguintes:</p>
+<ul>
+<li><strong>Alyonka</strong>, apesar de humana, tem pouca humanidade restante. Cyber-braços e pernas a conferem velocidade e precisão sobrehumanas, e cyber-olhos perseguem suas vítimas no breu da noite. Ex-integrante de uma unidade secreta do exército vermelho, pode ser vista sempre usando sua máscara holográfica por cima do rosto.</li>
+<li>Seriam as características felinas de <strong>Catnip</strong>, como seu rabo ou suas orelhas de gato, um efeito do retorno da magia ao nosso mundo? Ou os resultados de tecnologias experimentais desenvolvidas por alguma megacorp? O que sabemos é que antes de se tornar um <em>shadowrunner</em>, Catnip foi o único sobrevivente do massacre à tribo shamânica em que vivia, no país que sucedeu o Brasil: Amazonia.</li>
+<li><strong>Seer</strong> é um dos melhores mecânicos deste distrito da cidade, carregando todas as suas ferramentas de reparo em sua cyber-mão. O que poucos sabem é o que faz fora da oficina: além de piloto, Seer é um decker que vende informações roubadas para o mercado negro, obtidas usando seus confiáveis <em>MCT Fly Spy</em>.</li>
+<li>Pouco se sabe sobre o passado de <strong>Luis</strong>, além do fato que veio da nação de Amazonia. Canaliza magia em seu corpo para realizar feitos sobrehumanos, como andar nas paredes ou ver através delas.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/images/crew.gif" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/images/crew.gif" loading="lazy" width="540" height="290" title="Representação comicamente apropriada dos personagens." alt="Representação comicamente apropriada dos personagens." aria-description="Um episódio de &#34;Apenas um Show&#34; com alguns esteriótipos hackers: código binário e comandos de terminal flutuam pela tela." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">Representação comicamente apropriada dos personagens.</figcaption>
+        </figure>
+    </div>
+
+
+<p>Nesse momento, acabamos de jogar a primeira parte (de 3) da aventura. Minha opinião sobre as regras de <em>Shadowrun: Anarchy</em> são mistas. <em>Rules-light</em> não descreva esse livro tão bem&hellip; talvez <em>under-ruled</em> fosse melhor. Eu ainda escolheria <em>Anarchy</em> à 5.ª edição sem pensar duas vezes, mas há erros grandes demais para serem ignorados aqui.</p>
+<p>A começar pelo combate, as distâncias foram simplificadas e abstraidas para 3 tiers: <em>close</em>, <em>near</em> e <em>far</em>. Não queremos um combate tático em um sistema <em>rules-light</em>, então essa foi uma boa mudança. O problema foi que o resto dos sistemas que compõe o combate não foram abstraídos também. Ele continua tendo um nível de detalhes muito alto, com rolagens a cada golpe ou disparo, e duas barras de vida diferentes. Um estilo de combate mais dinâmico (<em><a href="https://bladesinthedark.com/stress-trauma"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Blades In The Dark</a></em> e seu sistema de <em>stress</em> vêm a mente) beneficiaria muito o fluxo das aventuras. Ainda não tivemos momentos de combate na mesa, mas vejo eles facilmente se tornando uma situação repetitiva de &ldquo;espere seu turno, ataque, passe o turno&rdquo;.</p>
+<p>Com o combate preso entre o abstrato e o tático, as armas começam a perder o sentido. As duas características listadas em cada arma são distância e dano. Mas com distância sendo tão abstrata e o dano sendo tão concreto, pode-se ignorar a distância completamente e apenas escolher a arma com maior dano. Há uma diferença em <em>roleplay</em> que um <em>rocket launcher</em> é muito mais difícil de esconder do que um revólver (em <em>Shadowrun</em> 5.ª edição, isso era gerido com um modificador para testes de detecção), mas a maioria das armas não são <em>rocket launchers</em>. Então a lista de armas passa de uns 20 itens para uns 5 ou 6 relevantes. Talvez um sistema parecido com os itens de The Sprawl, que usa &ldquo;tags&rdquo; para descrever suas capacidades, fosse mais interessante (&ldquo;sileciosa&rdquo;, &ldquo;facilmente escondível&rdquo;, &ldquo;longa distância&rdquo;, &hellip;), sem se preocupar com características numéricamente bem-definidas.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/images/anarchy.jpg" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/posts/2022-07-29-shadowrun-anarchy/images/anarchy_hud19efd0bf5cd6dfb549fa05447745bf4_625250_600x460_fit_q75_h2_box.webp" loading="lazy" width="368" height="460" title="Shadowrun: Anarchy poderia aprender muitas coisas com designs mais modernos, como The Sprawl, Dungeon World ou o sistema pai dos dois, Apocalypse World." alt="Shadowrun: Anarchy poderia aprender muitas coisas com designs mais modernos, como The Sprawl, Dungeon World ou o sistema pai dos dois, Apocalypse World." aria-description="A capa de &#34;Shadowrun: Anarchy&#34;, com um elfo segurando duas katanas." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">Shadowrun: Anarchy poderia aprender muitas coisas com designs mais modernos, como <a href="https://www.drivethrurpg.com/product/171286/The-Sprawl----MIDNIGHT"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >The Sprawl</a>, <a href="https://dungeon-world.com/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Dungeon World</a> ou o sistema pai dos dois, <a href="http://apocalypse-world.com/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Apocalypse World</a>.</figcaption>
+        </figure>
+    </div>
+
+
+<p>Mecanicamente, o jogo não tem muito espaço para variedade. Duas categorias de dano, três distâncias, rerolagem de alguns dados: isso descreve a maior parte dos efeitos que se lê em armas, implantes e feitiços. E isso é outro grande tiro no pé do jogo: se você tem um sistema <em>rules-light</em> e focado na narrativa, se basear primariamente nas mecânicas para descrever seus itens é uma má ideia. O já mencionado sistema de tags de <em>The Sprawl</em> é uma solução muito elegante para esse problema: um ciber-olho não confere +2 rerolagens em ataques à distância, ele possui as tags &ldquo;grava vídeo&rdquo; e &ldquo;visão de calor&rdquo;, e o mestre pode interpretá-las como dando ao personagem uma vantagem ao alvejar inimigos.</p>
+<p>Em súmula, <em>Anarchy</em> peca em não conseguir se desvincular o suficiente das mecânicas de seu sistema pai. Trava no meio do caminho ao invés de se entregar totalmente ao estilo <em>fiction first</em>. Existem até mesmo duas tentativas<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><sup>, </sup><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> de adaptar o jogo para <em>hacks</em> de Dungeon World, feitas por fãs. Mas apesar de ter gasto os últimos parágrafos demolindo o jogo, nosso grupo conseguiu criar personagens, jogar, interpretar papéis e se divertir. Então não deixe que minhas frescuras te impeçam de testar esse jogo com seu grupo!</p>
+<p>Apesar de que, agora que comecei a ler o livro de regras de <em>Dungeon World</em> e pretendo mestrar um pouco desse sistema em algumas semanas, eu estou muito interessado nos <em>hacks</em> que implementam <em>Shadowrun</em>. Só não peço para que meus jogadores migrem de sistema agora porque seria muito cruel jogar fora uma ficha que não viu nem duas sessões! (Mas tenham certeza que depois da sexta sessão estaremos experimentando algum sistema diferente&hellip;)</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p><a href="https://drive.google.com/file/d/1KGM7SWINY1DNv4QEOyojCbme8cY66uCQ/view"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Sixth World - v32 - combined, bookmarked.pdf</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p><a href="https://forum.rpg.net/index.php?threads/new-shadowrun-pbta-hack.765220/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >New Shadowrun PbtA hack | RPGnet Forums</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+]]></description></item></channel></rss>

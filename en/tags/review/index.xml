@@ -1,2 +1,815 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Review on syslog</title><link>https://pietrocarrara.github.io/en/tags/review/</link><description>Recent content in Review on syslog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 29 Jul 2022 01:22:00 -0300</lastBuildDate><atom:link href="https://pietrocarrara.github.io/en/tags/review/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadowrun Anarchy: Simplified or Simplistic Rules?</title><link>https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/</link><pubDate>Fri, 29 Jul 2022 01:22:00 -0300</pubDate><guid>https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/</guid><description>Thanks to SUSD&amp;rsquo;s video on Android: Netrunner, I&amp;rsquo;ve found myself playing quite some matches of the card game recently. The fact that the cyberpunk theme being is well represented in the mechanics has captivated me very dearly &amp;mdash; so much so that it got me wanting to tell a story in a similar world. That&amp;rsquo;s when I started going through my old stuff looking for a Shadowrun Tabletop RPG book.</description></item><item><title>Umineko and the Mystery Genre (spoiler-free)</title><link>https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/</link><pubDate>Sun, 10 Apr 2022 20:00:00 -0300</pubDate><guid>https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/</guid><description>During the last 4 months I&amp;rsquo;ve used a total of 160 hours of my free time to &amp;ldquo;play&amp;rdquo; (read would be more fitting) Umineko no Naku Koro ni, a Japanese visual novel split into 8 parts originally released between 2007 and 2010. Translated as &amp;ldquo;Umineko When They Cry&amp;rdquo;, the story is about how, during the 2 days of the yearly Ushiromiya family conference, the people present are killed in apparently impossible murders, with the bodies of the victims found in rooms locked from the inside.</description></item><item><title>Movie Review: Drunken Master (1978)</title><link>https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/</link><pubDate>Sat, 07 Aug 2021 14:25:23 -0300</pubDate><guid>https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/</guid><description>Drunken Master is one of the movies that helped set-up Jackie Chan&amp;rsquo;s career as a martial artist, along with Snake in the Eagle&amp;rsquo;s Shadow and The Young Master. It has almost all the elements that became synonymous with Chan&amp;rsquo;s later movies: Great fighting mixed with comedy and his high energy charisma. The only thing that&amp;rsquo;s missing is the crazy stunts, but the movie has enough kung-fu to make up for it.</description></item><item><title>Movie Review: Cliff Walkers (2021)</title><link>https://pietrocarrara.github.io/en/posts/2021-07-28-cliff-walkers-2021-review/</link><pubDate>Wed, 28 Jul 2021 13:52:46 -0300</pubDate><guid>https://pietrocarrara.github.io/en/posts/2021-07-28-cliff-walkers-2021-review/</guid><description>Cliff Walkers follows 4 Chinese spies trying to reach the Japanese-dominated city of Harbin, where they should await for further instructions. However, the fascists are aware of their plans, and send their agents to infiltrate and sabotage the mission.
-This film has spies doing what they do best: handling information. The first scene has the protagonists split into 2 groups, with no radios or other ways to contact each other. In a following scene, when one of the groups learns that they&amp;rsquo;re being watched, they must pass this information to their teammates without busting their identity.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Review on syslog</title><link>https://pietrocarrara.github.io/en/tags/review/</link><description>Recent content in Review on syslog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 29 Jul 2022 01:22:00 -0300</lastBuildDate><atom:link href="https://pietrocarrara.github.io/en/tags/review/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadowrun Anarchy: Simplified or Simplistic Rules?</title><link>https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/</link><pubDate>Fri, 29 Jul 2022 01:22:00 -0300</pubDate><guid>https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/</guid><description><![CDATA[<img src="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/feature.jpg" width="757" height="425"><p>Thanks to SUSD&rsquo;s video on <a href="https://www.youtube.com/watch?v=Ev24b_17-Po"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Android: Netrunner</a>, I&rsquo;ve found myself playing quite some matches of the card game recently. The fact that the cyberpunk theme being is well represented in the mechanics has captivated me very dearly &mdash; so much so that it got me wanting to tell a story in a similar world. That&rsquo;s when I started going through my old stuff looking for a <em>Shadowrun</em> Tabletop RPG book.</p>
+<p>Some good 5 or 6 years ago, when I used to play RPGs much more frequently, I DMed Shadowrun for the first time. The setting mixes cyberpunk aesthetics/themes with misticism, monsters and magic, and is one of the most amazing worlds to tell stories on. Also, the ammount of items that are described in the equipment chapter of the rulebook transforms character creation into a walk through a toys store. But these were not the only things that left an impression on us.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/images/netrunner.png" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/images/netrunner_hu60b07abc0c1532988fac1016a9ff8678_1154308_600x460_fit_q75_h2_box_3.webp" loading="lazy" width="566" height="460" title="In Netrunner, one player controls a megacorporation trying to advance its agenda, while the other plays a rebel fighting the system." alt="In Netrunner, one player controls a megacorporation trying to advance its agenda, while the other plays a rebel fighting the system." aria-description="Playing cards depicting firewalls, viruses, corporate plans and hackers." class="">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">In <a href="https://nisei.net/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Netrunner</a>, one player controls a megacorporation trying to advance its agenda, while the other plays a rebel fighting the system.</figcaption>
+        </figure>
+    </div>
+
+
+<p>The shadowrun rules were <strong>horrendous</strong>. Before even trying to play I was almost quit reading the manual, because I couldn&rsquo;t absorb how most things worked. Not having experience outside D&amp;D 3.5 also contributed to me struggling with the rules. But, as a group, we managed to overcome this and created the player characters (commiting an almost acceptable number of errors and rules violations). All of them ended up looking really cool, filled with mods, magic, heavy weapons&hellip; It was really fun thinking of what they could do in a mission.</p>
+<p>The complicated part was doing it. Even someone who works with spreadsheets wouldn&rsquo;t have seen as many tables per square meter as that rulebook has. Even though playing was fun, we couldn&rsquo;t stop but notice the bitter taste the rules left in our mouths.</p>
+<p>Fast-forward to 2022, and I&rsquo;m thinking: &ldquo;maybe Shadowrun is easier now that I&rsquo;m older&rdquo;. I opened up the book and, to my unfortunate surprise, it hadn&rsquo;t changed a bit. Everything was there: the magical powers, the body mods, the guns, the vehicles&hellip; and the tables. The group that I want to DM for is not the same that I&rsquo;ve played Shadowrun years before, but it also highly values simple rules. I would even dare to say most of them don&rsquo;t have a good notion of the rules of the RPGs we usually play (which doesn&rsquo;t matter much, since most of the time they&rsquo;re useless). Looking at the weight of the Shadowrun rules, I close the book.</p>
+<p>But in 2019 the 6th edition of the game was release, and it promised simpler rules and more straight forward systems. Great, that&rsquo;s just what I wanted! Excited upon hearing the about the existence of this edition, I started looking for opinions about it. Then I discovered that the publication was rushed to keep up with the Cyberpunk 2077 hype, with many users complaining about broken and dysfunctional systems. Am I bound never to play Shadowrun?</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/images/shadowrun.jpg" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/images/shadowrun_hu55822aa5798bc279b6b18c1cea6547fd_255689_600x460_fit_q75_h2_box.webp" loading="lazy" width="374" height="460" title="Shadowrun&rsquo;s 5th edition cover describes the setting very well." alt="Shadowrun&rsquo;s 5th edition cover describes the setting very well." aria-description="A gunfight featuring an orc-swordsman, an elf casting lighting rays and a human controlling many drones. They&#39;re all shooting at a giant ghostly insect while corporate logos loom over the buildings in the background." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">Shadowrun&rsquo;s 5th edition cover describes the setting very well.</figcaption>
+        </figure>
+    </div>
+
+
+<p>It was at this point that, while looking for alternative systems and rulesets, I ended up finding <strong>Shadowrun: Anarchy</strong> &mdash; a rules-light shadowrun book released in 2016. It doesn&rsquo;t have such a deep explanation of the setting, or even a big spell and equipment list; but there is enough material to start playing. If you have the 5th edition manual as a reference, you&rsquo;ll be able to fill in the gaps about the setting and get a cool item/spell/mod list. After reading the book, I decided to GM it.</p>
+<p>I had the general idea of the story already laid out in my head since long ago, for a fantasy adventure: the players get together to investigate a death and resurrect the victim&rsquo;s spirit to help them out. Since Shadowrun has magic in it, I could run the adventure as-is, but I decided to change it: The victim made backups of his mind sometimes a year, and when he disappears, the players find their ROM construct of two weeks ago, and it has no idea what could&rsquo;ve happened to it&rsquo;s flash and bones counterpart.</p>
+<p>With a rules system and adventure set, I assembled 4 players to create their characters. The results were as follows:</p>
+<ul>
+<li><strong>Alyonka</strong> has little left of what made her body human. Cyber-arms and legs grant her supernatural accuracy and speed, and cyber-eyes chase her victims down the dark nights. Ex-member of Red Army secret unit, she is always seen wearing her holo-mask over her face.</li>
+<li>Could <strong>Catnip</strong>&rsquo;s feline characteristics, like his cat tail or ears, be the effects of the return of magic to our world? Or could they be the results of experimental tech developed by some megacorporation? What we know is that before becoming a shadowrunner, Catnip was the only survivor of the massacre of the shamanic tribe in which he lived, located in the country that succeeded Brazil: Amazonia.</li>
+<li><strong>Seer</strong> is one of the best mechanics of this district of town, carrying all his repair tools in his cyber-hand. What few people know is what he does outside his garage: besides being a pilot, seer is also a decker that sells data on the black market, stolen with his trusty <em>MCT Fly Spies</em>.</li>
+<li>Little is known about the past of <strong>Luis</strong>, besides the fact he came from Amazonia. He channels magic through his body to perform supernatural feats, like walking in the walls, or seeing through them.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/images/crew.gif" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/images/crew.gif" loading="lazy" width="540" height="290" title="Comically accurate depiction of the characters." alt="Comically accurate depiction of the characters." aria-description="A &#34;Regular Show&#34; episode featuring hacking stereotypes: binary code and terminal commands floating around the screen." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">Comically accurate depiction of the characters.</figcaption>
+        </figure>
+    </div>
+
+
+<p>We just finished playing the adventure&rsquo;s first part (out of 3). I have mixed feelings about the rules in Shadowrun: Anarchy. <em>Rules-light</em> doesn&rsquo;t describe this game so well&hellip; perhaps <em>under-ruled</em> would be better. I&rsquo;d still pick Anarchy over 5th edition, but it still has too many mistakes that can&rsquo;t be overlooked.</p>
+<p>Starting with combat: the distances have been abstracted to 3 values: close, near and far. We don&rsquo;t want a tactical combat in a rules-light system, so this was a good call. The problem is that the other components that make-up combat were not abstracted enough. The level of detail is still too high, with one roll per shot/strike, and two different HP bars. A more dynamic combat style (I&rsquo;m thinking of <em><a href="https://bladesinthedark.com/stress-trauma"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Blades In The Dark</a></em> and its stress system) would greatly benefit the flow of the game. There haven&rsquo;t been combat moments in the game yet, but I can easily see them becoming the repetitive &ldquo;wait my turn, attack, and back to waiting&rdquo;.</p>
+<p>Now that combat is half tactical and half abstract, the guns stop making much sense. The two attributes that describe a weapon here are range and damage. But with distance being so abstract and damage so concrete, distance is simply thrown out of the window in favor of damage. There&rsquo;s, of course, a <em>roleplay</em> difference in that a <strong>Rocket Launcher</strong> is loud and impossible to hide, but most guns aren&rsquo;t rocket launchers. So the weapon list that had 20-ish items goes down to 5 or 6 relevant entries. Maybe a system like what The Sprawl uses, where &ldquo;tags&rdquo; describe item characteristics (&ldquo;silenced&rdquo;, &ldquo;concealable&rdquo;, &ldquo;long range&rdquo;, &hellip;), would fit better than worrying about numeric definitions.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/images/anarchy.jpg" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2022-07-29-shadowrun-anarchy/images/anarchy_hud19efd0bf5cd6dfb549fa05447745bf4_625250_600x460_fit_q75_h2_box.webp" loading="lazy" width="368" height="460" title="Shadowrun: Anarchy could learn a lot from modern designs such as The Sprawl, Dungeon World or their parent system, Apocalypse World." alt="Shadowrun: Anarchy could learn a lot from modern designs such as The Sprawl, Dungeon World or their parent system, Apocalypse World." aria-description="The &#34;Shadowrun: Anarchy&#34; cover, featuring an elf dual-wielding katanas." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">Shadowrun: Anarchy could learn a lot from modern designs such as <a href="https://www.drivethrurpg.com/product/171286/The-Sprawl----MIDNIGHT"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >The Sprawl</a>, <a href="https://dungeon-world.com/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Dungeon World</a> or their parent system, <a href="http://apocalypse-world.com/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Apocalypse World</a>.</figcaption>
+        </figure>
+    </div>
+
+
+<p>Mechanically, the game doesn&rsquo;t have much to say about. Two damage types, three distances, and some re-rolling of dice: these describe most of the effects you&rsquo;ll read on weapons, mods and spells. This is another instance where the game has shot itself in the foot: if you have a rules-light system with a narrative focus, relying mainly on the mechanics to describe your items is a bad idea. The already mentioned tag system of The Sprawl is a very elegant solution to this: a cyber-eye doesn&rsquo;t grant +2 re-rolls in ranged attacks, it has the &ldquo;records video&rdquo; and &ldquo;heat vision&rdquo; tags, so the DM can interpret them and grant an advantage when the player takes aim at enemies.</p>
+<p>All in all, Anarchy&rsquo;s biggest flaw is not being able to distance itself more from its parent system. It gets stuck midway through instead of fully diving on the <em>fiction first</em> style. There are even two attempts<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><sup>, </sup><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> at adapting Shadowrun into Dungeon World hacks, made by fans. But even though I&rsquo;ve spent the last two paragraphs badmouthing the game, our group managed to create characters, play (and <em>role</em>play), and have fun. So don&rsquo;t let the problems I have with the system stop you trying this out with your group!</p>
+<p>But now that I started reading the Dungeon World rule book, and intend on DMing a campaign for another group using it, I&rsquo;m really interested in the Shadowrun hacks. Right now, changing systems would be too cruel to my players, since that&rsquo;d mean throwing out a character sheet that has seen a grand total of 1 session. (But be assured that after the 6th or 7th session, we&rsquo;ll be trying something else&hellip;)</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p><a href="https://drive.google.com/file/d/1KGM7SWINY1DNv4QEOyojCbme8cY66uCQ/view"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Sixth World - v32 - combined, bookmarked.pdf</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p><a href="https://forum.rpg.net/index.php?threads/new-shadowrun-pbta-hack.765220/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >New Shadowrun PbtA hack | RPGnet Forums</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+]]></description></item><item><title>Umineko and the Mystery Genre (spoiler-free)</title><link>https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/</link><pubDate>Sun, 10 Apr 2022 20:00:00 -0300</pubDate><guid>https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/</guid><description><![CDATA[<img src="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/feature.jpg" width="757" height="425"><p>During the last 4 months I&rsquo;ve used a total of 160 hours of my free time to &ldquo;play&rdquo; (read would be more fitting) <em><a href="https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Umineko no Naku Koro ni</a></em>, a Japanese visual novel split into 8 parts originally released between 2007 and 2010. Translated as &ldquo;Umineko When They Cry&rdquo;, the story is about how, during the 2 days of the yearly Ushiromiya family conference, the people present are killed in apparently impossible murders, with the bodies of the victims found in rooms locked from the inside.</p>
+<p>The meeting takes place in Rokkenjima, the family&rsquo;s private island and where their mansion is located. Could the culprit be one of the 18 present at the meeting? Could there be a 19th hidden person on the island? Or yet, maybe the culprit is the witch that, according to legend, rules the mansion by night and could&rsquo;ve committed the crimes using magic&hellip;</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/images/portrait.jpg" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/images/portrait_huf22037611bb3ff9e8aadad25ba360624_188151_600x460_fit_q75_h2_box.webp" loading="lazy" width="325" height="460" title="The portrait of the golden witch, Beatrice." alt="The portrait of the golden witch, Beatrice." aria-description="Painting of a white, blonde short-haired woman with blue eyes. She&#39;s wearing a deep red and black dress, with a few golden details." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">The portrait of the golden witch, Beatrice.</figcaption>
+        </figure>
+    </div>
+
+
+<p>This was my second time reading a mystery, the first having been <em><a href="https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Danganronpa</a></em> (another Japanese visual novel&hellip;) 4 years ago. I remember having lots of fun at the time because I was playing it together with a friend. Every time the &ldquo;culprit revealing event&rdquo; was about to happen, we would pause and meet to discuss our ideas. The crimes were a bit cartoonish and convoluted, so for the most part our theories never got close to the truth&hellip; Except for the second murder. I had some ideas just like my friend, and we talked for some time, almost screaming when we would make a new connection between the leads. After weaving a solid theory, we got almost every detail right: this was no doubt one of the most fun we&rsquo;ve had playing <em>Danganronpa</em>, just as good as the ending climax of the game. At the time, I didn&rsquo;t have a habit of reading, so I didn&rsquo;t even look for something that could give me this same sensation again; fortunately though, my situation with <em>Umineko</em> is different.</p>
+<p>The story is heavily influenced by traditional mystery writers, both <a href="https://www.theguardian.com/books/2021/apr/27/honkaku-a-century-of-the-japanese-whodunnits-keeping-readers-guessing"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Japanese</a> and European/American. The &ldquo;one-by-one they get killed on an isolated island&rdquo; is a structure borrowed from Agatha Christie&rsquo;s <em><a href="https://www.goodreads.com/book/show/16299.And_Then_There_Were_None"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >And Then There Were None</a></em>, and the book is even briefly mentioned by a character. <em>Umineko</em> is a mystery that is proud of its origins, making this very clear by mentioning famous authors and their writing styles. A strong trait in the genre&rsquo;s japanese literature is the idea of &ldquo;fair play&rdquo;, that the reader should have all the needed clues to solve the mystery before the protagonist announces the answer. I had only a faint idea of the solution when it was revealed, but to understand if someone more familiar with this kind of work could solve the mystery, I read the <a href="https://ho-lingnojikenbo.blogspot.com/p/temp-umineko-no-naku-koro-ni-play-memo.html"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >notes of Ho-Ling Wong</a>, who specializes in Japanese mysteries and has even translated classics to English (such as <em><a href="https://www.goodreads.com/book/show/52958127-the-decagon-house-murders"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >The Decagon House Murders</a></em>).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/images/screenshot.png" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/images/screenshot_hu6d97cc42da33f87dcf947cb524f76e4c_1430550_600x460_fit_q75_h2_box_3.webp" loading="lazy" width="600" height="337" title="Even if putting the mysteries aside, Umineko still has a good
+story and conclusion, although the pacing is slow." alt="Even if putting the mysteries aside, Umineko still has a good
+story and conclusion, although the pacing is slow." aria-description="Screenshot of the game. Three characters stand at a beach: Two teenagers and a child. The teenagers are saying &#34;Maria! Don&#39;t get your shoes wet, or you&#39;ll get into trouble!&#34;" class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">Even if putting the mysteries aside, Umineko still has a good
+story and conclusion, although the pacing is slow.</figcaption>
+        </figure>
+    </div>
+
+
+<p>The distance between our thought processes is abysmal. From episode 1 Ho-Ling has already perceived tons of details that I just couldn&rsquo;t see. Not only that, but their ideas were much more creative than mine, while at the same time being more grounded. By episode 6, Ho-Ling has already solved 100% of the mysteries, while I was still untying knots caused by much simpler events.</p>
+<p>But this should not scare anyone away from this game: just like me &mdash; a newcomer to mysteries &mdash;, Ushiromiya Battler isn&rsquo;t ready to see the truth behind the October 4th and 5th tragedy. The evolution of the protagonist into someone capable of understanding how these crimes were committed is the process that moves the story forward, while also providing a &ldquo;guiding hand&rdquo; for players that are not getting closer to the solution on their own. Learning the many locked room tricks alongside Battler is much more pleasant than reading an entire book having no idea of what could be going on, just to listen from a super-human detective in the end that the only clue needed to solve this was the loose string on the culprit&rsquo;s overcoat (but that&rsquo;s a different experience and has its own value!).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+            
+                <audio title="Electronic music, but with a harpsichord as the main instrument. It&#39;s quick and high-energy; starting low and tense, but increasing the volume until the beats overtake the harpsichord." aria-description="Electronic music, but with a harpsichord as the main instrument. It&#39;s quick and high-energy; starting low and tense, but increasing the volume until the beats overtake the harpsichord." class="w-100 floating" src="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/audios/worldenddominator.ogg" controls></audio>
+            
+            <figcaption aria-hidden="true" class="caption">Excerpt of one of my favorite pieces in the soundtrack, <a href="https://www.youtube.com/watch?v=mVr0IUQ6BwE"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >worldenddominator</a>.</figcaption>
+        </figure>
+    </div>
+
+
+<p>As pointed out by <a href="https://en.wikipedia.org/wiki/S._S._Van_Dine"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Willard Wright</a> in his 1926 essay, &ldquo;The Detective Novel&rdquo;, there is a great difference between waiting placidly for the solution of a problem, and the exhilarating participation in its deduction. In any other literary genre, the reader simply waits for the author to unravel a web of events; in a mystery novel, however, a maze is built and offered to the public to be solved. Wright also states that detailed characters have no place in this genre, serving only as a distraction from the main puzzle. This might be valid for books that vary between some 300 pages, but not for <em>Umineko</em>. A work this big would not hold anyone&rsquo;s interest until it&rsquo;s end if it hadn&rsquo;t interesting characters. <strong>That is why I think <em>Umineko</em> to be a great introduction to mysteries</strong>: having double the word count of <em>The Lord of the Rings</em> combined with <em>The Hobbit</em>, failing to solve a mystery bares little to no weight, for it is just a drop in an ocean of events. While waiting for the next mystery, it&rsquo;s possible to reflect and learn with the last one, while still enjoying a good story.</p>
+<p>And be it on the more calm moments or during the faster-paced ones, my verdict is that playing <em>Umineko</em> without a good pair of headphones is a crime against the work. The author, Ryukishi07, classifies it as a &ldquo;sound novel&rdquo;, and only fools would disagree with him here. Not only is the voice acting spectacular, but the soundtrack is just unbelievable. When I was making a playlist of my favorite tracks, I was adding almost all of them in. Even after performing a more rigorous selection, the <a href="https://www.youtube.com/playlist?list=PLBYLjFK8Z5KBb3ErWgYkjrT1AixnYAcVg"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >final playlist</a> still ended up with 70 items! And if we look at just these 70 tracks, there still is a great range of emotions: from the melancholy of <em><a href="https://www.youtube.com/watch?v=Xkun-83JvF8"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Voiceless</a></em> to the power of <em><a href="https://www.youtube.com/watch?v=KZ9D05ll2Rw"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Fake Red Shoes</a></em>, passing through the sinister elegance of <em><a href="https://www.youtube.com/watch?v=UX3L-gs4MPs"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Scorpion Entrails</a></em> and the smugness of <em><a href="https://www.youtube.com/watch?v=R0yYXgnSwmE"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Golden Sneer</a> (and all of these are from the very first parts of the game!)</em>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+                <video muted autoplay loop tabindex="0" aria-description="Slice of Cellbit&#39;s stream. He has Umineko on pause, and screams at the camera." src="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/videos/cellmineko.mp4" class="w-100 floating"></video>
+            
+            
+            
+            <figcaption aria-hidden="true" class="caption"><p><a href="https://youtu.be/1QT7HL_5h10?t=17"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >&ldquo;Me, impatient!? I&rsquo;ve been reading this for TWO AND A HALF HOURS, and nothing
+has happened yet! NOTHING! They&rsquo;re still introducing characters, dude!&rdquo;</a><!-- raw HTML omitted --></p>
+<blockquote>
+<p>&mdash; Cellbit, not knowing there are still 7 hours and a half until something happens</p>
+</blockquote>
+</figcaption>
+        </figure>
+    </div>
+
+
+<p>But as good as the soundtrack is, it can&rsquo;t by itself fix the greatest problem in the game: the absurdly slow start. I have no doubts that the majority of people that quit reading <em>Umineko</em> did it before hitting the 10-hour mark. In these first hours (which represent <strong>half</strong> of the first episode!) the characters and the inner workings of the Ushiromiya family are introduced. It&rsquo;s a combination of discussing family inheritance, investments, tea, bad blood, leadership succession&hellip; Carefully picked ingredients to create the <strong>most boring start a visual novel could ever have</strong>. Another negative aspect is the length it has, which varies around 150 hours of reading. If your job was to read <em>Umineko</em>, 8 hours a day, 5 days a week, you&rsquo;d take a month to finish it. Even though this is the thing I think makes <em>Umineko</em> a good introduction to mysteries as I&rsquo;ve mentioned before (a failed mystery gets diluted by the rest of the content), it is also the thing that will scare the most people away from it (mainly the newcomers: <em>&mdash;&ldquo;Got some introductory reading?&rdquo;</em> <em>&mdash;&ldquo;Sure! And it&rsquo;s just as small as the combined Harry Potter saga!&rdquo;</em>). At least the second half of the 1st episode gets more exciting. The 2nd episode presents the main &ldquo;mechanic&rdquo; used throughout the story, and after the 3rd, I don&rsquo;t think it&rsquo;s possible for someone to stop reading (and it&rsquo;s &ldquo;just&rdquo; 60 hours to that point!).</p>
+<p>The first 4 episodes make the first half of the game, presenting the mystery, developing the characters and training Battler to solve locked rooms. Starting from the 5th episode, the reader that until now was free to come up with any absurd theory to explain the crimes, receives information to think in more plausible ways of committing the murders. When I finished this episode, I pondered for some time if I should go back and re-read the previous episodes, better trained in solving locked rooms and having new info. I ended up not doing it, because like any normal person, I don&rsquo;t have the patience to spend 80 more hours in front of the computer to <strong>re-read content</strong>. It&rsquo;s because of this that many recommend reading the <a href="https://www.goodreads.com/series/115058-umineko-no-naku-koro-ni"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >manga adaptation</a> at this point of the story, for it is shorter. Some minor but time-consuming details are lost, of course (like some tea talk), but I&rsquo;m sure those who have read the visual novel will see this as a blessing (the first 10 hours happen in just 7 chapters!). If I knew of this adaptation when I was playing, I would&rsquo;ve probably read it in order to try and solve the mystery (but even so I don&rsquo;t think I would&rsquo;ve solved it), because with 100 hours of <em>Umineko</em> under my belt I felt much more prepared than when I started playing it in December of last year. This &ldquo;training&rdquo; improved me a good much, to the point that, when a &ldquo;mini locked-room mystery&rdquo; was presented to me, the solution popped into my head almost immediately. On the next paragraph is an adaptation of this mystery, so you can try and solve it. When you think of a theory that solves the case, click on a point to reveal a fact; if it breaks your theory, reformulate it and repeat this process. Good luck!
+<small><em>(Try listening to <a href="https://www.youtube.com/watch?v=ESYP5DZVwIM"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >this arrangement of Dead Angle</a> while thinking!)</em></small></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/images/umineko-manga.png" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2022-04-10-umineko/images/umineko-manga_huae7e61a22352305a5e60dffe27d9f68c_423086_600x460_fit_q75_h2_box_3.webp" loading="lazy" width="600" height="421" title="Each volume is illustraded by a different artist, which is another positive:
+you get to see how each artist interprets the characters and expresses that in their art." alt="Each volume is illustraded by a different artist, which is another positive:
+you get to see how each artist interprets the characters and expresses that in their art." aria-description="Two-page spread of the Umineko manga. From the painting picturing Beatrice comes out a ghostly figure, while on the background a character says &#34;There is a rumour that madam Beatrice slips out of the portrait at night and wanders around the mansion...&#34;" class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">Each volume is illustraded by a different artist, which is another positive:
+you get to see how each artist interprets the characters and expresses that in their art.</figcaption>
+        </figure>
+    </div>
+
+
+<blockquote>
+<p><em>In a mansion where each servant carries a keyring with keys to all the rooms, James wants to play a trick on his workmate, Alice. When the two are allocated to clear a room together the next day, James starts to scheme&hellip;</em></p>
+<p><em>The shift begins: entering the room, Alice unlocks the door, throws her keyring on the bed, turns around and starts cleaning. James enters the room and too starts cleaning.</em></p>
+<p><em>When the cleaning is done, Alice takes the keyring on the bed and the both of them leave the room. When she tries locking the room, Alice notices the key for this door is missing from the keyring. The two of them, together, start looking for it and find it in the living room. How could&rsquo;ve James put the key here if Alice herself unlocked the room at the start of the shift?</em></p>
+<ul>
+<li>
+
+<label class="spoiler">
+  <input type="checkbox" autocomplete="off" aria-label="First tip">
+  <span>No one entered or left the room until the two of them left and noticed the missing key.</span>
+</label></li>
+<li>
+
+<label class="spoiler">
+  <input type="checkbox" autocomplete="off" aria-label="Second tip">
+  <span>The keyring holds everything in a tight fit, so removing any key would make noise, alerting Alice.</span>
+</label></li>
+<li>
+
+<label class="spoiler">
+  <input type="checkbox" autocomplete="off" aria-label="Third tip">
+  <span>During the search, the two of them were always together, and it was not possible to trick anyone.</span>
+</label></li>
+<li>
+
+<label class="spoiler">
+  <input type="checkbox" autocomplete="off" aria-label="Fourth tip">
+  <span>James alone is the culprit.</span>
+</label></li>
+<li>
+
+<label class="spoiler">
+  <input type="checkbox" autocomplete="off" aria-label="Fifth and final tip">
+  <span>The key Alice used to open the room at the shift start and the one they found in the room are different copies.</span>
+</label></li>
+</ul>
+<p>Answer: 
+
+<label class="spoiler">
+  <input type="checkbox" autocomplete="off" aria-label="Answer">
+  <span>Before the shift starts, James removes the key for that room from his own keyring and hides it in the living room. In the room, James switches his keyring, which is missing a key, with Alice&rsquo;s, which has all.</span>
+</label></p>
+</blockquote>
+<p>If I was tasked with solving this before I played <em>Umineko</em>, no doubt I wouldn&rsquo;t have thought of an answer. At most, something absurd like <em>&ldquo;James used a secret passage and a remotely controlled device&hellip;&rdquo;</em> yada yada. A solution that would not violate any of the presented facts, but a very <em>ugly</em> one. This point is also debated in <em>Umineko</em>: the mutual trust between the writer and the reader of mystery novels. The reader needs to trust the solution is grounded and makes sense, while the writer needs to trust the public will try and solve their mystery even if it looks impossible. When one of these premises is broken (the final answer is not good enough or the reader insists the crime is impossible and stops thinking) a mystery novel loses all it&rsquo;s potential. This kind of &ldquo;meta-discussion&rdquo; (a mystery talking about mysteries) gives me even more confidence in recommending <em>Umineko</em> to newcomers.</p>
+<p>If you&rsquo;ve become interested in the game, aware of it&rsquo;s size and slow start, it has my strongest recommendation. Even if I was not capable of solving the greater mystery before the answer was shown, and thinking the solution to be kinda hard to deduce (and maybe even cruel to the reader!), the journey that took me there was well worth it and provided plenty of memorable moments. Just don&rsquo;t try replacing the visual novel with the manga: I really consider it as more of a supplement to the game, serving as a quick refresher of past events and providing a more detailed explanation of the mystery in the final volumes.  It is good, but in order to cause an impression, it needs you to have created bonds with the story through playing the visual novel.</p>
+<small><em>And one last thing: if you&rsquo;re going to play it, don&rsquo;t stress over the answer for the epitaph. I&rsquo;m 100% sure it can&rsquo;t be solved before its answer is shown.</em></small>
+]]></description></item><item><title>Movie Review: Drunken Master (1978)</title><link>https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/</link><pubDate>Sat, 07 Aug 2021 14:25:23 -0300</pubDate><guid>https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/</guid><description><![CDATA[<img src="https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/feature.jpg" width="600" height="337"><p><strong><a href="https://www.themoviedb.org/movie/11230-jui-kuen"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Drunken Master</a></strong> is one of the movies that helped set-up Jackie Chan&rsquo;s career as a martial artist, along with <em><a href="https://www.themoviedb.org/movie/11537-se-ying-diu-sau"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Snake in the Eagle&rsquo;s Shadow</a></em> and <em><a href="https://www.themoviedb.org/movie/11563"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >The Young Master</a></em>. It has almost all the elements that became synonymous with Chan&rsquo;s later movies: Great fighting mixed with comedy and his high energy charisma. The only thing that&rsquo;s missing is the crazy stunts, but the movie has enough kung-fu to make up for it. In fact, this is one of the main differences when you compare this film with other of Chan&rsquo;s works: Here, <strong>everybody <em>fights</em></strong>. And they don&rsquo;t just throw some punches around; this is a martial arts movie, after all.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+                <video muted autoplay loop tabindex="0" aria-description="Fight scene featuring Jackie Chan and Linda Lin. She owns him using only kicks." src="https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-linda-lin.mp4" class="w-100 floating"></video>
+            
+            
+            
+            <figcaption aria-hidden="true" class="caption">Jackie Chan fighting Linda Lin.</figcaption>
+        </figure>
+    </div>
+
+
+<p>In a Jackie Chan movie, what usually happens in fight scenes is: Jackie starts unarmed against a pack of grunts, and slowly takes them out, maybe breaking some bones in the process. It&rsquo;s not like the grunts don&rsquo;t know how to fight, but all they do are simple moves. A punch here, a kick there; maybe do some jumps. <strong>The only one doing the complex stuff is Chan</strong>. And when there is a one-on-one fight, Jackie usually has a disadvantage: This makes for scenes where no matter the number of enemies or their strength, Chan has to climb from the bottom-up to win, leading to amazing stunts and moves in order to achieve the feat.</p>
+<p>In this film, all the fights (with only one exception, I think) are one-on-one. They have a much more explicit rhythm and the actors do their moves in sync, connecting one strike to the next. It&rsquo;s more akin to watching a (very cool) ballet session, in a way that got me thinking about <em><a href="https://www.themoviedb.org/tv/890-neon-genesis-evangelion/season/1/episode/9"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >that</a></em> Evangelion episode. Both fighters are working together to make the action flow, which is a different experience when compared to &ldquo;traditional&rdquo; Jackie Chan fighting scenes.</p>
+<p>Since <strong>everybody is doing complex moves</strong> (instead of just Jackie doing them), the pace is more steady (but not calm), as opposed to the more erratic flow commonly seen in modern action movies: <em>Punch, wait. Kick, wait. Pull, wait.</em> Of course, this has its reason to be: the moves are hard to do, plus you don&rsquo;t want to hurt anyone involved. But it ends up pulling the fighting closer to the aforementioned <em>ballet session</em>, and away from the more desirable <em>crazy stunt scene</em>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/images/eva-dancing.jpg" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/images/eva-dancing_hu3c1b0c430d98e6c79974eccd97e71882_208255_600x460_fit_q75_h2_box.webp" loading="lazy" width="600" height="373" title="The Eva pilots must fight in sync to defeat a cloning enemy in episode 9." alt="The Eva pilots must fight in sync to defeat a cloning enemy in episode 9." aria-description="A pair of mechas fighting side by side, against a pair of aliens." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">The Eva pilots must fight in sync to defeat a cloning enemy in episode 9.</figcaption>
+        </figure>
+    </div>
+
+
+<p>Since we&rsquo;re talking about dancing so much, how can we not speak of the music in this film? The main theme is awesome. It feels very powerful, starting with a low, long sequence that then spikes into a very (and I mean <em>very</em>) loud section that goes speeding up until it ends. It&rsquo;s based on a Chinese folk song, the same one that inspired the main theme of <em><a href="https://www.themoviedb.org/movie/10617-wong-fei-hung"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Once Upon A Time In China</a></em> 13 years later, which features the same main character, <a href="https://en.wikipedia.org/wiki/Wong_Fei-hung"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Wong Fei Hung</a>. The structure really fits with the whole &ldquo;drunken fists&rdquo; fighting style: The slow, deep start tricks the enemy into thinking you can&rsquo;t react fast enough because of the alcohol, but then&ndash; <strong>BAM</strong>! You hit them in the face.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+            
+                <audio title="Music with traditional chinese instruments. Strong, rhythmic and slow drums on the background. After the one minute mark, suddenly, very high wind instruments join and the music speeds up." aria-description="Music with traditional chinese instruments. Strong, rhythmic and slow drums on the background. After the one minute mark, suddenly, very high wind instruments join and the music speeds up." class="w-100 floating" src="https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/audios/main-theme.aac" controls></audio>
+            
+            <figcaption aria-hidden="true" class="caption">The main theme. Beware of 01:04.</figcaption>
+        </figure>
+    </div>
+
+
+<p>The rest of the music is fine, with an honorable mention to the <a href="https://www.youtube.com/watch?v=FY5M3NsZ_Uk"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >track</a> that plays in the comedy scene where Jackie is punished, which sounds fun and lighthearted. And speaking of comedy, this movie has plenty of it, and it&rsquo;s very good. The movie&rsquo;s tagline on TMDB is <em>&ldquo;The Original Kung Fu Comedy!&rdquo;</em>, and it certainly feels like it. You can&rsquo;t stop smiling when Chan plays with his instructor&rsquo;s hat, or when he stops fighting just to eat. When he cheats in his training with Beggar So, or even when his own dad punishes him for his recklessness, you can&rsquo;t help but to feel like a child laughing at such simple jokes; and when they&rsquo;re perfectly paired with the action, it&rsquo;s some of the best fun you can have while watching a movie. So much so that I think <strong>the comedy here is better than in Jackie Chan&rsquo;s later works</strong>. But there are some moments where that bar goes <em>low</em>. The scene where Chan farts in someone&rsquo;s face hits hard: You &ldquo;wake up&rdquo; from all the fun you were having and ask yourself, <em>&ldquo;who thought this was funny?&rdquo;</em>. Luckily, it only happens once or twice.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+                <video muted autoplay loop tabindex="0" aria-description="Fight scene featuring Jackie Chan and Yuen Siu-tien. It&#39;s good, but the rhythm is not very dynamic: it just goes back and forth, and back, and forth..." src="https://pietrocarrara.github.io/en/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-yuen-siu-tin.mp4" class="w-100 floating"></video>
+            
+            
+            
+            <figcaption aria-hidden="true" class="caption">You can see in some moments Jackie being sort of stiff. This is one of his earlier works.</figcaption>
+        </figure>
+    </div>
+
+
+<p>Overall, this is a quirky and fun movie. If you don&rsquo;t mind subpar acting or goofiness, and want to have some good laughs, I would recommend this movie. If you like other Chan&rsquo;s works (or just fighting movies in general), this is a must-watch, and a masterclass in action-comedy.</p>
+]]></description></item><item><title>Movie Review: Cliff Walkers (2021)</title><link>https://pietrocarrara.github.io/en/posts/2021-07-28-cliff-walkers-2021-review/</link><pubDate>Wed, 28 Jul 2021 13:52:46 -0300</pubDate><guid>https://pietrocarrara.github.io/en/posts/2021-07-28-cliff-walkers-2021-review/</guid><description><![CDATA[<img src="https://pietrocarrara.github.io/en/posts/2021-07-28-cliff-walkers-2021-review/feature.jpg" width="600" height="337"><p><strong><a href="https://www.themoviedb.org/movie/639557-impasse"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >Cliff Walkers</a></strong> follows 4 Chinese spies trying to reach the Japanese-dominated city of Harbin, where they should await for further instructions. However, the fascists are aware of their plans, and send their agents to infiltrate and sabotage the mission.</p>
+<p>This film has spies doing what they do best: handling information. The first scene has the protagonists split into 2 groups, with no radios or other ways to contact each other. In a following scene, when one of the groups learns that they&rsquo;re being watched, they must pass this information to their teammates without busting their identity. In another, they must schedule a meeting without seeing each other. The challenge of transmitting/receiving information is the base for the whole movie. The Japanese suspect they have a mole, so they&rsquo;re also careful when sharing information among them. The film goes back and forth like this, alternating between scenes following the Japanese or Chinese teams. All the characters have a sharp mind, and will play tricks to withhold or extract information from others. The tension starts at the 5-minute mark and lasts throughout the session. <strong>It feels exactly how a spy movie should</strong>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            
+            
+
+            
+        
+    
+
+    
+    
+        
+    
+
+    <div class="w-100 center my-2">
+        <figure class="w-100 m-auto maxw-600px">
+            
+            
+                <a href="https://pietrocarrara.github.io/en/posts/2021-07-28-cliff-walkers-2021-review/images/cliff-walkers-1.jpg" target="_blank" rel="noopener">
+                <img src="https://pietrocarrara.github.io/en/posts/2021-07-28-cliff-walkers-2021-review/images/cliff-walkers-1_hu294199021d3661b22e6615e8e5872821_129270_600x460_fit_q75_h2_box.webp" loading="lazy" width="600" height="251" title="A visual representation of the movie&rsquo;s atmosphere." alt="A visual representation of the movie&rsquo;s atmosphere." aria-description="A woman with a black hat watching from a corner." class="floating">
+                </a>
+            
+            
+            <figcaption aria-hidden="true" class="caption">A visual representation of the movie&rsquo;s atmosphere.</figcaption>
+        </figure>
+    </div>
+
+
+<p>While the writer has said this is a movie where spies are &ldquo;portrayed as people with emotions&rdquo;, I couldn&rsquo;t connect with any of the characters. But I wouldn&rsquo;t say this is a bad thing, I actually think it&rsquo;s good. There are moments where the tension will ease and the characters will shed tears or talk about their past, but they represent a minor slice of the movie&rsquo;s length (it lasts 2 hours). They use just enough time so that you don&rsquo;t feel like you&rsquo;re watching emotionless robots. But this means that the time not being used to make the spies more human is being used to build up the tension, which represents the <strong>absolute best aspect of this film</strong>.</p>
+<p>Unfortunately, I can&rsquo;t say I enjoyed the movie to it&rsquo;s fullest. There were moments where <strong>I couldn&rsquo;t absorb new information fast enough</strong>. All the characters wear the same clothes, which makes it kinda hard to know who is who. This leads to scenes where you don&rsquo;t understand what just happened. A character/event flowchart would be a welcome companion while watching it.</p>
+<p>From what I&rsquo;ve been able to research, this is actually a prequel to the 2012 TV show &ldquo;悬崖&rdquo; (Cliff) by the same writer, Quan Yongxian. In an <a href="https://inf.news/entertainment/bd5332246260958e06dc8ead644ec3da.html"
+    
+    
+        target="_blank" rel="noopener"
+    
+    >interview</a>, he said that in 2015 he had written the script for this prequel as a 60-episode show. <strong>If this had been a TV show &mdash; or even a book &mdash;, where things could flow in a more friendly pace, this would&rsquo;ve been an absolute must-watch</strong>.</p>
+<p><strong>Overall, it&rsquo;s a very good movie, and I recommend anyone interested to watch it</strong>. Even though you&rsquo;ll scratch your head sometimes and may wish to rewind a bit to understand what is happening, the movie is perfectly enjoyable without the aforementioned flowchart.</p>
+]]></description></item></channel></rss>
