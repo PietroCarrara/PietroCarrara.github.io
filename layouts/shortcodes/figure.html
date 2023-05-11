@@ -50,7 +50,7 @@
             {{ end }}
             {{ if eq .ResourceType "image" }}
                 {{ if $open }}<a href="{{ .Permalink }}" target="_blank" rel="noopener">{{ end }}
-                <img src="{{ $im.Permalink }}" loading="lazy" width="{{ $im.Width }}" height="{{ $im.Height }}" title="{{ $alt }}" alt="{{ $alt }}" class="{{ $class }}">
+                <img src="{{ $im.Permalink }}" loading="lazy" width="{{ $im.Width }}" height="{{ $im.Height }}" title="{{ $caption | markdownify }}" alt="{{ $caption | markdownify }}" aria-description="{{ $alt }}" class="{{ $class }}">
                 {{ if $open }}</a>{{ end }}
             {{ end }}
             {{ if eq .ResourceType "audio" }}
