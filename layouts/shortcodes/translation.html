@@ -1,0 +1,22 @@
+<!--
+    Shortcode to display two line-aligned texts side-by-side
+
+    Arguments:
+        - Inner content: The two texts, in the form:
+
+          This is on the left || This is on the right ~~
+          This is a new line on the left || This is a new line on the right
+-->
+
+{{ $main := .Inner }}
+{{ $lines := split $main "~~" }}
+
+<div class="m-auto">
+{{ range $lines }}
+    {{ $parts := split . "||" }}
+    <div class="row">
+        <div class="baseline p-2 col-half right ">{{ index $parts 0 | safeHTML }}</div>
+        <div class="baseline p-2 col-half">{{ index $parts 1 | safeHTML }}</div>
+    </div>
+{{ end }}
+</div>

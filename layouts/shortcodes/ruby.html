@@ -1,0 +1,29 @@
+<!--
+    Shortcode to display text in characters that have reading cues (pinyin, furigana, ...)
+
+    Arguments:
+        - cue: The space separated list of cues, prefixed by a (single-digit) number indicating how many
+               characters does that cue span, such as: "你好吗?" -> "2nǐ​hǎo​ 1ma".
+               If you have characters that should not be "cued", just insert an empty cue:
+               "你好 吗?" -> "2nǐ​hǎo​ 1 1ma".
+        - Inner content: The main text
+-->
+
+{{- $cue := .Get "cue" -}}
+{{- $main := trim .Inner "\n\t " -}}
+
+{{- $cues := split $cue " " -}}
+
+<ruby>
+{{- range $cues -}}
+    {{- $charCount := int (substr . 0 1) -}}
+
+    {{- $sound := (substr . 1) -}}
+    {{- $display := substr $main 0 $charCount -}}
+
+    {{- $display -}}
+    {{- if gt (len $sound) 0 -}}<rp>(</rp><rt>{{- $sound -}}</rt><rp>)</rp>{{- end -}}
+
+    {{- $main = substr $main $charCount -}}
+{{- end -}}
+</ruby>

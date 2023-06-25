@@ -8,6 +8,9 @@ figcaption > blockquote {
 .w-100 {
     width: 100%;
 }
+.w-80 {
+    width: 80%;
+}
 .w-66 {
     width: 66.66%;
 }
@@ -23,9 +26,24 @@ figcaption > blockquote {
     margin-top: 8px;
     margin-bottom: 8px;
 }
+.my-3 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.p-2 {
+    padding: 8px;
+}
 
 .center {
     text-align: center;
+}
+.right {
+    text-align: right;
+}
+
+.baseline {
+    vertical-align: baseline;
 }
 
 .floating {
@@ -84,4 +102,27 @@ figcaption > blockquote {
         font-size: 36px;
         vertical-align: middle;
     }
+}
+
+.quotation {
+    color: darken($color: $light-color, $amount: 10);
+    padding: 8px 16px;
+    font-style: italic;
+    background-color: $darkest-color;
+    border-left: solid 3px $light-color;
+
+    .author {
+        display: block;
+        text-align: right;
+    }
+}
+
+.row {
+    display: flex;
+}
+
+.col-half {
+    box-sizing: border-box;
+    width: 50%;
+    margin: 0;
 }
