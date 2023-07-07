@@ -1,18 +1,18 @@
 ---
-title: "Uma Prática Rápida de Chinês"
+title: "A Quick Chinese Practice"
 date: 2023-06-25T09:00:47-03:00
 draft: true
 tags:
   - Arcane
-  - Chinês
-  - Tradução
+  - Chinese
+  - Translating
 ---
 
-Faz algumas semanas que eu assisti *Arcane*, a animação que se passa no mundo de *League of Legends* produzida pelo estúdio francês [Fortiche](https://www.forticheprod.com/). Dizer que ela foi excelente seria um eufemismo: eu nem gosto de usar a palavra *série* pra descrever o que eu vi... *produção* parece mais correto. É, Arcane foi uma **produção**. Todos os aspectos -- da animação, da dublagem, da trilha sonora, das músicas-tema -- estavam individualmente perfeitos, e juntos eles formam uma **obra**.
+It's been a few weeks since I've watched *Arcane*, the animated set in *League of Legends'* world produced by French studio [Fortiche](https://www.forticheprod.com/). To say it was excelent would be an understatement: I don't even like using the word *show* to describe what I saw... *production* seems better suited. Yeah, Arcane was a **production**. All of its aspects -- animation, voice acting, soundtrack, theme-songs -- were individually perfect, and together they compose an **opus**.
 
-E falando de músicas-tema, o tema chinês cantado por [Eason Chan](https://en.wikipedia.org/wiki/Eason_Chan) fez um sucesso enorme em seu país de origem. Eu nem sabia da existência dessa música quando acabei de assistir a série; só fui descobrir quando o [clipe apareceu](https://www.youtube.com/watch?v=Hlp8XD0R5qo) nos meus recomendados do YouTube, assim como [versões com outros cantores](https://www.youtube.com/watch?v=Qq-KmtF_tg0). Acabou que eu gostei muito delas, e decidi fazer uma tentativa de tradução pra praticar meu chinês!
+Speaking of theme-songs, the chinese theme sung by [Eason Chan](https://en.wikipedia.org/wiki/Eason_Chan) has been a huge success in its home country. I didn't even know it existed before YouTube recommended me the [music video](https://www.youtube.com/watch?v=Hlp8XD0R5qo) and versions with [different artists](https://www.youtube.com/watch?v=Qq-KmtF_tg0). I ended up linking them a lot, and decided I should translate the song as chinese practice!
 
-## O Processo de Tradução
+## The Process of Translating
 
 Além de ter expandido meu vocabulário, foi divertido implementar suporte para pinyin aqui no blog, assim como o layout de textos lado-a-lado. Também foi bom descobrir o [dicionário da qianp.com](https://cidian.qianp.com/), que apesar de ser de chinês para chinês, é infinitamente mais completo que o [mdbg.net](https://www.mdbg.net/chinese/dictionary).
 
