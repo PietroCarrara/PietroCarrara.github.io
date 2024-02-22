@@ -172,7 +172,7 @@ Para poder avaliar como eu me saí na tarefa, também decidi comparar meu result
   Vamos? Vamos! Pelo mais simples dos sonhos!~~
 
   {{<ruby cue="1zhàn 1ma 1 1zhàn 1a 1 1yǐ 1zuì 2gūgāo 1de 1mèng">}}战吗 战啊 以最孤高的梦{{</ruby>}}||
-  Vamos lutar? Vamos! Pelo arrogante dos sonhos!~~
+  Vamos lutar? Vamos! Pelo mais arrogante dos sonhos!~~
 
   {{<ruby cue="1zhì 1nà 2hēiyè 1zhōng 1de 2wūyè 1yǔ 2nùhǒu">}}致那黑夜中的呜咽与怒吼{{</ruby>}}||
   Por todos os gritos e choros naquela noite escura.~~
