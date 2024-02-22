@@ -19,12 +19,10 @@ languages:
 
 menu:
   main:
-    -
-      identifier: posts
+    - identifier: posts
       name: Posts
       url: /posts/
-    -
-      identifier: tags
+    - identifier: tags
       name: Tags
       url: /tags/
 
@@ -34,20 +32,13 @@ params:
   title: syslog
   fb_app_id: 342520437942701
   social:
-    -
-      icon: github
+    - icon: github
       name: Github
       url: https://github.com/PietroCarrara
-    -
-      icon: mastodon
-      name: Mastodon
-      url: https://dice.camp/@tanuko
-    -
-      icon: film
+    - icon: film
       name: TheMovieDB
       url: https://www.themoviedb.org/list/7066817
-    -
-      icon: book
+    - icon: book
       name: BookWyrm
       url: https://velhaestante.com.br/user/tanuko
   robots:
