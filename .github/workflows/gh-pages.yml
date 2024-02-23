@@ -3,8 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - master # Set a branch to deploy
-  pull_request:
+      - master
 
 jobs:
   deploy:
@@ -12,20 +11,16 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: recursive  # Fetch Hugo themes (true OR recursive)
+          submodules: recursive # Fetch Hugo themes
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - uses: cachix/install-nix-action@v22
         with:
-          hugo-version: '0.96.0'
-          extended: true
+          nix_path: nixpkgs=channel:nixos-unstable
 
-      - name: Build
-        run: hugo
+      - run: nix-build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        # if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./result

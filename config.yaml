@@ -67,3 +67,10 @@ sitemap:
   changefreq: monthly
   filename: sitemap.xml
   priority: 0.5
+
+markup:
+  goldmark:
+    extensions:
+      katex:
+        enable: true
+        warnings: true
