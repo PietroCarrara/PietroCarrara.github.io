@@ -26,6 +26,14 @@ tags:
 - Muito legal a introdução das personagens; são muito bem humoradas!
 - Bear rant + translation damn
 - Puta que pariu `Vellum` é banger demais é ilegalmente banger esse nível
+- `Five-Pointed` também
+- Nossa como dá pena de ver elas brigando entre si... (estou na cena onde a Hedwig dá um tapa na Eustace)
+
+#### Certified Hood Classics Playlist
+
+- Vellum
+- Five-Pointed
+- Scandal!
 
 ### Notas de mystery solving
 
@@ -79,6 +87,8 @@ tags:
 - Adela viu robes atop the abbey wall, indo pegar ar fresco no verão... Passagem secreta pra pessoa sumir?
 - Alguém foi vista por Flora do lado de fora da janela da superior
 - Pegadas de cascos no cloister vistas por Moira
+- A Eustace também tava ausente na primeira vez que o cavaleiro-bode apareceu
+- Não acho que foi a Eustace que matou a Catherine II. Mas ela controla a chave para a espada, e parece nervosa com as perguntas da Hedwig. Será que no dia do assassinato ela perdeu a chave e se sente culpada?
 
 #### Fatos do Assassinato
 
