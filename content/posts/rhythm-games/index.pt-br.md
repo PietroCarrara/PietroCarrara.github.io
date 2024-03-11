@@ -15,7 +15,7 @@ Eu descobri a existência do jogo ouvindo [Undead Corporation](https://open.spot
 
 Mil e uma perguntas vieram à minha cabeça naquele momento: Como ele está movendo um mouse nessa velocidade? Como que alguém clica tão rápido? Não era melhor estar jogando isso num tablet ou algo assim, usando os dedos? E o mais importante: por que isso parece tão legal? Será que tem umas fases mais fáceis pra eu jogar? Indo atrás de respostas, descobri que o jogo era o osu!, um jogo de ritmo gratuito para _desktop_. Como na época eu estava passando férias na casa da minha vó no interior de Minas, eu estava sem PC. Pesquisando uma versão mobile do jogo, eu dei sorte e realmente achei uma: o [opsu!](https://itdelatrisu.github.io/opsu/), uma implementação de osu! que podia rodar em dispositivos Android.
 
-![Opsu!(Beatmap player for Andro – Apps no Google Play](api/images/T5SDujyZ36bV/image.webp)
+![Opsu!(Beatmap player for Andro – Apps no Google Play](https://library.pbcarrara.com.br/share/api/images/T5SDujyZ36bV/image.webp)
 
 Tela inicial do opsu!
 
@@ -27,13 +27,13 @@ Foi só quando larguei o LoL um tempo depois que voltei a pensar no osu!. Agora 
 
 Assim eu desci um final de semana inteiro jogando. E aquilo mudou minha vida. Poder jogar algo ao mesmo tempo que ouvia minhas músicas favoritas (e descobria novas) era revigorante quando comparado ao _stress_ de LoL. O jogo também era recompensador: conseguir os 98% de precisão naquela música que você treina de novo e de novo não tem comparação. Outra coisa que me viciou na experiência era a sensação de melhorar. Eu não estava subindo de níveis, desbloqueando poderes, nem comprando equipamentos mais fortes. Estava tudo igual à primeira vez que joguei, exceto que agora EU era melhor. Dava quase pra sentir a melhoria no ar de tão tangível que ela era.
 
-![](api/images/bts9m0srFKzb/image)
+![](https://library.pbcarrara.com.br/share/api/images/bts9m0srFKzb/image)
 
 Dá pra ver que em 2016 eu viciei mesmo no osu!
 
-E assim esse jogo me rendeu horas e mais horas de diversão. 329 delas no momento em que escrevo, para ser exato. Cheguei até a comprar uma mesa digitalizadora ([tema do primeiro post nesse blog](https://posts/2020-08-25-hs64-tablet-drivers/)) para aproveitar mais o jogo. Apesar disso, nunca me tornei um “bom” jogador: eu podia até impressionar meus amigos ou estranhos na internet; mas, para alguém entendido do assunto, ficava na cara que eu era apenas um jogador normal. Isso não me incomodava, o jogo era divertido do jeito que estava. Com o passar do tempo, a minha curva de melhoria foi atingindo um platô. Eu ainda me sinto melhorar toda vez que jogo, mas não tanto quanto naqueles dois ou três primeiros anos de jogo.
+E assim esse jogo me rendeu horas e mais horas de diversão. 329 delas no momento em que escrevo, para ser exato. Cheguei até a comprar uma mesa digitalizadora ([tema do primeiro post nesse blog!](https://posts/2020-08-25-hs64-tablet-drivers/)) para aproveitar mais o jogo. Apesar disso, nunca me tornei um “bom” jogador: eu podia até impressionar meus amigos ou estranhos na internet; mas, para alguém entendido do assunto, ficava na cara que eu era apenas um jogador normal. Isso não me incomodava, o jogo era divertido do jeito que estava. Com o passar do tempo, a minha curva de melhoria foi atingindo um platô. Eu ainda me sinto melhorar toda vez que jogo, mas não tanto quanto naqueles dois ou três primeiros anos.
 
-Aliás, uma coisa muito interessante sobre os jogos de ritmo é como as suas habilidades são parcialmente transferíveis de um jogo para outro.  Após treinar a coordenação visual-motora no osu!, seu desempenho no Guitar Hero certamente será melhor. Minha prática então abriu as portas para começar a experimentar jogos diferentes, cada um com alguma inovação ou curiosidade diferente.
+Aliás, uma coisa muito interessante desse gênero é como as suas habilidades são parcialmente transferíveis entre jogos. Após treinar a coordenação visual-motora no osu!, seu desempenho no Guitar Hero certamente será melhor. Minha prática então abriu as portas para começar a experimentar outros jogos, cada um com alguma inovação ou curiosidade diferente.
 
 ## Explorando a Vizinhança
 
@@ -48,3 +48,4 @@ No ano seguinte, em 2017, eu comprei um PSP, 12 anos depois do lançamento do co
 - Pedro me levou no total jogar DDR, e lá tinha até Taiko
 - Umineko foi por causa de osu!
 - Touhou foi por causa de osu!
+- Me desafiar com um desafio mais difícil de CTF foi por ausa de osu!
