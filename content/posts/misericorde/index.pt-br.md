@@ -34,6 +34,7 @@ tags:
 - Vellum
 - Five-Pointed
 - Scandal!
+- Each Day Here (Wrong RPM)
 
 ### Notas de mystery solving
 
@@ -89,6 +90,11 @@ tags:
 - Pegadas de cascos no cloister vistas por Moira
 - A Eustace também tava ausente na primeira vez que o cavaleiro-bode apareceu
 - Não acho que foi a Eustace que matou a Catherine II. Mas ela controla a chave para a espada, e parece nervosa com as perguntas da Hedwig. Será que no dia do assassinato ela perdeu a chave e se sente culpada?
+- Isso que a Soup tá falando é verdade. Por mais eu não pense que a Katherine esteja mentindo sobre namorar o James, pode ser uma mentira coordenada
+- Catherine?? Por que você trancou a Flora numa caixa??
+- Tinha lobos aqui antes? Por que não mais?
+- Incêndio no dormitório? Combustível em excesso na fogueira?
+- Visão grande e fudida da Catherine
 
 #### Fatos do Assassinato
 
