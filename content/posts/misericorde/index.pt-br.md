@@ -35,6 +35,11 @@ tags:
 - Five-Pointed
 - Scandal!
 - Each Day Here (Wrong RPM)
+- Sacristan
+- Synnar
+- Bile Black
+- A Vision
+- Aultre Venus
 
 ### Notas de mystery solving
 
@@ -95,6 +100,19 @@ tags:
 - Tinha lobos aqui antes? Por que não mais?
 - Incêndio no dormitório? Combustível em excesso na fogueira?
 - Visão grande e fudida da Catherine
+- A porta da cela da Hedwig abre na direção oposta?
+- E agora ela está destrancada
+- Catherine é irlandesa
+- Será que James roubava animais?
+- Por quê que elas PRECISAM entregar a comida 100% e concluir isso? Qq a Moira falou pra Eustace?
+- Carai, o marido da Katherine realmente perdeu a cabeça
+- A Eustace sem óculos não veria porra nenhuma
+- A Soup (Mabel) escolhe as irmãs a dedo?
+
+#### Álibis
+
+- Angela e Soup: Discutindo no escritório da Superior
+- Katherine e James: Namorando no quarto
 
 #### Fatos do Assassinato
 
