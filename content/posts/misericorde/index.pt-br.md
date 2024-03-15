@@ -28,6 +28,11 @@ tags:
 - Puta que pariu `Vellum` é banger demais é ilegalmente banger esse nível
 - `Five-Pointed` também
 - Nossa como dá pena de ver elas brigando entre si... (estou na cena onde a Hedwig dá um tapa na Eustace)
+- Tadinha da Angela toda excluída e não sabe como melhorar a situação...
+- Ai meu deus ainda tem o pote de tinta da Moira... Que horror
+- Meus Deus se uma irmã morrer agora ia ser muito doido
+- Puta merda tô achando que a Flora morreu mesmo (ou fugiu, o que é mais provável)
+- HOLY SHIT QUE FINAL EXTRA FODAAA
 
 #### Certified Hood Classics Playlist
 
@@ -40,6 +45,9 @@ tags:
 - Bile Black
 - A Vision
 - Aultre Venus
+- Saltarello
+- Violence
+- More than most
 
 ### Notas de mystery solving
 
@@ -52,7 +60,7 @@ tags:
 - Gritos do banho podem ser ouvidos da cozinha
 - Angela very angry... why
 - Katherine e Margaret são super sneaky
-- As orações escritas que Hedwig deveria ler para as pessoas nunca chegaram à ela
+- As orações escritas que Hedwig deveria ler para as pessoas nunca chegaram a ela
 - Era missão da Catherine entregar as cartas
 - A superior tem vinho caro
 - Novo testamento vs. Velho testamento? Monastério velho vs novo? Não sei qual é o ponto aqui
@@ -102,12 +110,21 @@ tags:
 - Visão grande e fudida da Catherine
 - A porta da cela da Hedwig abre na direção oposta?
 - E agora ela está destrancada
+- Quem botou o livro de Hedwig de volta na cela dela?
 - Catherine é irlandesa
 - Será que James roubava animais?
 - Por quê que elas PRECISAM entregar a comida 100% e concluir isso? Qq a Moira falou pra Eustace?
 - Carai, o marido da Katherine realmente perdeu a cabeça
 - A Eustace sem óculos não veria porra nenhuma
 - A Soup (Mabel) escolhe as irmãs a dedo?
+- Onde estava a adaga da Angela até ela ser achada recentemente?
+- Quem está ouvindo a história é mulher também eu acho
+- Que tipo de conspiração a Catherine encontrou para ser morta? Algo sobre a construção desse lugar?
+- O que que o hebraico na espada da Catherine quer dizer?
+- Quem estava chorando perto da cela antiga da Hedwig? Acho que era a Flora mesmo
+- O que é esse bode na abadia? Alguma irmã tentando assustar as outras?
+- Por que o hospitalum tem um calabouço?
+- Essas manchas de vinho podem acobertar robes sangrentos
 
 #### Álibis
 
@@ -117,11 +134,31 @@ tags:
 #### Fatos do Assassinato
 
 - Começamos a trabalhar em 10 de Novembro
-- Catherine foi encontrada no Cloister na primeira manhã de novembro
+- Catherine foi encontrada no Cloister na primeira manhã de novembro por Charity
 - Deitada de costas no chão, espada cravada na terra (parece um crucifixo)
 - A lâmina estava limpa
 - Cabeça decepada, posicionada nas mãos
 - O garoto dos estábulos estava limpo, mas sua capa foi encontrada noutro canto, suja de sangue
+
+##### Ordem
+
+1. Eustace acorda cedo para trabalhar na biblioteca (Eustace)
+2. Charity encontra o corpo na primeira manhã de novembro (Angela)
+3. Charity alerta a Superior em seu escritório, onde também se encontrava Angela (Angela)
+4. Eustace alerta a Superior em seu escritório, onde também se encontrava Angela. As duas preparavam as liturgias da manhã (Eustace)
+5. Adela subia do porão, sem ter achado nada (Eustace)
+6. Saindo do escritório, Angela encontra Eustace subindo do porão, e pede que ela acorde as meninas para uma busca no lado oeste (Angela)
+7. Eustace, a Superior e Moira cuiraram do corpo enquanto a busca continuava (Eustace)
+8. Moira e Eustace levam o corpo para o altar e o cobrem com um lençol até o momento do enterro (Eustace)
+9. Angela busca pelo lado leste enquanto a Superior conforta Charity (Angela)
+10. Marta conforta Charity enquanto as outras buscam o assassino (Eustace)
+11. Eustace busca na misericorde, biblioteca e upstairs. Darcy, os dormitórios (Eustace)
+12. Angela achou o menino das entregas se escondendo no lado leste (Eustace)
+13. Angela encontra James fugindo, e Darcy descobre sua capa ensanguentada perto de sua carroça no lado oeste (Angela)
+14. Eustace disse que era normal ele estar aqui de manhã, até que Darcy traz a capa (Eustace)
+15. A Superior e Moira o levam ao hospitalum (Eustace)
+
+- As irmãs descobrem que perder a cabeça não foi o único ferimento de Catherine (Eustace)
 
 #### Teorias
 
