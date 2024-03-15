@@ -34,7 +34,7 @@ tags:
 - Puta merda tô achando que a Flora morreu mesmo (ou fugiu, o que é mais provável)
 - HOLY SHIT QUE FINAL EXTRA FODAAA
 
-#### Certified Hood Classics Playlist
+#### Certified Abbey Classics Playlist
 
 - Vellum
 - Five-Pointed
