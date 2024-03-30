@@ -3,6 +3,7 @@ draft: true
 title: "Misericorde"
 date: 2024-02-21T22:50:00-03:00
 description: "Notas da minha gameplay de Misericorde"
+disclaimer: "Esse artigo usa linguagem neutra quando se referindo ae autore do jogo, que se identifica como não-binarie. Se é sua primeira vez encontrando texto assim, [esse guia](https://portal.unila.edu.br/informes/manual-de-linguagem-neutra/Manualdelinguagemneutraport.pdf) me ajudou a entender melhor esses construtos novos da língua portuguesa."
 schema:
   type: "UserReview"
   custom:
@@ -33,6 +34,17 @@ tags:
 - Meus Deus se uma irmã morrer agora ia ser muito doido
 - Puta merda tô achando que a Flora morreu mesmo (ou fugiu, o que é mais provável)
 - HOLY SHIT QUE FINAL EXTRA FODAAA
+
+# Quem Diria
+
+Quem diria que eu estaria escrevendo sobre outra visual novel de mistérios antes de algum livro que nosso [grupo de leituras de mistério](https://velhaestante.com.br/user/tanuko/books/ufrgsmysteryclub-1598) já leu... O que é engraçado, e dá a impressão ao leitor deste blog que eu sou uma pessoa que consome muito desse tipo de mídia. Bom, não é culpa minha que as 3 VNs que eu já li foram muito boas (o suficiente para restaurar meu hábito de leituras que eu perdi depois dos 13 anos). Inclusive, se você se encontra na situação de ter perdido um hábito de leitura que possuia anteriormente, essas visual novels podem ser um pequeno passo no caminho de recuperá-lo. Talvez os elementos de jogo de Danganronpa tornem as cenas de leitura mais palatáveis; quem sabe a dublagem e trilha sonora de [Umineko]({{<ref "2022-04-10-umineko" >}}) te animem ao longo da leitura? Ou uma obra com muito estilo (e com uma vantagem que as outras duas não podem ter!) como a que vamos falar hoje possa ser de seu interesse?
+
+_[Misericorde: Volume 1](https://store.steampowered.com/app/1708110/Misericorde_Volume_One/)_ é a primeira entrada em uma "suposta" trilogia. Meu uso das aspas aqui se dá pelo fato de que, no momento em que escrevo este texto, o segundo volume só existe na forma de um _teaser trailer_, e o terceiro é apenas uma ideia na cabeça de sue autore. Também é uma obra com alcançe muito menor das obras que já li antes, todas famosas ao ponto de merecerem traduções para diversos idiomas (enquanto que _Misericorde_ está disponível apenas em seu idioma materno, inglês). Mas esse jogo possui uma vantagem que nenhum dos livros que nós lemos possui: ele ainda não está concluido!
+
+# Sobre Mistérios e Discussões
+
+- Falar sobre o Windmill House Murders, e como resolver ele em grupo foi tão satisfatório
+- Umineko fala sobre como ler o mistério é apenas metade da diversão (linha 426177)
 
 #### Certified Abbey Classics Playlist
 
