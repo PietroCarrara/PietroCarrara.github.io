@@ -18,7 +18,7 @@ let
 
     doCheck = false;
     proxyVendor = true;
-    vendorHash = "sha256-pGQn/O0AjTuof2dnrKjkYFEk4i4PLmWOdpCXOL32Mic=";
+    vendorHash = "sha256-Kh8epqCSkB+ymLiU5ihkhKQ0xGLV7yCQur1OKXCVL7I=";
 
     tags = [ "extended" ];
 
