@@ -1,5 +1,6 @@
 ---
 draft: true
+katex: true
 title: "Misericorde"
 date: 2024-02-21T22:50:00-03:00
 description: "Notas da minha gameplay de Misericorde"
@@ -41,6 +42,10 @@ Quem diria que eu estaria escrevendo sobre outra visual novel de mistérios ante
 
 _[Misericorde: Volume 1](https://store.steampowered.com/app/1708110/Misericorde_Volume_One/)_ é a primeira entrada em uma "suposta" trilogia. Meu uso das aspas aqui se dá pelo fato de que, no momento em que escrevo este texto, o segundo volume só existe na forma de um _teaser trailer_, e o terceiro é apenas uma ideia na cabeça de sue autore. Também é uma obra com alcançe muito menor das obras que já li antes, todas famosas ao ponto de merecerem traduções para diversos idiomas (enquanto que _Misericorde_ está disponível apenas em seu idioma materno, inglês). Mas esse jogo possui uma vantagem que nenhum dos livros que nós lemos possui: ele ainda não está concluido!
 
+{{<figure src="images/chapelcrowd.gif" alt="Uma foto em preto e branco do interior de uma igreja. Nos bancos de reza, há ilustrações em tons de cinza de 10 irmãs." >}}
+Apesar da arte em tons de cinza, as personalidades de todas as personagens são bem coloridas.
+{{</figure>}}
+
 # Sobre Mistérios e Discussões
 
 Mas como pode uma coisa como a obra não estar concluída ser um ponto positivo? Não seria melhor ter toda a trilogia publicada para que pudéssemos lê-la por completo? Afinal de contas, quem leria _A Pedra Filosofal_ e ficaria feliz que _A Câmara Secreta_ não foi lançada ainda?
@@ -49,15 +54,21 @@ E isso é verdade também! Ao final das 20 horas de "gameplay" é difícil ter d
 
 Mas, como já foi citado anteriormente nesse blog, "existe uma grande diferença entre esperar placidamente a chegada da resposta e participar animosamente de sua dedução". Uma das primeiras coisas que fazemos no grupo de leituras de mistério é definir um "ponto de corte": um capítulo ou seção do livro onde todos devemos parar de ler e nos reunir para discutirmos o que achamos da leitura até agora, e compartilhar nossas notas e teorias. E essa é sempre a melhor parte dos mistérios que lemos; uma coisa que não está em nenhum capítulo nem página do livro, mas que existe no vão entre um capítulo e outro, onde as pistas já foram todas reveladas, mas antes de que o detetive possa gritar _J'Accuse...!_
 
-Quando chegamos no ponto de corte de _[The Mill House Murders](https://velhaestante.com.br/book/52594/s/the-mill-house-murders)_, nós 3 estávamos cabisbaixos e sem nenhuma teoria para compartilhar. Nosso "arsenal de provas" se resumia a algumas notas soltas e trechos que destacamos ao longo da leitura. Começamos a sessão relembrando fatos e tentando montar pelo menos algum chute, mas por pouco mais de meia hora foram tiros no escuro... Até que um de nós lembrou um fato mais curioso (que não listarei aqui, tanto por não lembrar quanto para não dar _spoilers_), levantando algum debate, seguido de mais outras lembranças e debates, até que quando percebemos, cada um de nós havia colaborado com um pedaço de uma teoria absolutamente sólida (e, eventualmente, correta!). Foram duas horas de três pessoas freneticamente folheando o livro numa chamada de voz para buscar os trechos relevantes e audivelmente gritando de surpresa ao encontrar algo que avançasse nossas hipóteses. Ler o livro não chega nem aos pés daquela sensação, todos absolutamente imersos na discussão e eletrizados ao fazer conexões. Sem esse grupo de amigos para ler juntos, o livro teria sido apenas uma nota de rodapé nesse artigo, e não o protagonista de um parágrafo inteiro, merecedor do título de melhor leitura do meu ano de 2023. E, infelizmente, essa experiência não vem inclusa por padrão em obras de mistério (afinal, é necessário juntar um grupo de pessoas para ter com quem discutir).
+Quando chegamos no ponto de corte de _[The Mill House Murders](https://velhaestante.com.br/book/52594/s/the-mill-house-murders)_, nós 3 estávamos cabisbaixos e sem nenhuma teoria para compartilhar. Nosso "arsenal de provas" se resumia a algumas notas soltas e trechos que destacamos ao longo da leitura. Começamos a sessão relembrando fatos e tentando montar pelo menos algum chute, mas por pouco mais de meia hora foram tiros no escuro... Até que um de nós lembrou um fato mais curioso (que não listarei aqui, tanto por não lembrar quanto para não dar _spoilers_), levantando algum debate, seguido de mais outras lembranças e discussões, até que quando percebemos, cada um de nós havia colaborado com um pedaço de uma teoria absolutamente sólida (e, eventualmente, correta!). Foram duas horas de três pessoas freneticamente folheando o livro numa chamada de voz para buscar os trechos relevantes e audivelmente gritando de surpresa ao encontrar algo que avançasse nossas hipóteses. Ler o livro não chega nem aos pés daquela sensação, todos absolutamente imersos na discussão e eletrizados ao fazer conexões. Sem esse grupo de amigos para ler juntos, o livro teria sido apenas uma nota de rodapé nesse artigo, e não o protagonista de um parágrafo inteiro, merecedor do título de melhor leitura do meu ano de 2023. E, infelizmente, essa experiência não vem inclusa por padrão em obras de mistério (afinal, é necessário juntar um grupo de pessoas para ter com quem discutir).
 
-Felizmente, estamos falando de _Misericorde_ aqui! Uma obra que não possui solução ainda, publicada exclusivamente através de canais digitais, onde todos os leitores se encontram (atualmente) tendo lido 1/3 de sua história. Esses fatores se combinam e transformam os fóruns da comunidade em terras férteis para se discutir e propor teorias!
+{{<figure src="images/swordonly.png" alt="Arte em tons de cinza de uma espada cravada em na grama." >}}
+Qual das irmãs seria capaz de cometer um ato de violência tão horrendo?
+{{</figure>}}
+
+Felizmente, não estamos falando de _The Mill House Murders_, mas sim de _Misericorde_ aqui! Uma obra que não possui solução ainda, publicada exclusivamente através de canais digitais, onde todos a comunidade se encontra (atualmente) tendo lido $\frac{1}{3}$ de sua história. Esses fatores se combinam e transformam os fóruns de discussão em terras férteis para se debater e propor teorias!
 
 - Umineko fala sobre como ler um mistério é apenas metade da diversão (linha 426177)
 
 # O Quê Está Acontecendo na Abadia De Linbarrow? (TODO: Mudar esse título)
 
-A história acompanha Hedwig, uma anacoreta (monge vivendo em seclusão dedicando sua vida à Deus) que é tirada de seu isolamento para investigar o assassinato de uma irmã. Ela é escolhida pela madre da abadia de Linbarrow para o trabalho por ter um álibi inabalável: estar confinada à sua cela quando o crime ocorreu.
+A história acompanha Hedwig, uma anacoreta (monge vivendo em seclusão dedicando sua vida a Deus) que é tirada de seu isolamento para investigar o assassinato de uma irmã. Ela é escolhida pela madre da abadia de Linbarrow para o trabalho por ter um álibi inabalável: estar confinada à sua cela quando o crime ocorreu. Mas mesmo tendo passado sua vida inteira nesta abadia, devido à sua reclusão total, Hedwig ainda é uma estranha no ninho. Ela precisa ao mesmo tempo aprender a viver com essas irmãs, e descobrir qual delas poderia ter assassinado outra.
+
+A história é mais do que apenas um mistério: as personages secundárias desempenham um papel de personagens _de verdade_, ao invés de servirem apenas de suspeitas guardando segredos como em uma história mais tradicional. A todo momento, Hedwig está tendo que lidar com essas mulheres, munida apenas de suas ideias ingênuas de como funciona o mundo ou de como uma freira deveria se portar. Os inevitáveis conflitos e ansiedades que acompanham as relações da protagonista com o resto do elenco faz de todas as personagens seres muito humanos, e tornam os momentos de alegria mais tocantes, quando são formados laços verdadeiros de amizade.
 
 #### Certified Abbey Classics Playlist
 
