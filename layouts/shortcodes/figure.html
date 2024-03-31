@@ -46,11 +46,11 @@
     <div class="w-100 center my-2">
         <figure class="w-100 m-auto maxw-600px">
             {{ if eq .ResourceType "video" }}
-                <video muted autoplay loop tabindex="0" aria-description="{{ $alt }}" src="{{ .Permalink }}" class="w-100 {{ $class }}"></video>
+                <video muted autoplay loop tabindex="0" title="{{ $alt }}" aria-description="{{ $alt }}" src="{{ .Permalink }}" class="w-100 {{ $class }}"></video>
             {{ end }}
             {{ if eq .ResourceType "image" }}
                 {{ if $open }}<a href="{{ .Permalink }}" target="_blank" rel="noopener">{{ end }}
-                <img src="{{ $im.Permalink }}" loading="lazy" width="{{ $im.Width }}" height="{{ $im.Height }}" title="{{ $caption | markdownify }}" alt="{{ $caption | markdownify }}" aria-description="{{ $alt }}" class="{{ $class }}">
+                <img src="{{ $im.Permalink }}" loading="lazy" width="{{ $im.Width }}" height="{{ $im.Height }}" title="{{ $alt }}" alt="{{ $alt }}" class="{{ $class }}">
                 {{ if $open }}</a>{{ end }}
             {{ end }}
             {{ if eq .ResourceType "audio" }}
