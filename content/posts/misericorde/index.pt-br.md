@@ -35,7 +35,7 @@ tags:
 - Puta merda tô achando que a Flora morreu mesmo (ou fugiu, o que é mais provável)
 - HOLY SHIT QUE FINAL EXTRA FODAAA
 
-# Quem Diria
+# Quem Diria...
 
 Quem diria que eu estaria escrevendo sobre outra visual novel de mistérios antes de algum livro que nosso [grupo de leituras de mistério](https://velhaestante.com.br/user/tanuko/books/ufrgsmysteryclub-1598) já leu... O que é engraçado, e dá a impressão ao leitor deste blog que eu sou uma pessoa que consome muito desse tipo de mídia. Bom, não é culpa minha que as 3 VNs que eu já li foram muito boas (o suficiente para restaurar meu hábito de leituras que eu perdi depois dos 13 anos). Inclusive, se você se encontra na situação de ter perdido um hábito de leitura que possuia anteriormente, essas visual novels podem ser um pequeno passo no caminho de recuperá-lo. Talvez os elementos de jogo de Danganronpa tornem as cenas de leitura mais palatáveis; quem sabe a dublagem e trilha sonora de [Umineko]({{<ref "2022-04-10-umineko" >}}) te animem ao longo da leitura? Ou uma obra com muito estilo (e com uma vantagem que as outras duas não podem ter!) como a que vamos falar hoje possa ser de seu interesse?
 
@@ -43,8 +43,21 @@ _[Misericorde: Volume 1](https://store.steampowered.com/app/1708110/Misericorde_
 
 # Sobre Mistérios e Discussões
 
-- Falar sobre o Windmill House Murders, e como resolver ele em grupo foi tão satisfatório
-- Umineko fala sobre como ler o mistério é apenas metade da diversão (linha 426177)
+Mas como pode uma coisa como a obra não estar concluída ser um ponto positivo? Não seria melhor ter toda a trilogia publicada para que pudéssemos lê-la por completo? Afinal de contas, quem leria _A Pedra Filosofal_ e ficaria feliz que _A Câmara Secreta_ não foi lançada ainda?
+
+E isso é verdade também! Ao final das 20 horas de "gameplay" é difícil ter de aceitar que, para continuar a história, você terá de esperar 1 ano ou mais até que o próximo volume seja publicado. São apresentados inúmeros mistérios e nenhuma resposta, deixando o leitor morrendo de ansiedade para entender o que está acontecendo na abadia de Linbarrow.
+
+Mas, como já foi citado anteriormente nesse blog, "existe uma grande diferença entre esperar placidamente a chegada da resposta e participar animosamente de sua dedução". Uma das primeiras coisas que fazemos no grupo de leituras de mistério é definir um "ponto de corte": um capítulo ou seção do livro onde todos devemos parar de ler e nos reunir para discutirmos o que achamos da leitura até agora, e compartilhar nossas notas e teorias. E essa é sempre a melhor parte dos mistérios que lemos; uma coisa que não está em nenhum capítulo nem página do livro, mas que existe no vão entre um capítulo e outro, onde as pistas já foram todas reveladas, mas antes de que o detetive possa gritar _J'Accuse...!_
+
+Quando chegamos no ponto de corte de _[The Mill House Murders](https://velhaestante.com.br/book/52594/s/the-mill-house-murders)_, nós 3 estávamos cabisbaixos e sem nenhuma teoria para compartilhar. Nosso "arsenal de provas" se resumia a algumas notas soltas e trechos que destacamos ao longo da leitura. Começamos a sessão relembrando fatos e tentando montar pelo menos algum chute, mas por pouco mais de meia hora foram tiros no escuro... Até que um de nós lembrou um fato mais curioso (que não listarei aqui, tanto por não lembrar quanto para não dar _spoilers_), levantando algum debate, seguido de mais outras lembranças e debates, até que quando percebemos, cada um de nós havia colaborado com um pedaço de uma teoria absolutamente sólida (e, eventualmente, correta!). Foram duas horas de três pessoas freneticamente folheando o livro numa chamada de voz para buscar os trechos relevantes e audivelmente gritando de surpresa ao encontrar algo que avançasse nossas hipóteses. Ler o livro não chega nem aos pés daquela sensação, todos absolutamente imersos na discussão e eletrizados ao fazer conexões. Sem esse grupo de amigos para ler juntos, o livro teria sido apenas uma nota de rodapé nesse artigo, e não o protagonista de um parágrafo inteiro, merecedor do título de melhor leitura do meu ano de 2023. E, infelizmente, essa experiência não vem inclusa por padrão em obras de mistério (afinal, é necessário juntar um grupo de pessoas para ter com quem discutir).
+
+Felizmente, estamos falando de _Misericorde_ aqui! Uma obra que não possui solução ainda, publicada exclusivamente através de canais digitais, onde todos os leitores se encontram (atualmente) tendo lido 1/3 de sua história. Esses fatores se combinam e transformam os fóruns da comunidade em terras férteis para se discutir e propor teorias!
+
+- Umineko fala sobre como ler um mistério é apenas metade da diversão (linha 426177)
+
+# O Quê Está Acontecendo na Abadia De Linbarrow? (TODO: Mudar esse título)
+
+A história acompanha Hedwig, uma anacoreta (monge vivendo em seclusão dedicando sua vida à Deus) que é tirada de seu isolamento para investigar o assassinato de uma irmã. Ela é escolhida pela madre da abadia de Linbarrow para o trabalho por ter um álibi inabalável: estar confinada à sua cela quando o crime ocorreu.
 
 #### Certified Abbey Classics Playlist
 
