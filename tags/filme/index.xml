@@ -38,7 +38,7 @@
     <div class="w-100 center my-2">
         <figure class="w-100 m-auto maxw-600px">
             
-                <video muted autoplay loop tabindex="0" aria-description="Cena de luta entre Jackie Chan e Linda Lin. Ela dá um pau no Jackie apenas com chutes." src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-linda-lin.mp4" class="w-100 floating"></video>
+                <video muted autoplay loop tabindex="0" title="Cena de luta entre Jackie Chan e Linda Lin. Ela dá um pau no Jackie apenas com chutes." aria-description="Cena de luta entre Jackie Chan e Linda Lin. Ela dá um pau no Jackie apenas com chutes." src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-linda-lin.mp4" class="w-100 floating"></video>
             
             
             
@@ -88,7 +88,7 @@
             
             
                 <a href="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/images/eva-dancing.jpg" target="_blank" rel="noopener">
-                <img src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/images/eva-dancing_hu3c1b0c430d98e6c79974eccd97e71882_208255_600x460_fit_q75_h2_box.webp" loading="lazy" width="600" height="373" title="Os pilotos dos Evas têm de lutar em sincronia para derrotar um inimigo que se clona no episódio 9." alt="Os pilotos dos Evas têm de lutar em sincronia para derrotar um inimigo que se clona no episódio 9." aria-description="Um par de robôs gigantes lado a lado na mesma pose, lutando contra um par de aliens, também na mesma pose." class="floating">
+                <img src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/images/eva-dancing_hu3c1b0c430d98e6c79974eccd97e71882_208255_600x460_fit_q75_h2_box.webp" loading="lazy" width="600" height="373" title="Um par de robôs gigantes lado a lado na mesma pose, lutando contra um par de aliens, também na mesma pose." alt="Um par de robôs gigantes lado a lado na mesma pose, lutando contra um par de aliens, também na mesma pose." class="floating">
                 </a>
             
             
@@ -171,7 +171,7 @@
     <div class="w-100 center my-2">
         <figure class="w-100 m-auto maxw-600px">
             
-                <video muted autoplay loop tabindex="0" aria-description="Cena de luta entre o Jackie Chan e o Yuen Siu-tien. Ela é boa, mas o ritmo é pouco dinâmico: vai, e volta, e vai, e volta..." src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-yuen-siu-tin.mp4" class="w-100 floating"></video>
+                <video muted autoplay loop tabindex="0" title="Cena de luta entre o Jackie Chan e o Yuen Siu-tien. Ela é boa, mas o ritmo é pouco dinâmico: vai, e volta, e vai, e volta..." aria-description="Cena de luta entre o Jackie Chan e o Yuen Siu-tien. Ela é boa, mas o ritmo é pouco dinâmico: vai, e volta, e vai, e volta..." src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-yuen-siu-tin.mp4" class="w-100 floating"></video>
             
             
             
@@ -222,7 +222,7 @@ Esse é um de seus trabalhos mais antigos.</figcaption>
             
             
                 <a href="https://pietrocarrara.github.io/posts/2021-07-28-cliff-walkers-2021-review/images/cliff-walkers-1.jpg" target="_blank" rel="noopener">
-                <img src="https://pietrocarrara.github.io/posts/2021-07-28-cliff-walkers-2021-review/images/cliff-walkers-1_hu294199021d3661b22e6615e8e5872821_129270_600x460_fit_q75_h2_box.webp" loading="lazy" width="600" height="251" title="Um sumário visual da atmosfera do filme." alt="Um sumário visual da atmosfera do filme." aria-description="Uma espiã com um chapéu preto observando de um canto." class="floating">
+                <img src="https://pietrocarrara.github.io/posts/2021-07-28-cliff-walkers-2021-review/images/cliff-walkers-1_hu294199021d3661b22e6615e8e5872821_129270_600x460_fit_q75_h2_box.webp" loading="lazy" width="600" height="251" title="Uma espiã com um chapéu preto observando de um canto." alt="Uma espiã com um chapéu preto observando de um canto." class="floating">
                 </a>
             
             

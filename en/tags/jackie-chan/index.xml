@@ -38,7 +38,7 @@
     <div class="w-100 center my-2">
         <figure class="w-100 m-auto maxw-600px">
             
-                <video muted autoplay loop tabindex="0" aria-description="Fight scene featuring Jackie Chan and Linda Lin. She owns him using only kicks." src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-linda-lin.mp4" class="w-100 floating"></video>
+                <video muted autoplay loop tabindex="0" title="Fight scene featuring Jackie Chan and Linda Lin. She owns him using only kicks." aria-description="Fight scene featuring Jackie Chan and Linda Lin. She owns him using only kicks." src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-linda-lin.mp4" class="w-100 floating"></video>
             
             
             
@@ -88,7 +88,7 @@
             
             
                 <a href="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/images/eva-dancing.jpg" target="_blank" rel="noopener">
-                <img src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/images/eva-dancing_hu3c1b0c430d98e6c79974eccd97e71882_208255_600x460_fit_q75_h2_box.webp" loading="lazy" width="600" height="373" title="The Eva pilots must fight in sync to defeat a cloning enemy in episode 9." alt="The Eva pilots must fight in sync to defeat a cloning enemy in episode 9." aria-description="A pair of mechas fighting side by side, against a pair of aliens." class="floating">
+                <img src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/images/eva-dancing_hu3c1b0c430d98e6c79974eccd97e71882_208255_600x460_fit_q75_h2_box.webp" loading="lazy" width="600" height="373" title="A pair of mechas fighting side by side, against a pair of aliens." alt="A pair of mechas fighting side by side, against a pair of aliens." class="floating">
                 </a>
             
             
@@ -171,7 +171,7 @@
     <div class="w-100 center my-2">
         <figure class="w-100 m-auto maxw-600px">
             
-                <video muted autoplay loop tabindex="0" aria-description="Fight scene featuring Jackie Chan and Yuen Siu-tien. It&#39;s good, but the rhythm is not very dynamic: it just goes back and forth, and back, and forth..." src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-yuen-siu-tin.mp4" class="w-100 floating"></video>
+                <video muted autoplay loop tabindex="0" title="Fight scene featuring Jackie Chan and Yuen Siu-tien. It&#39;s good, but the rhythm is not very dynamic: it just goes back and forth, and back, and forth..." aria-description="Fight scene featuring Jackie Chan and Yuen Siu-tien. It&#39;s good, but the rhythm is not very dynamic: it just goes back and forth, and back, and forth..." src="https://pietrocarrara.github.io/posts/2021-08-07-drunken-master-1978-review/videos/jackie-chan-vs-yuen-siu-tin.mp4" class="w-100 floating"></video>
             
             
             
