@@ -62,7 +62,7 @@ Qual das irmãs seria capaz de cometer um ato de violência tão horrendo?
 
 Felizmente, não estamos falando de _The Mill House Murders_, mas sim de _Misericorde_ aqui! Uma obra que não possui solução ainda, publicada exclusivamente através de canais digitais, onde todos a comunidade se encontra (atualmente) tendo lido $\frac{1}{3}$ de sua história. Esses fatores se combinam e transformam os fóruns de discussão em terras férteis para se debater e propor teorias!
 
-- Umineko fala sobre como ler um mistério é apenas metade da diversão (linha 426177)
+- Umineko fala sobre como ler um mistério éni apenas metade da diversão (linha 426177)
 
 # O Quê Está Acontecendo na Abadia De Linbarrow? (TODO: Mudar esse título)
 
